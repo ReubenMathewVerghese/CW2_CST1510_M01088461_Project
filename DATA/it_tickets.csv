@@ -1,0 +1,1001 @@
+id,ticket_id,subject,priority,status,created_date,created_at
+1,TKT-0001,Software update required,Low,Resolved,2025-05-14,2025-05-14 01:11:29
+2,TKT-0002,Mouse not working,Medium,Closed,2025-04-24,2025-04-24 20:21:45
+3,TKT-0003,Request for new license,Critical,Resolved,2025-11-19,2025-11-19 10:44:19
+4,TKT-0004,Internet slow,Low,In Progress,2025-12-01,2025-12-01 06:38:20
+5,TKT-0005,Software update required,Medium,In Progress,2025-11-27,2025-11-27 01:07:24
+6,TKT-0006,Printer not responding,High,Closed,2025-05-04,2025-05-04 02:45:48
+7,TKT-0007,Mouse not working,Medium,Open,2025-03-01,2025-03-01 20:58:32
+8,TKT-0008,Monitor flickering,Medium,Resolved,2025-05-31,2025-05-31 16:10:46
+9,TKT-0009,VPN connection failed,Critical,In Progress,2025-05-07,2025-05-07 22:24:50
+10,TKT-0010,Password reset request,Low,Closed,2025-01-30,2025-01-30 07:22:00
+11,TKT-0011,Blue screen error,Critical,In Progress,2025-07-27,2025-07-27 02:08:44
+12,TKT-0012,Keyboard malfunction,Low,Closed,2025-09-17,2025-09-17 10:41:28
+13,TKT-0013,Internet slow,High,In Progress,2025-04-05,2025-04-05 17:06:53
+14,TKT-0014,Blue screen error,Critical,In Progress,2025-07-17,2025-07-17 21:42:00
+15,TKT-0015,Account locked out,Critical,Resolved,2025-11-28,2025-11-28 09:01:21
+16,TKT-0016,Printer not responding,Low,Resolved,2025-06-13,2025-06-13 01:06:07
+17,TKT-0017,Password reset request,High,Open,2025-01-08,2025-01-08 03:17:53
+18,TKT-0018,Keyboard malfunction,High,Resolved,2025-03-17,2025-03-17 01:15:54
+19,TKT-0019,Password reset request,Medium,Closed,2025-06-28,2025-06-28 00:05:35
+20,TKT-0020,Request for new license,Medium,Resolved,2024-12-11,2024-12-11 01:32:15
+21,TKT-0021,VPN connection failed,Medium,Closed,2025-07-28,2025-07-28 19:51:04
+22,TKT-0022,Blue screen error,Critical,In Progress,2025-08-17,2025-08-17 17:01:25
+23,TKT-0023,Software update required,Medium,Resolved,2025-03-06,2025-03-06 09:24:50
+24,TKT-0024,Email not syncing,High,Closed,2025-09-25,2025-09-25 23:25:39
+25,TKT-0025,Mouse not working,Critical,Closed,2025-10-05,2025-10-05 19:51:22
+26,TKT-0026,Printer not responding,Critical,Closed,2025-09-08,2025-09-08 06:26:28
+27,TKT-0027,Blue screen error,High,Open,2025-04-25,2025-04-25 20:12:29
+28,TKT-0028,Request for new license,Medium,Open,2025-01-04,2025-01-04 07:34:16
+29,TKT-0029,Internet slow,High,Open,2025-02-20,2025-02-20 06:22:18
+30,TKT-0030,Account locked out,Medium,Open,2025-02-18,2025-02-18 12:20:38
+31,TKT-0031,Blue screen error,Medium,Resolved,2025-04-06,2025-04-06 15:01:45
+32,TKT-0032,Printer not responding,Critical,Resolved,2025-03-15,2025-03-15 21:53:34
+33,TKT-0033,Internet slow,Low,Resolved,2025-04-21,2025-04-21 00:26:03
+34,TKT-0034,Printer not responding,Low,Closed,2025-05-11,2025-05-11 16:40:18
+35,TKT-0035,Blue screen error,High,In Progress,2025-09-30,2025-09-30 08:54:06
+36,TKT-0036,Keyboard malfunction,Low,Open,2025-06-15,2025-06-15 22:52:17
+37,TKT-0037,Mouse not working,Critical,In Progress,2025-08-13,2025-08-13 12:14:17
+38,TKT-0038,Monitor flickering,High,Closed,2025-07-01,2025-07-01 13:36:50
+39,TKT-0039,Request for new license,Medium,In Progress,2025-06-02,2025-06-02 09:32:39
+40,TKT-0040,Internet slow,High,In Progress,2025-07-13,2025-07-13 00:15:41
+41,TKT-0041,Software update required,Medium,Closed,2025-09-30,2025-09-30 01:33:50
+42,TKT-0042,Keyboard malfunction,High,Open,2024-12-20,2024-12-20 21:16:29
+43,TKT-0043,Request for new license,High,Closed,2025-11-10,2025-11-10 15:19:09
+44,TKT-0044,Request for new license,High,Closed,2025-05-09,2025-05-09 05:24:03
+45,TKT-0045,Printer not responding,Critical,In Progress,2024-12-31,2024-12-31 05:18:35
+46,TKT-0046,Account locked out,Low,Closed,2025-07-23,2025-07-23 06:59:27
+47,TKT-0047,Keyboard malfunction,High,Closed,2025-02-28,2025-02-28 15:08:06
+48,TKT-0048,Keyboard malfunction,High,Resolved,2025-01-31,2025-01-31 07:20:23
+49,TKT-0049,Internet slow,Critical,Resolved,2025-10-19,2025-10-19 05:22:14
+50,TKT-0050,Keyboard malfunction,Low,Closed,2025-04-27,2025-04-27 18:07:25
+51,TKT-0051,VPN connection failed,Medium,Resolved,2025-09-28,2025-09-28 01:04:34
+52,TKT-0052,Blue screen error,Critical,In Progress,2025-07-27,2025-07-27 07:38:43
+53,TKT-0053,Keyboard malfunction,Medium,Open,2025-03-11,2025-03-11 20:07:38
+54,TKT-0054,VPN connection failed,High,Open,2025-04-26,2025-04-26 22:56:58
+55,TKT-0055,Password reset request,Medium,Open,2025-02-09,2025-02-09 20:57:19
+56,TKT-0056,Monitor flickering,Critical,In Progress,2025-05-18,2025-05-18 05:40:55
+57,TKT-0057,Printer not responding,Critical,Open,2025-10-27,2025-10-27 15:10:09
+58,TKT-0058,Password reset request,Medium,Resolved,2025-06-03,2025-06-03 05:00:43
+59,TKT-0059,Mouse not working,Critical,In Progress,2025-05-29,2025-05-29 12:39:02
+60,TKT-0060,Email not syncing,Medium,Resolved,2024-12-12,2024-12-12 02:11:15
+61,TKT-0061,Internet slow,High,Closed,2025-08-19,2025-08-19 08:28:12
+62,TKT-0062,Blue screen error,Low,Resolved,2025-06-17,2025-06-17 04:51:55
+63,TKT-0063,VPN connection failed,High,Open,2025-09-19,2025-09-19 14:38:02
+64,TKT-0064,Blue screen error,High,Closed,2025-05-15,2025-05-15 19:59:04
+65,TKT-0065,Internet slow,Medium,In Progress,2025-11-25,2025-11-25 07:47:00
+66,TKT-0066,Password reset request,Critical,Open,2025-07-26,2025-07-26 03:50:29
+67,TKT-0067,Internet slow,Critical,In Progress,2025-08-09,2025-08-09 15:22:22
+68,TKT-0068,Mouse not working,Low,In Progress,2025-03-07,2025-03-07 20:22:08
+69,TKT-0069,Request for new license,Critical,Resolved,2025-09-01,2025-09-01 04:36:12
+70,TKT-0070,Keyboard malfunction,Low,In Progress,2025-03-13,2025-03-13 20:21:11
+71,TKT-0071,Password reset request,Medium,Closed,2025-11-02,2025-11-02 06:28:32
+72,TKT-0072,VPN connection failed,Critical,Open,2024-12-12,2024-12-12 08:25:12
+73,TKT-0073,Printer not responding,Critical,Open,2025-10-29,2025-10-29 08:44:50
+74,TKT-0074,Software update required,Medium,In Progress,2025-04-11,2025-04-11 11:14:13
+75,TKT-0075,VPN connection failed,Low,Resolved,2025-09-30,2025-09-30 11:13:46
+76,TKT-0076,Mouse not working,Low,Closed,2025-10-22,2025-10-22 00:39:48
+77,TKT-0077,Printer not responding,Critical,Closed,2025-06-17,2025-06-17 12:32:13
+78,TKT-0078,Email not syncing,High,Resolved,2025-03-02,2025-03-02 18:47:08
+79,TKT-0079,Software update required,Low,Closed,2025-11-21,2025-11-21 09:09:09
+80,TKT-0080,Blue screen error,Low,In Progress,2025-07-06,2025-07-06 12:46:40
+81,TKT-0081,Request for new license,High,Open,2025-05-28,2025-05-28 17:11:37
+82,TKT-0082,Mouse not working,Critical,Open,2025-11-17,2025-11-17 21:26:31
+83,TKT-0083,Request for new license,Critical,Open,2025-11-25,2025-11-25 11:30:02
+84,TKT-0084,Blue screen error,Critical,Closed,2025-10-09,2025-10-09 19:08:11
+85,TKT-0085,Printer not responding,High,Resolved,2025-07-21,2025-07-21 05:10:49
+86,TKT-0086,Password reset request,High,Open,2025-02-25,2025-02-25 15:54:28
+87,TKT-0087,Request for new license,High,Open,2025-06-29,2025-06-29 01:42:01
+88,TKT-0088,Monitor flickering,Low,Open,2025-05-23,2025-05-23 17:54:13
+89,TKT-0089,Password reset request,Critical,Open,2025-10-30,2025-10-30 11:12:37
+90,TKT-0090,Blue screen error,Critical,Closed,2025-01-04,2025-01-04 12:55:08
+91,TKT-0091,Software update required,High,Open,2025-02-12,2025-02-12 11:21:56
+92,TKT-0092,VPN connection failed,Critical,Open,2025-07-26,2025-07-26 03:58:01
+93,TKT-0093,Blue screen error,High,Resolved,2025-06-27,2025-06-27 10:23:57
+94,TKT-0094,Password reset request,Low,Open,2025-02-25,2025-02-25 13:29:10
+95,TKT-0095,Software update required,Low,Closed,2025-02-08,2025-02-08 23:03:35
+96,TKT-0096,Blue screen error,Medium,Open,2025-05-03,2025-05-03 00:13:24
+97,TKT-0097,Password reset request,High,In Progress,2025-11-09,2025-11-09 19:13:47
+98,TKT-0098,Password reset request,Low,In Progress,2025-08-07,2025-08-07 17:50:15
+99,TKT-0099,Printer not responding,Low,In Progress,2025-06-11,2025-06-11 23:03:17
+100,TKT-0100,VPN connection failed,Critical,Closed,2025-10-15,2025-10-15 20:15:14
+101,TKT-0101,Email not syncing,Critical,Closed,2025-08-30,2025-08-30 11:52:29
+102,TKT-0102,Software update required,Medium,Resolved,2025-05-08,2025-05-08 14:32:39
+103,TKT-0103,Account locked out,Medium,Resolved,2025-08-27,2025-08-27 09:50:37
+104,TKT-0104,Blue screen error,Low,Open,2025-05-25,2025-05-25 01:09:03
+105,TKT-0105,Printer not responding,Low,Open,2025-08-26,2025-08-26 10:45:08
+106,TKT-0106,Printer not responding,Medium,Closed,2025-01-14,2025-01-14 00:53:16
+107,TKT-0107,Keyboard malfunction,Medium,Closed,2025-12-07,2025-12-07 01:22:54
+108,TKT-0108,Account locked out,High,Closed,2025-10-21,2025-10-21 15:34:08
+109,TKT-0109,Mouse not working,Critical,Open,2025-01-16,2025-01-16 05:06:29
+110,TKT-0110,Internet slow,Low,Closed,2025-07-28,2025-07-28 01:53:14
+111,TKT-0111,Internet slow,Critical,Open,2025-05-12,2025-05-12 20:55:16
+112,TKT-0112,Internet slow,High,Resolved,2025-01-23,2025-01-23 02:27:57
+113,TKT-0113,Printer not responding,Low,Closed,2025-03-16,2025-03-16 03:48:32
+114,TKT-0114,Keyboard malfunction,Medium,Open,2025-09-07,2025-09-07 12:26:40
+115,TKT-0115,VPN connection failed,Critical,In Progress,2025-07-06,2025-07-06 19:19:30
+116,TKT-0116,Software update required,Medium,Closed,2025-07-28,2025-07-28 12:00:09
+117,TKT-0117,Password reset request,High,Closed,2025-07-14,2025-07-14 09:38:16
+118,TKT-0118,Printer not responding,Low,Closed,2025-08-10,2025-08-10 14:07:32
+119,TKT-0119,VPN connection failed,Medium,In Progress,2025-06-25,2025-06-25 14:50:46
+120,TKT-0120,Password reset request,Critical,Closed,2025-11-13,2025-11-13 23:14:42
+121,TKT-0121,Mouse not working,High,Open,2025-05-11,2025-05-11 22:49:54
+122,TKT-0122,Mouse not working,Medium,Closed,2025-05-20,2025-05-20 15:25:38
+123,TKT-0123,Software update required,Critical,Closed,2025-03-20,2025-03-20 14:32:35
+124,TKT-0124,Request for new license,Low,Resolved,2025-10-20,2025-10-20 01:47:46
+125,TKT-0125,VPN connection failed,Low,In Progress,2025-06-20,2025-06-20 21:48:17
+126,TKT-0126,Software update required,Critical,Open,2025-11-17,2025-11-17 22:12:50
+127,TKT-0127,Monitor flickering,Low,Resolved,2025-01-05,2025-01-05 18:09:58
+128,TKT-0128,Monitor flickering,Medium,Open,2025-09-18,2025-09-18 18:59:45
+129,TKT-0129,Email not syncing,Medium,Closed,2025-11-10,2025-11-10 07:26:46
+130,TKT-0130,Password reset request,Medium,Open,2025-06-03,2025-06-03 21:21:39
+131,TKT-0131,Mouse not working,Medium,Resolved,2025-09-17,2025-09-17 15:28:23
+132,TKT-0132,Blue screen error,High,Resolved,2025-06-05,2025-06-05 00:50:22
+133,TKT-0133,Email not syncing,High,In Progress,2025-07-09,2025-07-09 14:13:29
+134,TKT-0134,Request for new license,Low,In Progress,2025-11-22,2025-11-22 08:05:22
+135,TKT-0135,Monitor flickering,Critical,Open,2024-12-30,2024-12-30 12:18:19
+136,TKT-0136,Request for new license,Medium,In Progress,2025-11-01,2025-11-01 07:36:39
+137,TKT-0137,Software update required,Low,Resolved,2025-11-30,2025-11-30 17:40:15
+138,TKT-0138,Request for new license,High,Open,2025-11-01,2025-11-01 13:22:11
+139,TKT-0139,Printer not responding,Medium,In Progress,2025-11-16,2025-11-16 05:07:30
+140,TKT-0140,Password reset request,Medium,Closed,2025-10-31,2025-10-31 05:25:54
+141,TKT-0141,Mouse not working,Medium,Open,2025-10-09,2025-10-09 07:16:02
+142,TKT-0142,Internet slow,Low,Closed,2025-07-03,2025-07-03 21:03:10
+143,TKT-0143,Monitor flickering,Medium,In Progress,2025-04-09,2025-04-09 20:58:55
+144,TKT-0144,VPN connection failed,Critical,Closed,2025-03-19,2025-03-19 23:40:53
+145,TKT-0145,Request for new license,Medium,Closed,2025-01-27,2025-01-27 02:46:18
+146,TKT-0146,Keyboard malfunction,Critical,Resolved,2025-09-21,2025-09-21 16:25:42
+147,TKT-0147,Keyboard malfunction,Medium,Open,2025-04-23,2025-04-23 12:21:25
+148,TKT-0148,Mouse not working,Low,Resolved,2024-12-20,2024-12-20 09:52:27
+149,TKT-0149,Email not syncing,Low,Closed,2025-10-02,2025-10-02 12:43:48
+150,TKT-0150,Account locked out,Critical,In Progress,2024-12-27,2024-12-27 13:04:46
+151,TKT-0151,Printer not responding,Low,Open,2025-06-25,2025-06-25 13:27:27
+152,TKT-0152,Account locked out,Medium,Closed,2024-12-23,2024-12-23 01:55:18
+153,TKT-0153,VPN connection failed,High,Closed,2025-07-04,2025-07-04 03:39:33
+154,TKT-0154,Keyboard malfunction,Low,Resolved,2025-02-10,2025-02-10 17:42:40
+155,TKT-0155,Keyboard malfunction,Critical,Closed,2025-04-11,2025-04-11 03:27:59
+156,TKT-0156,Account locked out,High,Open,2025-04-05,2025-04-05 00:06:55
+157,TKT-0157,Keyboard malfunction,Medium,Closed,2025-02-20,2025-02-20 07:43:11
+158,TKT-0158,Internet slow,High,Resolved,2025-01-31,2025-01-31 17:35:49
+159,TKT-0159,Mouse not working,Low,Closed,2024-12-17,2024-12-17 02:37:36
+160,TKT-0160,Request for new license,Low,Closed,2025-08-03,2025-08-03 15:26:01
+161,TKT-0161,Printer not responding,Low,Resolved,2025-06-17,2025-06-17 04:00:23
+162,TKT-0162,Mouse not working,Medium,In Progress,2025-06-03,2025-06-03 03:54:18
+163,TKT-0163,VPN connection failed,High,Open,2025-11-06,2025-11-06 18:51:12
+164,TKT-0164,Password reset request,High,Open,2025-02-03,2025-02-03 09:51:43
+165,TKT-0165,Monitor flickering,Critical,Open,2025-12-07,2025-12-07 14:37:56
+166,TKT-0166,Request for new license,Low,Resolved,2025-11-09,2025-11-09 09:34:48
+167,TKT-0167,Blue screen error,Low,Resolved,2025-04-23,2025-04-23 17:47:53
+168,TKT-0168,Software update required,Low,Closed,2025-07-26,2025-07-26 04:25:06
+169,TKT-0169,Blue screen error,Low,In Progress,2025-11-12,2025-11-12 13:39:32
+170,TKT-0170,Mouse not working,Critical,Resolved,2025-02-25,2025-02-25 06:22:20
+171,TKT-0171,Software update required,High,Resolved,2025-11-04,2025-11-04 19:23:54
+172,TKT-0172,Mouse not working,High,Closed,2025-11-05,2025-11-05 16:56:11
+173,TKT-0173,Monitor flickering,High,Open,2025-11-09,2025-11-09 03:21:36
+174,TKT-0174,Software update required,Low,Open,2025-05-27,2025-05-27 13:12:55
+175,TKT-0175,Request for new license,High,Resolved,2024-12-25,2024-12-25 18:49:22
+176,TKT-0176,Mouse not working,Low,Closed,2025-02-12,2025-02-12 14:46:16
+177,TKT-0177,Request for new license,Medium,Closed,2025-05-25,2025-05-25 18:38:36
+178,TKT-0178,Printer not responding,Low,Closed,2025-11-25,2025-11-25 02:17:21
+179,TKT-0179,Password reset request,Low,Closed,2025-04-04,2025-04-04 07:52:46
+180,TKT-0180,Password reset request,High,Resolved,2025-01-25,2025-01-25 10:54:22
+181,TKT-0181,Internet slow,Critical,Open,2025-09-07,2025-09-07 23:42:08
+182,TKT-0182,Request for new license,Low,Closed,2025-05-07,2025-05-07 07:10:52
+183,TKT-0183,Software update required,Critical,Open,2025-09-13,2025-09-13 14:57:58
+184,TKT-0184,Account locked out,High,In Progress,2025-11-28,2025-11-28 11:16:32
+185,TKT-0185,Internet slow,Critical,Open,2025-07-20,2025-07-20 09:58:39
+186,TKT-0186,Blue screen error,High,Open,2025-04-02,2025-04-02 15:53:41
+187,TKT-0187,VPN connection failed,High,Resolved,2024-12-12,2024-12-12 09:35:43
+188,TKT-0188,Account locked out,Low,Closed,2025-04-01,2025-04-01 04:11:33
+189,TKT-0189,Blue screen error,Medium,In Progress,2025-07-28,2025-07-28 11:53:20
+190,TKT-0190,Keyboard malfunction,Medium,Closed,2025-08-12,2025-08-12 09:05:44
+191,TKT-0191,Password reset request,Low,In Progress,2025-08-31,2025-08-31 10:40:17
+192,TKT-0192,Keyboard malfunction,Low,In Progress,2025-04-11,2025-04-11 07:49:30
+193,TKT-0193,Monitor flickering,Medium,In Progress,2025-01-27,2025-01-27 08:11:43
+194,TKT-0194,Internet slow,Medium,Open,2025-11-13,2025-11-13 11:13:53
+195,TKT-0195,Monitor flickering,Medium,Resolved,2025-08-04,2025-08-04 13:10:42
+196,TKT-0196,Blue screen error,Critical,Resolved,2025-02-03,2025-02-03 14:50:43
+197,TKT-0197,Mouse not working,Medium,In Progress,2024-12-17,2024-12-17 06:28:57
+198,TKT-0198,Email not syncing,Critical,Resolved,2025-09-19,2025-09-19 06:12:42
+199,TKT-0199,Mouse not working,Low,In Progress,2025-09-05,2025-09-05 20:20:06
+200,TKT-0200,Software update required,Critical,Open,2025-07-25,2025-07-25 08:08:49
+201,TKT-0201,Software update required,High,Closed,2025-06-24,2025-06-24 05:13:30
+202,TKT-0202,Blue screen error,Low,Open,2025-02-06,2025-02-06 16:30:43
+203,TKT-0203,Monitor flickering,Medium,Closed,2025-08-08,2025-08-08 20:51:12
+204,TKT-0204,Blue screen error,Critical,Resolved,2025-09-29,2025-09-29 02:20:03
+205,TKT-0205,VPN connection failed,Medium,Closed,2025-10-07,2025-10-07 16:13:33
+206,TKT-0206,Password reset request,Low,Closed,2025-06-07,2025-06-07 15:55:33
+207,TKT-0207,Email not syncing,Low,Resolved,2025-05-22,2025-05-22 16:25:17
+208,TKT-0208,VPN connection failed,Medium,Closed,2025-11-29,2025-11-29 17:53:01
+209,TKT-0209,Email not syncing,High,Closed,2025-01-16,2025-01-16 03:37:51
+210,TKT-0210,Internet slow,Low,Resolved,2025-03-26,2025-03-26 02:46:23
+211,TKT-0211,Request for new license,Medium,In Progress,2025-11-05,2025-11-05 03:36:06
+212,TKT-0212,Request for new license,Low,In Progress,2025-05-05,2025-05-05 12:25:28
+213,TKT-0213,Printer not responding,Medium,Resolved,2025-06-23,2025-06-23 01:25:40
+214,TKT-0214,VPN connection failed,High,Resolved,2025-02-10,2025-02-10 21:19:03
+215,TKT-0215,Keyboard malfunction,Low,Closed,2025-08-25,2025-08-25 04:13:04
+216,TKT-0216,Mouse not working,High,Closed,2025-10-24,2025-10-24 01:44:32
+217,TKT-0217,Internet slow,Low,Open,2025-07-27,2025-07-27 01:23:48
+218,TKT-0218,Monitor flickering,Critical,Open,2025-08-07,2025-08-07 00:10:50
+219,TKT-0219,Keyboard malfunction,Low,Closed,2025-09-10,2025-09-10 04:14:26
+220,TKT-0220,VPN connection failed,Medium,Open,2025-12-02,2025-12-02 07:52:13
+221,TKT-0221,Password reset request,Critical,Resolved,2025-03-18,2025-03-18 01:04:39
+222,TKT-0222,VPN connection failed,Critical,Closed,2025-09-08,2025-09-08 18:42:09
+223,TKT-0223,Mouse not working,Low,Closed,2025-02-15,2025-02-15 02:08:11
+224,TKT-0224,Software update required,High,Resolved,2025-07-14,2025-07-14 09:40:59
+225,TKT-0225,Email not syncing,Critical,Open,2025-06-05,2025-06-05 10:03:04
+226,TKT-0226,Password reset request,Critical,Open,2025-01-27,2025-01-27 21:53:48
+227,TKT-0227,Printer not responding,Medium,Resolved,2025-03-28,2025-03-28 17:40:31
+228,TKT-0228,Email not syncing,Critical,Resolved,2025-05-04,2025-05-04 17:16:32
+229,TKT-0229,VPN connection failed,Critical,In Progress,2025-04-14,2025-04-14 08:22:07
+230,TKT-0230,Account locked out,Medium,Closed,2025-11-25,2025-11-25 05:12:14
+231,TKT-0231,Internet slow,High,Open,2025-01-01,2025-01-01 02:29:44
+232,TKT-0232,Printer not responding,High,Closed,2025-04-18,2025-04-18 15:23:57
+233,TKT-0233,VPN connection failed,Medium,Open,2025-06-07,2025-06-07 04:58:00
+234,TKT-0234,Password reset request,High,Resolved,2025-05-02,2025-05-02 06:29:34
+235,TKT-0235,Blue screen error,Critical,Open,2025-08-31,2025-08-31 19:38:43
+236,TKT-0236,VPN connection failed,Critical,Closed,2025-08-10,2025-08-10 03:09:13
+237,TKT-0237,Monitor flickering,Low,Open,2025-12-03,2025-12-03 03:30:55
+238,TKT-0238,Email not syncing,High,Resolved,2025-08-17,2025-08-17 00:29:39
+239,TKT-0239,Mouse not working,Medium,Resolved,2025-01-05,2025-01-05 19:20:54
+240,TKT-0240,Keyboard malfunction,Critical,In Progress,2025-07-04,2025-07-04 22:50:30
+241,TKT-0241,Account locked out,Low,Open,2025-03-14,2025-03-14 11:38:15
+242,TKT-0242,Monitor flickering,Medium,Resolved,2025-07-21,2025-07-21 09:07:26
+243,TKT-0243,Printer not responding,High,In Progress,2025-12-04,2025-12-04 22:44:10
+244,TKT-0244,Monitor flickering,Low,Resolved,2025-03-26,2025-03-26 12:17:18
+245,TKT-0245,Monitor flickering,High,Closed,2025-04-28,2025-04-28 01:46:54
+246,TKT-0246,Internet slow,High,Resolved,2025-12-03,2025-12-03 17:02:23
+247,TKT-0247,Password reset request,High,In Progress,2025-10-19,2025-10-19 14:42:31
+248,TKT-0248,VPN connection failed,High,In Progress,2025-02-03,2025-02-03 16:51:42
+249,TKT-0249,Account locked out,Critical,Open,2025-01-13,2025-01-13 04:03:52
+250,TKT-0250,Blue screen error,High,Open,2025-04-07,2025-04-07 12:28:47
+251,TKT-0251,Email not syncing,Critical,Open,2025-03-25,2025-03-25 09:00:58
+252,TKT-0252,Monitor flickering,Medium,In Progress,2025-05-23,2025-05-23 06:23:16
+253,TKT-0253,Internet slow,Critical,Closed,2025-06-19,2025-06-19 22:16:11
+254,TKT-0254,Internet slow,High,In Progress,2025-01-31,2025-01-31 09:08:05
+255,TKT-0255,Monitor flickering,Low,In Progress,2025-03-09,2025-03-09 07:37:06
+256,TKT-0256,Monitor flickering,Low,Closed,2025-03-15,2025-03-15 05:32:21
+257,TKT-0257,Keyboard malfunction,High,Closed,2025-04-28,2025-04-28 02:49:34
+258,TKT-0258,Password reset request,Medium,In Progress,2025-04-16,2025-04-16 17:14:54
+259,TKT-0259,Email not syncing,Medium,Open,2024-12-23,2024-12-23 08:04:39
+260,TKT-0260,Keyboard malfunction,Critical,Open,2025-08-08,2025-08-08 15:30:12
+261,TKT-0261,Keyboard malfunction,Critical,Closed,2025-07-28,2025-07-28 03:29:29
+262,TKT-0262,Software update required,Medium,In Progress,2025-04-21,2025-04-21 05:06:16
+263,TKT-0263,Internet slow,High,In Progress,2025-08-23,2025-08-23 16:29:58
+264,TKT-0264,VPN connection failed,Low,In Progress,2025-05-26,2025-05-26 18:43:42
+265,TKT-0265,Email not syncing,High,In Progress,2025-03-29,2025-03-29 09:58:58
+266,TKT-0266,VPN connection failed,Critical,In Progress,2025-10-02,2025-10-02 01:44:58
+267,TKT-0267,Email not syncing,Critical,In Progress,2025-07-22,2025-07-22 12:38:59
+268,TKT-0268,Password reset request,Critical,Closed,2025-11-10,2025-11-10 08:15:51
+269,TKT-0269,Account locked out,Low,Open,2025-05-08,2025-05-08 05:45:00
+270,TKT-0270,Printer not responding,Critical,Open,2025-09-16,2025-09-16 11:27:48
+271,TKT-0271,VPN connection failed,Medium,Closed,2025-05-08,2025-05-08 13:17:43
+272,TKT-0272,Email not syncing,Critical,Resolved,2025-01-26,2025-01-26 12:52:15
+273,TKT-0273,Request for new license,Medium,In Progress,2025-11-06,2025-11-06 22:46:29
+274,TKT-0274,Software update required,Critical,Open,2025-02-02,2025-02-02 08:08:21
+275,TKT-0275,Password reset request,Medium,Resolved,2025-03-08,2025-03-08 23:17:20
+276,TKT-0276,Mouse not working,Medium,Resolved,2025-07-24,2025-07-24 13:19:54
+277,TKT-0277,VPN connection failed,Medium,Closed,2025-02-09,2025-02-09 05:06:49
+278,TKT-0278,VPN connection failed,High,In Progress,2025-09-24,2025-09-24 15:11:42
+279,TKT-0279,Account locked out,Low,Open,2025-02-16,2025-02-16 01:50:34
+280,TKT-0280,Internet slow,Critical,Resolved,2025-09-25,2025-09-25 13:47:07
+281,TKT-0281,Account locked out,Medium,In Progress,2025-04-28,2025-04-28 23:12:54
+282,TKT-0282,Email not syncing,Low,In Progress,2025-10-25,2025-10-25 20:23:47
+283,TKT-0283,Keyboard malfunction,High,Closed,2025-06-26,2025-06-26 18:10:24
+284,TKT-0284,Printer not responding,Medium,Open,2024-12-18,2024-12-18 02:26:32
+285,TKT-0285,Internet slow,Critical,Closed,2025-01-10,2025-01-10 23:21:16
+286,TKT-0286,Software update required,High,Closed,2025-10-01,2025-10-01 13:12:38
+287,TKT-0287,Password reset request,Medium,Closed,2025-03-30,2025-03-30 21:41:44
+288,TKT-0288,Keyboard malfunction,Critical,Closed,2025-02-08,2025-02-08 06:02:32
+289,TKT-0289,Email not syncing,Medium,Resolved,2025-10-07,2025-10-07 12:51:56
+290,TKT-0290,Account locked out,Critical,Closed,2025-09-22,2025-09-22 15:21:57
+291,TKT-0291,Printer not responding,Low,In Progress,2025-01-19,2025-01-19 12:27:11
+292,TKT-0292,Password reset request,High,Resolved,2025-11-30,2025-11-30 22:22:55
+293,TKT-0293,Email not syncing,Low,Open,2025-04-12,2025-04-12 09:45:53
+294,TKT-0294,Account locked out,Critical,Closed,2025-02-18,2025-02-18 07:36:45
+295,TKT-0295,Password reset request,Critical,Resolved,2025-05-25,2025-05-25 21:01:23
+296,TKT-0296,Software update required,Medium,In Progress,2025-08-12,2025-08-12 01:22:51
+297,TKT-0297,Blue screen error,High,Closed,2025-06-24,2025-06-24 21:42:57
+298,TKT-0298,Internet slow,Critical,Resolved,2025-02-21,2025-02-21 21:42:05
+299,TKT-0299,Request for new license,High,Closed,2025-08-23,2025-08-23 11:21:38
+300,TKT-0300,Account locked out,Medium,In Progress,2025-10-19,2025-10-19 10:28:11
+301,TKT-0301,Software update required,High,Open,2025-02-23,2025-02-23 14:45:51
+302,TKT-0302,VPN connection failed,High,Closed,2025-09-03,2025-09-03 17:36:04
+303,TKT-0303,VPN connection failed,Low,In Progress,2025-09-28,2025-09-28 13:34:01
+304,TKT-0304,VPN connection failed,Low,Open,2025-01-30,2025-01-30 06:40:18
+305,TKT-0305,Password reset request,Medium,In Progress,2025-10-23,2025-10-23 07:43:03
+306,TKT-0306,Blue screen error,High,Resolved,2025-01-08,2025-01-08 14:02:21
+307,TKT-0307,VPN connection failed,Low,Resolved,2025-05-09,2025-05-09 15:53:28
+308,TKT-0308,Mouse not working,Medium,Resolved,2025-04-01,2025-04-01 05:15:48
+309,TKT-0309,Mouse not working,Low,Closed,2025-01-28,2025-01-28 02:59:22
+310,TKT-0310,Software update required,Medium,In Progress,2025-08-22,2025-08-22 10:48:36
+311,TKT-0311,Request for new license,Low,Closed,2025-06-04,2025-06-04 20:54:05
+312,TKT-0312,VPN connection failed,Medium,Resolved,2025-11-07,2025-11-07 01:37:14
+313,TKT-0313,Monitor flickering,Critical,Resolved,2025-01-31,2025-01-31 13:27:12
+314,TKT-0314,Monitor flickering,Medium,In Progress,2025-05-10,2025-05-10 08:53:33
+315,TKT-0315,Printer not responding,Low,Resolved,2025-06-14,2025-06-14 10:12:01
+316,TKT-0316,Password reset request,Low,Closed,2025-03-20,2025-03-20 00:31:12
+317,TKT-0317,Password reset request,Critical,Closed,2025-10-20,2025-10-20 12:31:56
+318,TKT-0318,Mouse not working,Low,Resolved,2025-02-06,2025-02-06 04:35:51
+319,TKT-0319,Email not syncing,Low,Closed,2025-01-31,2025-01-31 11:28:34
+320,TKT-0320,Mouse not working,Low,Open,2025-02-28,2025-02-28 13:12:55
+321,TKT-0321,Email not syncing,High,In Progress,2025-07-26,2025-07-26 02:59:42
+322,TKT-0322,Mouse not working,Critical,Open,2025-04-12,2025-04-12 08:06:56
+323,TKT-0323,Software update required,Medium,In Progress,2025-03-25,2025-03-25 17:07:45
+324,TKT-0324,Request for new license,Low,Open,2025-09-22,2025-09-22 08:00:00
+325,TKT-0325,Software update required,High,Resolved,2025-04-24,2025-04-24 02:17:06
+326,TKT-0326,Internet slow,Critical,In Progress,2025-02-15,2025-02-15 09:21:58
+327,TKT-0327,Printer not responding,Low,Closed,2025-02-21,2025-02-21 03:40:17
+328,TKT-0328,Email not syncing,Critical,Resolved,2025-03-08,2025-03-08 14:42:28
+329,TKT-0329,Keyboard malfunction,High,Resolved,2025-09-29,2025-09-29 11:04:40
+330,TKT-0330,Blue screen error,Low,Resolved,2025-05-30,2025-05-30 16:53:54
+331,TKT-0331,Printer not responding,High,Closed,2025-10-18,2025-10-18 09:08:04
+332,TKT-0332,Email not syncing,Critical,Open,2025-06-12,2025-06-12 06:24:01
+333,TKT-0333,Printer not responding,Low,Resolved,2025-01-05,2025-01-05 10:59:04
+334,TKT-0334,Account locked out,Medium,Open,2025-02-09,2025-02-09 03:50:37
+335,TKT-0335,Internet slow,Critical,Open,2025-01-24,2025-01-24 01:38:31
+336,TKT-0336,Internet slow,Low,Closed,2025-06-27,2025-06-27 05:59:49
+337,TKT-0337,Password reset request,Medium,Closed,2025-12-01,2025-12-01 02:44:48
+338,TKT-0338,Keyboard malfunction,Medium,Open,2025-11-10,2025-11-10 22:34:42
+339,TKT-0339,Email not syncing,Low,Resolved,2025-03-22,2025-03-22 16:34:20
+340,TKT-0340,Password reset request,High,Resolved,2025-12-03,2025-12-03 05:12:35
+341,TKT-0341,Software update required,High,Open,2025-11-29,2025-11-29 16:16:48
+342,TKT-0342,Monitor flickering,High,In Progress,2025-06-29,2025-06-29 09:34:44
+343,TKT-0343,Software update required,High,In Progress,2025-08-11,2025-08-11 20:44:42
+344,TKT-0344,Software update required,Medium,Open,2025-02-12,2025-02-12 02:28:30
+345,TKT-0345,Account locked out,Critical,Closed,2025-01-23,2025-01-23 06:56:03
+346,TKT-0346,Keyboard malfunction,Medium,Closed,2025-08-30,2025-08-30 04:25:16
+347,TKT-0347,Email not syncing,Low,Resolved,2025-06-10,2025-06-10 15:07:44
+348,TKT-0348,Printer not responding,Critical,Resolved,2025-01-24,2025-01-24 18:54:17
+349,TKT-0349,Request for new license,Low,Resolved,2025-06-06,2025-06-06 20:37:12
+350,TKT-0350,Printer not responding,Critical,Resolved,2025-10-22,2025-10-22 17:32:02
+351,TKT-0351,Blue screen error,Medium,Open,2025-05-29,2025-05-29 03:03:00
+352,TKT-0352,Email not syncing,High,Open,2025-09-19,2025-09-19 21:11:38
+353,TKT-0353,Software update required,High,Closed,2025-10-03,2025-10-03 09:52:31
+354,TKT-0354,Password reset request,Low,Closed,2025-03-20,2025-03-20 09:43:25
+355,TKT-0355,Request for new license,High,Open,2025-03-26,2025-03-26 22:01:06
+356,TKT-0356,Monitor flickering,High,Closed,2025-09-28,2025-09-28 10:47:49
+357,TKT-0357,Monitor flickering,Medium,Resolved,2025-10-22,2025-10-22 02:29:24
+358,TKT-0358,Keyboard malfunction,Low,In Progress,2025-07-29,2025-07-29 08:31:38
+359,TKT-0359,Keyboard malfunction,Medium,Resolved,2025-06-12,2025-06-12 12:45:12
+360,TKT-0360,Request for new license,High,Closed,2025-10-11,2025-10-11 20:14:19
+361,TKT-0361,Software update required,High,Closed,2025-01-28,2025-01-28 22:41:47
+362,TKT-0362,Software update required,Medium,Closed,2025-12-06,2025-12-06 19:41:31
+363,TKT-0363,Request for new license,Low,Resolved,2025-04-23,2025-04-23 10:29:11
+364,TKT-0364,Blue screen error,Critical,Closed,2025-01-11,2025-01-11 16:29:15
+365,TKT-0365,Password reset request,Critical,In Progress,2025-02-24,2025-02-24 02:59:37
+366,TKT-0366,Printer not responding,High,Open,2025-01-13,2025-01-13 18:13:20
+367,TKT-0367,Request for new license,High,Closed,2025-10-31,2025-10-31 17:09:23
+368,TKT-0368,Blue screen error,High,Open,2025-01-17,2025-01-17 04:23:23
+369,TKT-0369,Keyboard malfunction,Low,Open,2025-07-18,2025-07-18 15:43:58
+370,TKT-0370,Keyboard malfunction,Critical,Open,2025-11-28,2025-11-28 19:01:16
+371,TKT-0371,Email not syncing,Medium,Resolved,2025-06-25,2025-06-25 22:00:38
+372,TKT-0372,Password reset request,Low,In Progress,2025-02-14,2025-02-14 14:36:01
+373,TKT-0373,VPN connection failed,Medium,Closed,2025-01-14,2025-01-14 22:00:37
+374,TKT-0374,Password reset request,Low,Open,2025-04-04,2025-04-04 21:52:20
+375,TKT-0375,Printer not responding,Low,Open,2025-10-28,2025-10-28 04:54:02
+376,TKT-0376,Monitor flickering,Low,In Progress,2025-11-29,2025-11-29 21:49:31
+377,TKT-0377,VPN connection failed,High,Open,2025-02-26,2025-02-26 20:23:47
+378,TKT-0378,Password reset request,Low,Open,2025-05-05,2025-05-05 10:36:04
+379,TKT-0379,Monitor flickering,Low,In Progress,2025-12-03,2025-12-03 09:07:59
+380,TKT-0380,Software update required,High,In Progress,2025-08-07,2025-08-07 00:57:46
+381,TKT-0381,Blue screen error,Low,In Progress,2025-03-12,2025-03-12 13:17:34
+382,TKT-0382,Keyboard malfunction,Medium,Open,2025-04-06,2025-04-06 10:33:27
+383,TKT-0383,Software update required,Low,Resolved,2025-02-10,2025-02-10 04:30:25
+384,TKT-0384,VPN connection failed,High,Resolved,2025-06-11,2025-06-11 17:45:11
+385,TKT-0385,Blue screen error,Critical,Closed,2025-05-15,2025-05-15 15:45:25
+386,TKT-0386,Monitor flickering,Medium,Closed,2025-01-17,2025-01-17 21:32:38
+387,TKT-0387,Software update required,Low,Resolved,2024-12-27,2024-12-27 19:12:59
+388,TKT-0388,Account locked out,Critical,Closed,2025-02-15,2025-02-15 01:20:40
+389,TKT-0389,Keyboard malfunction,High,In Progress,2025-05-30,2025-05-30 20:54:09
+390,TKT-0390,Software update required,Low,Closed,2025-03-28,2025-03-28 05:29:45
+391,TKT-0391,Account locked out,Medium,Open,2025-06-20,2025-06-20 10:46:54
+392,TKT-0392,Blue screen error,High,Closed,2024-12-21,2024-12-21 19:04:50
+393,TKT-0393,Blue screen error,High,Open,2025-03-01,2025-03-01 22:21:42
+394,TKT-0394,VPN connection failed,Low,Open,2025-07-01,2025-07-01 00:54:58
+395,TKT-0395,Request for new license,Medium,In Progress,2025-10-25,2025-10-25 12:51:12
+396,TKT-0396,Monitor flickering,Low,Open,2025-10-22,2025-10-22 00:54:43
+397,TKT-0397,Software update required,High,Open,2025-11-30,2025-11-30 19:46:53
+398,TKT-0398,Blue screen error,High,Resolved,2025-06-19,2025-06-19 00:15:28
+399,TKT-0399,Account locked out,Medium,Closed,2025-06-06,2025-06-06 10:37:26
+400,TKT-0400,Internet slow,Low,Closed,2025-07-27,2025-07-27 01:41:14
+401,TKT-0401,Keyboard malfunction,Medium,Closed,2025-12-01,2025-12-01 07:39:18
+402,TKT-0402,Blue screen error,Medium,Resolved,2024-12-12,2024-12-12 12:07:13
+403,TKT-0403,Account locked out,Critical,In Progress,2025-01-27,2025-01-27 14:07:56
+404,TKT-0404,Password reset request,Low,In Progress,2024-12-26,2024-12-26 03:54:53
+405,TKT-0405,Account locked out,High,In Progress,2025-03-02,2025-03-02 09:19:32
+406,TKT-0406,Monitor flickering,Critical,In Progress,2025-11-21,2025-11-21 11:34:30
+407,TKT-0407,Password reset request,Low,Closed,2025-07-09,2025-07-09 20:55:10
+408,TKT-0408,Request for new license,Critical,Open,2025-09-21,2025-09-21 20:34:07
+409,TKT-0409,Blue screen error,Low,Open,2025-10-31,2025-10-31 14:32:42
+410,TKT-0410,Keyboard malfunction,Low,In Progress,2025-07-16,2025-07-16 17:22:51
+411,TKT-0411,Internet slow,High,Open,2025-11-02,2025-11-02 13:45:23
+412,TKT-0412,Email not syncing,High,Closed,2025-09-05,2025-09-05 22:55:42
+413,TKT-0413,Blue screen error,Low,In Progress,2025-11-03,2025-11-03 02:29:02
+414,TKT-0414,Blue screen error,High,Closed,2025-02-16,2025-02-16 23:53:06
+415,TKT-0415,Software update required,High,Open,2024-12-17,2024-12-17 21:10:05
+416,TKT-0416,Keyboard malfunction,Critical,Resolved,2025-06-24,2025-06-24 20:34:48
+417,TKT-0417,Request for new license,Critical,In Progress,2025-01-18,2025-01-18 06:43:33
+418,TKT-0418,Email not syncing,High,In Progress,2025-05-15,2025-05-15 21:30:49
+419,TKT-0419,Monitor flickering,Low,Closed,2025-11-08,2025-11-08 19:24:32
+420,TKT-0420,Mouse not working,Low,Resolved,2025-12-01,2025-12-01 17:06:57
+421,TKT-0421,Password reset request,Low,Open,2025-04-19,2025-04-19 19:28:56
+422,TKT-0422,Software update required,High,Closed,2025-01-19,2025-01-19 18:31:33
+423,TKT-0423,Monitor flickering,Low,Closed,2025-06-29,2025-06-29 09:16:38
+424,TKT-0424,Request for new license,Low,In Progress,2025-08-12,2025-08-12 03:37:14
+425,TKT-0425,Printer not responding,High,Resolved,2025-09-29,2025-09-29 02:28:45
+426,TKT-0426,Request for new license,High,Closed,2025-07-23,2025-07-23 03:04:15
+427,TKT-0427,VPN connection failed,High,Closed,2024-12-12,2024-12-12 20:36:55
+428,TKT-0428,Keyboard malfunction,Medium,Open,2025-11-21,2025-11-21 05:26:35
+429,TKT-0429,Monitor flickering,High,Open,2025-08-23,2025-08-23 01:31:06
+430,TKT-0430,Internet slow,Critical,In Progress,2025-07-02,2025-07-02 06:01:18
+431,TKT-0431,Software update required,Critical,Open,2025-03-21,2025-03-21 01:16:37
+432,TKT-0432,Software update required,Medium,Open,2025-05-06,2025-05-06 16:12:55
+433,TKT-0433,Email not syncing,Medium,Resolved,2025-04-15,2025-04-15 22:20:23
+434,TKT-0434,Keyboard malfunction,High,Open,2025-02-24,2025-02-24 02:02:16
+435,TKT-0435,Account locked out,Critical,Open,2024-12-26,2024-12-26 15:37:26
+436,TKT-0436,Monitor flickering,High,Closed,2025-06-08,2025-06-08 19:31:18
+437,TKT-0437,Email not syncing,Medium,In Progress,2025-06-10,2025-06-10 07:32:33
+438,TKT-0438,Mouse not working,Medium,Closed,2025-02-14,2025-02-14 06:42:55
+439,TKT-0439,Monitor flickering,Medium,In Progress,2025-04-19,2025-04-19 01:06:06
+440,TKT-0440,Printer not responding,Critical,In Progress,2025-05-24,2025-05-24 17:11:01
+441,TKT-0441,Blue screen error,Low,Closed,2025-03-23,2025-03-23 00:11:48
+442,TKT-0442,Request for new license,Critical,Closed,2025-09-07,2025-09-07 05:55:15
+443,TKT-0443,Internet slow,Medium,Open,2025-06-11,2025-06-11 23:23:30
+444,TKT-0444,VPN connection failed,Low,Closed,2024-12-26,2024-12-26 21:36:59
+445,TKT-0445,Password reset request,Medium,Open,2025-10-25,2025-10-25 08:23:02
+446,TKT-0446,Request for new license,Critical,Closed,2025-11-10,2025-11-10 16:49:59
+447,TKT-0447,Blue screen error,Medium,In Progress,2025-01-28,2025-01-28 17:35:50
+448,TKT-0448,Internet slow,High,In Progress,2025-11-05,2025-11-05 18:29:11
+449,TKT-0449,Request for new license,Low,Closed,2025-09-26,2025-09-26 04:47:54
+450,TKT-0450,Software update required,Medium,Open,2025-08-13,2025-08-13 14:07:13
+451,TKT-0451,VPN connection failed,Medium,Closed,2025-10-14,2025-10-14 16:14:04
+452,TKT-0452,Mouse not working,Low,In Progress,2025-08-16,2025-08-16 23:53:41
+453,TKT-0453,Account locked out,Medium,Open,2024-12-29,2024-12-29 19:57:18
+454,TKT-0454,Mouse not working,Critical,Open,2025-07-06,2025-07-06 23:26:32
+455,TKT-0455,Request for new license,Medium,Closed,2025-04-29,2025-04-29 16:40:07
+456,TKT-0456,Monitor flickering,Medium,Closed,2025-07-17,2025-07-17 15:06:56
+457,TKT-0457,Request for new license,High,In Progress,2025-08-29,2025-08-29 01:10:32
+458,TKT-0458,Blue screen error,High,Closed,2025-02-23,2025-02-23 06:45:27
+459,TKT-0459,Keyboard malfunction,High,In Progress,2024-12-13,2024-12-13 11:29:45
+460,TKT-0460,Email not syncing,Low,Resolved,2025-08-12,2025-08-12 16:28:54
+461,TKT-0461,Password reset request,Critical,Resolved,2025-06-30,2025-06-30 05:15:36
+462,TKT-0462,Keyboard malfunction,High,In Progress,2025-10-26,2025-10-26 12:41:04
+463,TKT-0463,Software update required,Low,In Progress,2025-05-05,2025-05-05 08:12:20
+464,TKT-0464,Password reset request,Low,In Progress,2025-02-21,2025-02-21 23:38:28
+465,TKT-0465,Software update required,Critical,Closed,2025-10-11,2025-10-11 04:38:18
+466,TKT-0466,Request for new license,Low,In Progress,2025-10-03,2025-10-03 14:51:01
+467,TKT-0467,Request for new license,Critical,Closed,2025-03-07,2025-03-07 14:38:35
+468,TKT-0468,VPN connection failed,High,Open,2025-01-12,2025-01-12 23:43:02
+469,TKT-0469,Software update required,High,Open,2025-07-29,2025-07-29 02:44:24
+470,TKT-0470,Blue screen error,High,Resolved,2024-12-30,2024-12-30 17:00:37
+471,TKT-0471,Request for new license,Critical,Closed,2025-01-19,2025-01-19 08:31:15
+472,TKT-0472,Internet slow,Low,In Progress,2025-04-06,2025-04-06 20:44:59
+473,TKT-0473,Keyboard malfunction,Critical,In Progress,2025-08-11,2025-08-11 17:43:48
+474,TKT-0474,Email not syncing,High,Closed,2024-12-17,2024-12-17 09:13:16
+475,TKT-0475,Blue screen error,High,In Progress,2025-08-24,2025-08-24 07:06:28
+476,TKT-0476,Software update required,High,Closed,2025-03-08,2025-03-08 15:15:55
+477,TKT-0477,Blue screen error,High,Closed,2025-09-03,2025-09-03 05:14:45
+478,TKT-0478,Software update required,High,Open,2024-12-10,2024-12-10 00:13:13
+479,TKT-0479,Mouse not working,Medium,Resolved,2025-07-23,2025-07-23 23:00:18
+480,TKT-0480,Password reset request,Critical,Resolved,2025-09-10,2025-09-10 14:15:27
+481,TKT-0481,Email not syncing,Medium,Resolved,2025-11-24,2025-11-24 12:07:50
+482,TKT-0482,Monitor flickering,Medium,Open,2025-01-21,2025-01-21 09:21:53
+483,TKT-0483,Request for new license,Medium,In Progress,2025-04-21,2025-04-21 13:06:42
+484,TKT-0484,Printer not responding,Critical,Closed,2025-01-16,2025-01-16 22:24:55
+485,TKT-0485,Software update required,Medium,Closed,2024-12-20,2024-12-20 16:00:35
+486,TKT-0486,Blue screen error,Critical,Resolved,2025-10-11,2025-10-11 12:02:56
+487,TKT-0487,Blue screen error,Low,Resolved,2025-06-20,2025-06-20 12:08:59
+488,TKT-0488,Mouse not working,Medium,Open,2025-04-07,2025-04-07 11:14:09
+489,TKT-0489,Internet slow,High,Resolved,2025-01-23,2025-01-23 07:49:37
+490,TKT-0490,Printer not responding,Critical,Closed,2025-06-10,2025-06-10 05:38:10
+491,TKT-0491,Internet slow,Low,Open,2025-09-06,2025-09-06 05:48:00
+492,TKT-0492,Mouse not working,Critical,In Progress,2025-07-02,2025-07-02 08:30:36
+493,TKT-0493,Monitor flickering,High,Open,2025-08-15,2025-08-15 15:38:24
+494,TKT-0494,Email not syncing,Critical,Open,2025-10-03,2025-10-03 08:28:15
+495,TKT-0495,Blue screen error,Critical,Resolved,2025-11-21,2025-11-21 14:37:15
+496,TKT-0496,Printer not responding,High,Resolved,2025-06-04,2025-06-04 14:28:57
+497,TKT-0497,Account locked out,Medium,Resolved,2025-05-27,2025-05-27 00:11:02
+498,TKT-0498,Software update required,Low,In Progress,2025-01-04,2025-01-04 05:23:18
+499,TKT-0499,Password reset request,High,In Progress,2025-11-17,2025-11-17 17:50:01
+500,TKT-0500,VPN connection failed,Critical,In Progress,2025-11-28,2025-11-28 10:22:24
+501,TKT-0501,Email not syncing,High,In Progress,2025-06-16,2025-06-16 18:03:41
+502,TKT-0502,Password reset request,High,In Progress,2025-09-05,2025-09-05 06:04:00
+503,TKT-0503,Software update required,Critical,Closed,2025-07-30,2025-07-30 19:24:20
+504,TKT-0504,Mouse not working,High,Closed,2025-01-28,2025-01-28 09:00:44
+505,TKT-0505,Request for new license,High,In Progress,2025-11-02,2025-11-02 17:06:08
+506,TKT-0506,Keyboard malfunction,Critical,Open,2025-10-26,2025-10-26 19:52:29
+507,TKT-0507,Software update required,High,In Progress,2025-11-24,2025-11-24 13:51:31
+508,TKT-0508,Software update required,High,Open,2025-07-31,2025-07-31 00:35:39
+509,TKT-0509,Request for new license,High,Closed,2025-04-17,2025-04-17 22:03:21
+510,TKT-0510,VPN connection failed,High,In Progress,2025-06-03,2025-06-03 06:29:25
+511,TKT-0511,Monitor flickering,Critical,In Progress,2025-08-27,2025-08-27 08:04:27
+512,TKT-0512,Request for new license,Medium,Closed,2025-06-30,2025-06-30 00:36:59
+513,TKT-0513,VPN connection failed,Critical,In Progress,2025-03-17,2025-03-17 11:21:40
+514,TKT-0514,Software update required,Critical,In Progress,2025-01-02,2025-01-02 17:35:00
+515,TKT-0515,Request for new license,Critical,Resolved,2025-10-20,2025-10-20 01:52:12
+516,TKT-0516,Account locked out,Critical,Closed,2025-08-10,2025-08-10 23:51:42
+517,TKT-0517,Software update required,Low,Open,2025-01-01,2025-01-01 03:46:13
+518,TKT-0518,Mouse not working,High,In Progress,2025-06-11,2025-06-11 10:18:32
+519,TKT-0519,Blue screen error,Critical,Resolved,2025-10-01,2025-10-01 10:37:34
+520,TKT-0520,Software update required,Low,In Progress,2025-12-06,2025-12-06 00:24:29
+521,TKT-0521,Account locked out,Critical,Resolved,2025-04-16,2025-04-16 16:45:00
+522,TKT-0522,Software update required,Low,In Progress,2025-01-07,2025-01-07 07:01:31
+523,TKT-0523,Monitor flickering,Critical,Closed,2025-01-24,2025-01-24 21:12:12
+524,TKT-0524,Internet slow,Critical,In Progress,2025-10-01,2025-10-01 10:24:00
+525,TKT-0525,Account locked out,Low,Closed,2025-05-16,2025-05-16 04:44:22
+526,TKT-0526,Request for new license,High,In Progress,2025-02-19,2025-02-19 21:04:13
+527,TKT-0527,Account locked out,Medium,In Progress,2025-06-04,2025-06-04 09:17:02
+528,TKT-0528,Mouse not working,High,Closed,2025-04-24,2025-04-24 05:07:12
+529,TKT-0529,Mouse not working,Medium,Closed,2025-05-27,2025-05-27 17:00:14
+530,TKT-0530,Keyboard malfunction,Medium,Resolved,2025-09-13,2025-09-13 01:40:03
+531,TKT-0531,Internet slow,Critical,In Progress,2025-09-01,2025-09-01 15:04:04
+532,TKT-0532,Monitor flickering,Critical,In Progress,2025-08-15,2025-08-15 11:17:42
+533,TKT-0533,Printer not responding,High,Open,2024-12-21,2024-12-21 00:24:53
+534,TKT-0534,Password reset request,Medium,Closed,2025-03-01,2025-03-01 22:32:47
+535,TKT-0535,Printer not responding,Low,Closed,2025-03-10,2025-03-10 21:27:23
+536,TKT-0536,Internet slow,Critical,Closed,2025-01-22,2025-01-22 08:15:50
+537,TKT-0537,Mouse not working,Medium,Open,2025-09-25,2025-09-25 19:27:06
+538,TKT-0538,VPN connection failed,Low,Closed,2025-01-12,2025-01-12 10:50:26
+539,TKT-0539,Internet slow,Medium,In Progress,2025-01-13,2025-01-13 01:08:54
+540,TKT-0540,Monitor flickering,Critical,Resolved,2025-12-06,2025-12-06 07:43:19
+541,TKT-0541,Monitor flickering,Low,Closed,2024-12-21,2024-12-21 12:45:11
+542,TKT-0542,Account locked out,Medium,Resolved,2025-01-02,2025-01-02 02:37:21
+543,TKT-0543,Blue screen error,Low,Closed,2025-08-11,2025-08-11 08:26:24
+544,TKT-0544,Keyboard malfunction,High,In Progress,2025-05-24,2025-05-24 05:56:04
+545,TKT-0545,Email not syncing,High,Open,2025-01-03,2025-01-03 19:47:26
+546,TKT-0546,Monitor flickering,Medium,Open,2025-01-10,2025-01-10 11:20:22
+547,TKT-0547,Software update required,High,Open,2025-02-27,2025-02-27 19:56:41
+548,TKT-0548,Password reset request,Critical,Open,2025-07-27,2025-07-27 05:46:53
+549,TKT-0549,Keyboard malfunction,High,Open,2025-08-12,2025-08-12 11:15:07
+550,TKT-0550,Request for new license,Medium,Resolved,2025-02-02,2025-02-02 00:44:30
+551,TKT-0551,Monitor flickering,Critical,Open,2025-11-10,2025-11-10 13:14:19
+552,TKT-0552,Password reset request,High,Open,2025-04-03,2025-04-03 01:57:17
+553,TKT-0553,Keyboard malfunction,Low,Closed,2025-05-20,2025-05-20 12:14:48
+554,TKT-0554,VPN connection failed,Critical,In Progress,2025-05-16,2025-05-16 16:27:58
+555,TKT-0555,Keyboard malfunction,Low,In Progress,2025-04-04,2025-04-04 16:09:49
+556,TKT-0556,Software update required,Medium,Closed,2025-07-05,2025-07-05 21:30:26
+557,TKT-0557,Mouse not working,Medium,Resolved,2025-10-10,2025-10-10 22:26:19
+558,TKT-0558,VPN connection failed,Medium,Closed,2025-01-13,2025-01-13 12:08:26
+559,TKT-0559,Software update required,Medium,Resolved,2025-07-23,2025-07-23 09:06:42
+560,TKT-0560,Software update required,Medium,Resolved,2025-09-29,2025-09-29 20:00:55
+561,TKT-0561,Internet slow,High,In Progress,2025-11-22,2025-11-22 21:31:05
+562,TKT-0562,Email not syncing,Critical,In Progress,2025-06-24,2025-06-24 09:54:01
+563,TKT-0563,Mouse not working,Critical,Resolved,2024-12-29,2024-12-29 09:45:34
+564,TKT-0564,Keyboard malfunction,Critical,Open,2025-04-21,2025-04-21 17:49:02
+565,TKT-0565,Internet slow,High,Open,2025-04-02,2025-04-02 02:08:29
+566,TKT-0566,Keyboard malfunction,Critical,In Progress,2025-04-15,2025-04-15 07:21:03
+567,TKT-0567,VPN connection failed,Medium,Closed,2025-01-14,2025-01-14 09:23:30
+568,TKT-0568,Keyboard malfunction,Low,Open,2024-12-13,2024-12-13 17:37:08
+569,TKT-0569,Mouse not working,High,Resolved,2024-12-21,2024-12-21 08:16:10
+570,TKT-0570,Request for new license,High,Resolved,2024-12-10,2024-12-10 02:24:18
+571,TKT-0571,Blue screen error,Low,Resolved,2025-11-22,2025-11-22 17:13:05
+572,TKT-0572,Mouse not working,High,Closed,2025-01-02,2025-01-02 14:45:34
+573,TKT-0573,Password reset request,Low,Resolved,2025-11-21,2025-11-21 03:11:50
+574,TKT-0574,Keyboard malfunction,High,Closed,2025-03-06,2025-03-06 20:15:30
+575,TKT-0575,Internet slow,Low,In Progress,2025-02-21,2025-02-21 07:54:22
+576,TKT-0576,Account locked out,High,In Progress,2025-02-17,2025-02-17 06:18:05
+577,TKT-0577,Account locked out,High,In Progress,2025-10-31,2025-10-31 19:59:00
+578,TKT-0578,Monitor flickering,Critical,Closed,2025-04-07,2025-04-07 17:59:31
+579,TKT-0579,Software update required,Medium,Resolved,2025-07-15,2025-07-15 21:59:03
+580,TKT-0580,Blue screen error,Low,Open,2025-08-15,2025-08-15 09:59:23
+581,TKT-0581,Password reset request,Medium,Closed,2025-03-05,2025-03-05 14:12:31
+582,TKT-0582,Keyboard malfunction,Critical,In Progress,2025-06-25,2025-06-25 11:51:09
+583,TKT-0583,Monitor flickering,Medium,In Progress,2025-09-06,2025-09-06 14:00:14
+584,TKT-0584,Account locked out,Low,In Progress,2025-11-17,2025-11-17 20:09:37
+585,TKT-0585,Email not syncing,Medium,Closed,2025-02-08,2025-02-08 10:37:53
+586,TKT-0586,Password reset request,Low,Closed,2025-04-02,2025-04-02 18:46:50
+587,TKT-0587,Account locked out,Medium,Closed,2025-04-06,2025-04-06 14:46:54
+588,TKT-0588,Printer not responding,Low,Open,2025-04-04,2025-04-04 22:01:32
+589,TKT-0589,Monitor flickering,High,Closed,2025-09-23,2025-09-23 06:10:52
+590,TKT-0590,Software update required,High,In Progress,2025-09-24,2025-09-24 19:32:02
+591,TKT-0591,VPN connection failed,Critical,Closed,2025-07-13,2025-07-13 09:42:17
+592,TKT-0592,Mouse not working,Critical,Resolved,2025-03-19,2025-03-19 05:40:28
+593,TKT-0593,Keyboard malfunction,Low,Closed,2025-03-28,2025-03-28 15:18:15
+594,TKT-0594,Account locked out,High,Closed,2025-08-12,2025-08-12 13:48:49
+595,TKT-0595,Monitor flickering,High,Open,2024-12-27,2024-12-27 15:16:06
+596,TKT-0596,Monitor flickering,Medium,In Progress,2025-03-29,2025-03-29 14:52:49
+597,TKT-0597,Mouse not working,High,Open,2025-04-11,2025-04-11 01:37:59
+598,TKT-0598,Email not syncing,Critical,Open,2025-01-25,2025-01-25 01:27:21
+599,TKT-0599,Printer not responding,High,Open,2025-10-20,2025-10-20 00:21:42
+600,TKT-0600,Mouse not working,Low,Closed,2024-12-21,2024-12-21 13:33:29
+601,TKT-0601,Account locked out,Critical,Resolved,2025-05-08,2025-05-08 01:57:27
+602,TKT-0602,Printer not responding,Critical,In Progress,2025-09-24,2025-09-24 23:40:55
+603,TKT-0603,Internet slow,Critical,Open,2025-03-29,2025-03-29 19:14:08
+604,TKT-0604,Monitor flickering,Medium,Closed,2025-08-01,2025-08-01 08:01:40
+605,TKT-0605,Account locked out,Medium,Resolved,2025-10-17,2025-10-17 06:53:34
+606,TKT-0606,Email not syncing,Medium,Closed,2025-06-06,2025-06-06 20:22:20
+607,TKT-0607,Software update required,Medium,Closed,2025-05-18,2025-05-18 06:59:38
+608,TKT-0608,VPN connection failed,Low,In Progress,2025-06-20,2025-06-20 12:43:40
+609,TKT-0609,Software update required,High,Closed,2025-01-26,2025-01-26 15:44:57
+610,TKT-0610,Password reset request,Low,Resolved,2025-08-09,2025-08-09 17:13:33
+611,TKT-0611,VPN connection failed,Medium,Open,2025-02-20,2025-02-20 10:11:10
+612,TKT-0612,Internet slow,Critical,Open,2025-05-31,2025-05-31 15:36:17
+613,TKT-0613,Request for new license,Critical,Closed,2025-08-11,2025-08-11 07:27:42
+614,TKT-0614,Printer not responding,Medium,Closed,2024-12-13,2024-12-13 17:57:50
+615,TKT-0615,Request for new license,Critical,Closed,2025-10-23,2025-10-23 23:15:58
+616,TKT-0616,Monitor flickering,Low,Resolved,2025-05-02,2025-05-02 02:31:39
+617,TKT-0617,Mouse not working,High,Closed,2025-11-11,2025-11-11 01:26:40
+618,TKT-0618,Monitor flickering,Medium,Resolved,2025-11-30,2025-11-30 16:24:55
+619,TKT-0619,Software update required,Medium,Resolved,2025-08-23,2025-08-23 06:35:45
+620,TKT-0620,VPN connection failed,Low,Closed,2025-06-11,2025-06-11 03:49:57
+621,TKT-0621,Account locked out,High,Open,2025-12-05,2025-12-05 00:05:06
+622,TKT-0622,Monitor flickering,High,Open,2025-05-28,2025-05-28 22:44:09
+623,TKT-0623,Printer not responding,Medium,Resolved,2024-12-27,2024-12-27 15:55:44
+624,TKT-0624,Password reset request,Critical,Resolved,2025-11-16,2025-11-16 21:38:20
+625,TKT-0625,Monitor flickering,Low,Open,2025-08-12,2025-08-12 03:29:53
+626,TKT-0626,Email not syncing,Low,In Progress,2025-10-20,2025-10-20 09:45:05
+627,TKT-0627,Mouse not working,High,In Progress,2025-05-02,2025-05-02 19:56:55
+628,TKT-0628,Account locked out,Low,Open,2025-03-30,2025-03-30 13:58:25
+629,TKT-0629,Printer not responding,High,Open,2025-03-15,2025-03-15 08:57:24
+630,TKT-0630,Monitor flickering,High,In Progress,2025-08-20,2025-08-20 15:07:03
+631,TKT-0631,Blue screen error,Medium,In Progress,2025-04-10,2025-04-10 02:14:04
+632,TKT-0632,Monitor flickering,High,Open,2025-01-30,2025-01-30 03:19:36
+633,TKT-0633,Request for new license,Low,Resolved,2025-02-27,2025-02-27 11:07:16
+634,TKT-0634,Email not syncing,Low,Resolved,2025-01-02,2025-01-02 05:46:08
+635,TKT-0635,Software update required,High,Closed,2024-12-11,2024-12-11 07:07:30
+636,TKT-0636,Blue screen error,High,Closed,2025-08-31,2025-08-31 10:35:33
+637,TKT-0637,Account locked out,High,Closed,2025-04-26,2025-04-26 19:28:27
+638,TKT-0638,Blue screen error,Medium,In Progress,2025-06-22,2025-06-22 22:42:32
+639,TKT-0639,Internet slow,High,In Progress,2025-01-02,2025-01-02 20:48:08
+640,TKT-0640,Blue screen error,Critical,Open,2025-10-04,2025-10-04 10:04:09
+641,TKT-0641,Internet slow,Medium,Closed,2025-08-26,2025-08-26 19:05:14
+642,TKT-0642,Request for new license,Low,Resolved,2024-12-23,2024-12-23 13:52:40
+643,TKT-0643,VPN connection failed,Medium,Closed,2025-05-09,2025-05-09 18:36:21
+644,TKT-0644,Mouse not working,Medium,Resolved,2025-09-01,2025-09-01 08:53:20
+645,TKT-0645,Request for new license,Medium,Open,2025-03-30,2025-03-30 22:49:09
+646,TKT-0646,Email not syncing,Critical,In Progress,2025-03-27,2025-03-27 03:00:23
+647,TKT-0647,Mouse not working,Medium,Closed,2025-06-17,2025-06-17 22:42:05
+648,TKT-0648,Software update required,High,Resolved,2025-01-02,2025-01-02 23:11:43
+649,TKT-0649,Keyboard malfunction,Low,Open,2025-11-27,2025-11-27 05:29:03
+650,TKT-0650,Blue screen error,Low,Open,2025-04-13,2025-04-13 10:59:50
+651,TKT-0651,Keyboard malfunction,Low,In Progress,2025-09-03,2025-09-03 14:10:00
+652,TKT-0652,Mouse not working,High,In Progress,2025-04-30,2025-04-30 03:41:42
+653,TKT-0653,Password reset request,Medium,Open,2025-03-30,2025-03-30 15:28:48
+654,TKT-0654,Internet slow,Critical,Resolved,2025-02-11,2025-02-11 17:22:12
+655,TKT-0655,Password reset request,Low,Open,2025-05-16,2025-05-16 00:04:24
+656,TKT-0656,Printer not responding,Medium,Resolved,2025-08-05,2025-08-05 00:35:04
+657,TKT-0657,Account locked out,Critical,Open,2025-09-23,2025-09-23 14:37:26
+658,TKT-0658,Account locked out,Critical,Resolved,2025-02-08,2025-02-08 09:31:10
+659,TKT-0659,Software update required,High,In Progress,2025-05-14,2025-05-14 19:51:38
+660,TKT-0660,Mouse not working,Low,Resolved,2025-10-08,2025-10-08 17:45:31
+661,TKT-0661,Printer not responding,Critical,In Progress,2025-08-19,2025-08-19 21:16:25
+662,TKT-0662,Keyboard malfunction,Critical,Closed,2025-07-18,2025-07-18 13:09:43
+663,TKT-0663,Monitor flickering,Low,Resolved,2025-10-15,2025-10-15 16:18:52
+664,TKT-0664,Email not syncing,Medium,In Progress,2025-01-06,2025-01-06 05:39:11
+665,TKT-0665,VPN connection failed,High,Resolved,2025-09-17,2025-09-17 13:47:23
+666,TKT-0666,Internet slow,Critical,Resolved,2025-08-16,2025-08-16 09:22:10
+667,TKT-0667,Email not syncing,Critical,In Progress,2025-09-21,2025-09-21 16:48:37
+668,TKT-0668,Software update required,Low,Open,2024-12-14,2024-12-14 18:22:24
+669,TKT-0669,Account locked out,Medium,Resolved,2025-08-02,2025-08-02 03:19:25
+670,TKT-0670,VPN connection failed,High,Resolved,2025-01-08,2025-01-08 14:04:14
+671,TKT-0671,Password reset request,Low,In Progress,2025-06-02,2025-06-02 23:57:28
+672,TKT-0672,Account locked out,Low,In Progress,2025-01-24,2025-01-24 22:47:44
+673,TKT-0673,VPN connection failed,Low,Resolved,2025-03-28,2025-03-28 11:28:41
+674,TKT-0674,Password reset request,Critical,In Progress,2025-11-15,2025-11-15 09:28:55
+675,TKT-0675,Keyboard malfunction,Critical,Closed,2025-11-02,2025-11-02 15:48:03
+676,TKT-0676,VPN connection failed,High,Resolved,2025-05-13,2025-05-13 23:44:21
+677,TKT-0677,Blue screen error,Critical,Resolved,2025-02-04,2025-02-04 08:40:06
+678,TKT-0678,Keyboard malfunction,Low,Closed,2025-01-27,2025-01-27 16:11:09
+679,TKT-0679,Printer not responding,High,Open,2025-08-03,2025-08-03 08:42:07
+680,TKT-0680,Mouse not working,Critical,In Progress,2025-07-09,2025-07-09 08:37:56
+681,TKT-0681,Software update required,High,In Progress,2025-11-04,2025-11-04 05:58:27
+682,TKT-0682,Internet slow,Low,Resolved,2024-12-28,2024-12-28 23:20:41
+683,TKT-0683,Request for new license,High,Resolved,2025-07-07,2025-07-07 17:25:07
+684,TKT-0684,Email not syncing,Critical,In Progress,2025-11-09,2025-11-09 14:35:44
+685,TKT-0685,Email not syncing,Low,In Progress,2025-08-10,2025-08-10 10:28:02
+686,TKT-0686,Password reset request,Critical,Closed,2025-03-19,2025-03-19 22:10:05
+687,TKT-0687,Software update required,Medium,Closed,2025-08-05,2025-08-05 22:02:53
+688,TKT-0688,Password reset request,Medium,Open,2025-04-24,2025-04-24 09:06:17
+689,TKT-0689,Monitor flickering,High,Open,2025-10-25,2025-10-25 13:24:14
+690,TKT-0690,Password reset request,Critical,In Progress,2025-09-18,2025-09-18 00:54:12
+691,TKT-0691,Password reset request,Low,In Progress,2025-09-23,2025-09-23 16:52:12
+692,TKT-0692,Mouse not working,Low,Resolved,2025-02-10,2025-02-10 20:51:28
+693,TKT-0693,Keyboard malfunction,Critical,In Progress,2025-06-13,2025-06-13 00:50:07
+694,TKT-0694,Blue screen error,Low,In Progress,2025-07-13,2025-07-13 05:06:27
+695,TKT-0695,Monitor flickering,Medium,In Progress,2025-08-01,2025-08-01 04:29:11
+696,TKT-0696,Account locked out,High,Resolved,2025-10-06,2025-10-06 09:28:06
+697,TKT-0697,Monitor flickering,High,Resolved,2025-10-07,2025-10-07 03:11:17
+698,TKT-0698,Blue screen error,Low,Closed,2025-03-08,2025-03-08 22:38:40
+699,TKT-0699,Email not syncing,High,In Progress,2025-05-31,2025-05-31 13:22:30
+700,TKT-0700,Internet slow,High,Open,2025-05-26,2025-05-26 15:10:52
+701,TKT-0701,Request for new license,Low,In Progress,2025-07-04,2025-07-04 14:04:53
+702,TKT-0702,Keyboard malfunction,High,Open,2025-04-10,2025-04-10 13:05:11
+703,TKT-0703,Account locked out,Low,In Progress,2024-12-27,2024-12-27 05:25:53
+704,TKT-0704,Blue screen error,High,In Progress,2024-12-17,2024-12-17 01:02:08
+705,TKT-0705,Blue screen error,High,In Progress,2025-10-14,2025-10-14 12:27:38
+706,TKT-0706,Email not syncing,Low,Closed,2025-06-15,2025-06-15 00:28:47
+707,TKT-0707,Software update required,Low,In Progress,2025-10-18,2025-10-18 22:53:29
+708,TKT-0708,Software update required,Medium,In Progress,2025-02-04,2025-02-04 06:39:30
+709,TKT-0709,Software update required,High,Resolved,2025-02-04,2025-02-04 11:52:08
+710,TKT-0710,Mouse not working,High,In Progress,2025-09-06,2025-09-06 20:31:06
+711,TKT-0711,Email not syncing,High,Open,2024-12-13,2024-12-13 22:16:26
+712,TKT-0712,Monitor flickering,High,In Progress,2025-02-17,2025-02-17 10:32:14
+713,TKT-0713,Software update required,Low,In Progress,2025-11-19,2025-11-19 15:06:32
+714,TKT-0714,Keyboard malfunction,Low,Closed,2025-07-02,2025-07-02 15:44:00
+715,TKT-0715,Monitor flickering,Critical,Resolved,2025-10-21,2025-10-21 01:11:04
+716,TKT-0716,Printer not responding,Medium,Open,2025-07-27,2025-07-27 03:03:19
+717,TKT-0717,Password reset request,High,Closed,2025-02-20,2025-02-20 07:00:37
+718,TKT-0718,Monitor flickering,Critical,Open,2025-10-01,2025-10-01 09:41:41
+719,TKT-0719,Keyboard malfunction,Critical,Closed,2025-01-09,2025-01-09 21:48:36
+720,TKT-0720,Monitor flickering,Low,In Progress,2025-06-30,2025-06-30 13:49:00
+721,TKT-0721,Keyboard malfunction,Medium,Open,2024-12-27,2024-12-27 06:16:49
+722,TKT-0722,Password reset request,Medium,Open,2025-11-12,2025-11-12 19:30:48
+723,TKT-0723,Blue screen error,Critical,Resolved,2024-12-31,2024-12-31 21:00:35
+724,TKT-0724,Email not syncing,Medium,Resolved,2025-09-24,2025-09-24 05:46:41
+725,TKT-0725,Monitor flickering,Low,Open,2025-12-05,2025-12-05 15:49:02
+726,TKT-0726,Monitor flickering,Medium,Resolved,2025-06-23,2025-06-23 18:50:06
+727,TKT-0727,Printer not responding,High,Resolved,2025-02-10,2025-02-10 02:37:23
+728,TKT-0728,Internet slow,High,Open,2025-02-28,2025-02-28 15:17:30
+729,TKT-0729,Password reset request,Medium,Resolved,2024-12-13,2024-12-13 10:37:18
+730,TKT-0730,Printer not responding,Low,Open,2024-12-15,2024-12-15 00:22:21
+731,TKT-0731,VPN connection failed,High,Open,2025-11-27,2025-11-27 02:49:26
+732,TKT-0732,Request for new license,Low,Resolved,2024-12-23,2024-12-23 11:37:51
+733,TKT-0733,Request for new license,Medium,Closed,2025-09-01,2025-09-01 22:09:35
+734,TKT-0734,Mouse not working,Critical,In Progress,2024-12-31,2024-12-31 14:56:41
+735,TKT-0735,Software update required,Medium,In Progress,2025-08-22,2025-08-22 21:51:34
+736,TKT-0736,Blue screen error,Low,Closed,2025-04-19,2025-04-19 00:05:10
+737,TKT-0737,Software update required,Critical,Resolved,2025-01-06,2025-01-06 03:17:36
+738,TKT-0738,Keyboard malfunction,Medium,Resolved,2025-02-27,2025-02-27 23:49:48
+739,TKT-0739,Email not syncing,Critical,Open,2025-02-28,2025-02-28 21:59:52
+740,TKT-0740,Request for new license,Medium,In Progress,2025-07-01,2025-07-01 09:17:49
+741,TKT-0741,Keyboard malfunction,Critical,Closed,2025-07-20,2025-07-20 19:11:15
+742,TKT-0742,Password reset request,High,In Progress,2025-04-30,2025-04-30 14:24:34
+743,TKT-0743,Keyboard malfunction,Critical,Closed,2025-04-02,2025-04-02 18:25:36
+744,TKT-0744,Internet slow,High,In Progress,2025-09-02,2025-09-02 23:45:30
+745,TKT-0745,Monitor flickering,High,Closed,2025-05-27,2025-05-27 20:56:12
+746,TKT-0746,Blue screen error,Critical,In Progress,2025-02-04,2025-02-04 22:51:30
+747,TKT-0747,Email not syncing,Critical,Closed,2025-04-10,2025-04-10 22:42:01
+748,TKT-0748,Internet slow,High,Resolved,2025-11-30,2025-11-30 09:12:49
+749,TKT-0749,Keyboard malfunction,Critical,Open,2025-03-17,2025-03-17 18:20:03
+750,TKT-0750,VPN connection failed,High,In Progress,2025-11-17,2025-11-17 22:28:22
+751,TKT-0751,Monitor flickering,Critical,In Progress,2025-01-09,2025-01-09 05:17:59
+752,TKT-0752,Request for new license,Medium,In Progress,2025-06-15,2025-06-15 05:01:03
+753,TKT-0753,Email not syncing,Critical,Closed,2024-12-28,2024-12-28 23:42:24
+754,TKT-0754,Blue screen error,Medium,Open,2025-06-27,2025-06-27 07:54:57
+755,TKT-0755,Request for new license,Medium,Open,2025-06-21,2025-06-21 02:57:22
+756,TKT-0756,VPN connection failed,Medium,Resolved,2025-01-21,2025-01-21 12:12:36
+757,TKT-0757,Password reset request,High,Resolved,2025-04-03,2025-04-03 04:49:27
+758,TKT-0758,Keyboard malfunction,Critical,In Progress,2025-05-16,2025-05-16 19:05:43
+759,TKT-0759,Mouse not working,High,Open,2025-10-15,2025-10-15 22:04:41
+760,TKT-0760,Email not syncing,Low,In Progress,2025-09-21,2025-09-21 14:45:52
+761,TKT-0761,Software update required,Medium,In Progress,2025-10-29,2025-10-29 13:10:56
+762,TKT-0762,Internet slow,High,Closed,2025-03-11,2025-03-11 23:52:02
+763,TKT-0763,Printer not responding,Low,Closed,2025-03-21,2025-03-21 16:54:55
+764,TKT-0764,Internet slow,Low,Closed,2025-09-16,2025-09-16 04:24:50
+765,TKT-0765,Mouse not working,Medium,Closed,2025-10-14,2025-10-14 09:08:57
+766,TKT-0766,Mouse not working,Critical,Open,2024-12-27,2024-12-27 02:44:07
+767,TKT-0767,Printer not responding,Medium,Open,2025-11-29,2025-11-29 05:08:11
+768,TKT-0768,Software update required,High,Resolved,2024-12-22,2024-12-22 05:39:54
+769,TKT-0769,Internet slow,Critical,Resolved,2025-12-09,2025-12-09 15:50:34
+770,TKT-0770,Blue screen error,Critical,In Progress,2025-11-16,2025-11-16 16:59:27
+771,TKT-0771,Request for new license,Critical,Open,2025-07-31,2025-07-31 13:25:41
+772,TKT-0772,Account locked out,Critical,Resolved,2025-11-25,2025-11-25 10:53:09
+773,TKT-0773,Email not syncing,Low,Open,2025-11-30,2025-11-30 00:09:20
+774,TKT-0774,VPN connection failed,Critical,In Progress,2025-08-17,2025-08-17 05:24:29
+775,TKT-0775,VPN connection failed,Critical,Closed,2025-09-13,2025-09-13 22:28:52
+776,TKT-0776,Request for new license,Low,Closed,2025-02-08,2025-02-08 07:46:04
+777,TKT-0777,Account locked out,Medium,In Progress,2025-03-25,2025-03-25 09:58:58
+778,TKT-0778,Password reset request,Critical,In Progress,2025-10-22,2025-10-22 03:55:13
+779,TKT-0779,Monitor flickering,High,Resolved,2025-09-09,2025-09-09 12:07:53
+780,TKT-0780,Printer not responding,Critical,Closed,2025-11-08,2025-11-08 03:57:11
+781,TKT-0781,Email not syncing,Low,In Progress,2025-11-30,2025-11-30 20:07:03
+782,TKT-0782,Blue screen error,Critical,Resolved,2025-05-09,2025-05-09 00:13:58
+783,TKT-0783,Account locked out,Critical,Closed,2025-01-19,2025-01-19 16:02:48
+784,TKT-0784,Keyboard malfunction,Medium,Open,2025-09-21,2025-09-21 20:43:46
+785,TKT-0785,Keyboard malfunction,High,In Progress,2025-05-14,2025-05-14 23:23:53
+786,TKT-0786,Blue screen error,Critical,Closed,2025-10-22,2025-10-22 06:12:45
+787,TKT-0787,Mouse not working,Critical,Closed,2025-04-09,2025-04-09 02:05:00
+788,TKT-0788,Monitor flickering,Medium,In Progress,2025-12-06,2025-12-06 18:35:09
+789,TKT-0789,Mouse not working,High,Open,2025-05-10,2025-05-10 04:19:06
+790,TKT-0790,Request for new license,Low,Resolved,2025-02-11,2025-02-11 00:56:32
+791,TKT-0791,Request for new license,Critical,In Progress,2024-12-27,2024-12-27 07:40:47
+792,TKT-0792,Internet slow,Low,Resolved,2025-05-01,2025-05-01 15:38:36
+793,TKT-0793,Keyboard malfunction,High,Closed,2025-04-10,2025-04-10 04:08:24
+794,TKT-0794,Request for new license,High,In Progress,2025-05-22,2025-05-22 02:07:27
+795,TKT-0795,Mouse not working,High,In Progress,2025-12-09,2025-12-09 09:13:40
+796,TKT-0796,Software update required,Low,Resolved,2025-04-07,2025-04-07 02:23:49
+797,TKT-0797,Monitor flickering,Medium,In Progress,2025-01-08,2025-01-08 23:07:16
+798,TKT-0798,Keyboard malfunction,Medium,Closed,2025-05-09,2025-05-09 12:01:00
+799,TKT-0799,Blue screen error,High,In Progress,2025-02-15,2025-02-15 23:16:07
+800,TKT-0800,Account locked out,Critical,Closed,2025-07-10,2025-07-10 06:17:00
+801,TKT-0801,Email not syncing,Critical,In Progress,2025-08-28,2025-08-28 20:26:58
+802,TKT-0802,Email not syncing,Low,Resolved,2025-10-02,2025-10-02 07:50:59
+803,TKT-0803,Keyboard malfunction,Medium,Resolved,2025-05-19,2025-05-19 01:50:11
+804,TKT-0804,Blue screen error,High,Resolved,2025-02-03,2025-02-03 04:17:07
+805,TKT-0805,Printer not responding,Medium,Open,2025-09-10,2025-09-10 12:47:31
+806,TKT-0806,Request for new license,Low,Resolved,2025-09-19,2025-09-19 15:04:48
+807,TKT-0807,Internet slow,Medium,Closed,2025-05-29,2025-05-29 14:28:28
+808,TKT-0808,Account locked out,Low,In Progress,2025-01-13,2025-01-13 06:44:49
+809,TKT-0809,Mouse not working,High,In Progress,2025-11-13,2025-11-13 14:36:17
+810,TKT-0810,Internet slow,Critical,Open,2025-11-06,2025-11-06 21:20:57
+811,TKT-0811,Keyboard malfunction,High,Open,2025-05-06,2025-05-06 14:39:32
+812,TKT-0812,Request for new license,Medium,In Progress,2025-09-17,2025-09-17 01:44:15
+813,TKT-0813,VPN connection failed,High,Closed,2025-05-13,2025-05-13 22:32:02
+814,TKT-0814,VPN connection failed,High,Resolved,2025-08-03,2025-08-03 02:16:57
+815,TKT-0815,Mouse not working,Medium,Resolved,2025-06-25,2025-06-25 10:22:33
+816,TKT-0816,Email not syncing,Low,Open,2025-08-26,2025-08-26 12:32:23
+817,TKT-0817,Blue screen error,High,Open,2025-07-31,2025-07-31 08:11:28
+818,TKT-0818,Monitor flickering,Critical,Open,2025-04-16,2025-04-16 18:23:09
+819,TKT-0819,Internet slow,High,Closed,2024-12-26,2024-12-26 06:51:58
+820,TKT-0820,VPN connection failed,Medium,Closed,2025-03-17,2025-03-17 19:03:01
+821,TKT-0821,Printer not responding,Critical,Closed,2025-07-12,2025-07-12 19:16:27
+822,TKT-0822,Account locked out,Critical,In Progress,2025-07-03,2025-07-03 20:28:16
+823,TKT-0823,Account locked out,Low,Resolved,2025-08-03,2025-08-03 01:51:22
+824,TKT-0824,Mouse not working,Medium,Open,2025-03-16,2025-03-16 22:15:03
+825,TKT-0825,Password reset request,Low,Closed,2025-10-14,2025-10-14 02:02:21
+826,TKT-0826,Password reset request,Low,In Progress,2025-07-15,2025-07-15 10:52:58
+827,TKT-0827,Software update required,High,Closed,2025-05-18,2025-05-18 08:38:57
+828,TKT-0828,Internet slow,Medium,Closed,2025-05-17,2025-05-17 02:05:37
+829,TKT-0829,Mouse not working,Critical,In Progress,2025-12-04,2025-12-04 05:30:20
+830,TKT-0830,Software update required,Medium,Open,2025-10-12,2025-10-12 13:48:25
+831,TKT-0831,Request for new license,Medium,Open,2025-01-18,2025-01-18 05:02:47
+832,TKT-0832,Request for new license,Critical,In Progress,2025-09-10,2025-09-10 03:10:32
+833,TKT-0833,Monitor flickering,Medium,Resolved,2025-01-11,2025-01-11 08:31:27
+834,TKT-0834,Password reset request,High,Open,2025-08-12,2025-08-12 22:42:07
+835,TKT-0835,Monitor flickering,Medium,Open,2025-03-29,2025-03-29 02:31:57
+836,TKT-0836,VPN connection failed,Critical,In Progress,2025-02-27,2025-02-27 08:39:34
+837,TKT-0837,Software update required,Critical,Closed,2025-11-09,2025-11-09 23:12:12
+838,TKT-0838,Software update required,Critical,In Progress,2025-10-27,2025-10-27 01:42:44
+839,TKT-0839,Blue screen error,High,Resolved,2025-10-08,2025-10-08 19:39:07
+840,TKT-0840,Mouse not working,Medium,Closed,2025-08-04,2025-08-04 16:14:22
+841,TKT-0841,Internet slow,Medium,Open,2025-06-11,2025-06-11 06:20:57
+842,TKT-0842,Printer not responding,Critical,Open,2025-01-12,2025-01-12 12:57:41
+843,TKT-0843,Software update required,High,Resolved,2025-08-19,2025-08-19 14:37:13
+844,TKT-0844,Printer not responding,Low,Open,2025-10-12,2025-10-12 11:24:55
+845,TKT-0845,Account locked out,Medium,Open,2025-07-02,2025-07-02 07:41:07
+846,TKT-0846,Email not syncing,Critical,Resolved,2025-10-14,2025-10-14 17:58:30
+847,TKT-0847,Keyboard malfunction,Critical,Open,2025-05-29,2025-05-29 12:19:25
+848,TKT-0848,Mouse not working,Medium,Open,2025-03-16,2025-03-16 18:51:20
+849,TKT-0849,Request for new license,Medium,Open,2025-03-18,2025-03-18 14:35:46
+850,TKT-0850,Mouse not working,Medium,In Progress,2025-01-31,2025-01-31 12:32:36
+851,TKT-0851,VPN connection failed,Low,Closed,2025-10-24,2025-10-24 21:36:00
+852,TKT-0852,Internet slow,High,Closed,2025-02-08,2025-02-08 11:24:52
+853,TKT-0853,Mouse not working,High,Open,2025-06-16,2025-06-16 03:42:53
+854,TKT-0854,Account locked out,Low,Open,2024-12-27,2024-12-27 01:31:54
+855,TKT-0855,Account locked out,High,Open,2025-06-30,2025-06-30 04:58:55
+856,TKT-0856,Email not syncing,High,Resolved,2025-08-26,2025-08-26 20:28:49
+857,TKT-0857,Software update required,Critical,Closed,2025-07-07,2025-07-07 00:28:37
+858,TKT-0858,Monitor flickering,Low,Resolved,2025-08-19,2025-08-19 03:20:49
+859,TKT-0859,Keyboard malfunction,Critical,Resolved,2025-09-21,2025-09-21 09:27:52
+860,TKT-0860,Internet slow,High,Closed,2025-05-09,2025-05-09 20:38:07
+861,TKT-0861,Blue screen error,High,Open,2025-09-01,2025-09-01 14:40:57
+862,TKT-0862,Email not syncing,High,Open,2025-03-30,2025-03-30 20:46:20
+863,TKT-0863,Printer not responding,Medium,Resolved,2025-07-01,2025-07-01 19:23:51
+864,TKT-0864,Mouse not working,High,Closed,2025-02-17,2025-02-17 11:57:07
+865,TKT-0865,Monitor flickering,Low,In Progress,2025-08-06,2025-08-06 10:38:50
+866,TKT-0866,Mouse not working,Low,Open,2025-04-14,2025-04-14 00:28:27
+867,TKT-0867,Password reset request,Critical,Resolved,2025-11-17,2025-11-17 07:11:23
+868,TKT-0868,Software update required,Critical,In Progress,2025-04-08,2025-04-08 09:14:07
+869,TKT-0869,Internet slow,Critical,Resolved,2025-03-24,2025-03-24 22:07:59
+870,TKT-0870,Request for new license,Low,Closed,2025-04-27,2025-04-27 08:08:49
+871,TKT-0871,VPN connection failed,Medium,Resolved,2025-05-24,2025-05-24 02:16:45
+872,TKT-0872,Keyboard malfunction,Critical,Closed,2025-06-13,2025-06-13 02:46:40
+873,TKT-0873,Mouse not working,Critical,Resolved,2025-07-20,2025-07-20 13:03:18
+874,TKT-0874,Mouse not working,Low,In Progress,2025-03-16,2025-03-16 23:37:53
+875,TKT-0875,Request for new license,Low,Closed,2025-09-21,2025-09-21 08:52:13
+876,TKT-0876,Printer not responding,Low,Closed,2024-12-23,2024-12-23 15:05:09
+877,TKT-0877,Monitor flickering,High,Open,2025-10-10,2025-10-10 09:24:49
+878,TKT-0878,VPN connection failed,Critical,In Progress,2025-05-17,2025-05-17 20:44:50
+879,TKT-0879,Monitor flickering,High,Open,2025-08-10,2025-08-10 04:08:13
+880,TKT-0880,Mouse not working,Medium,Resolved,2025-03-11,2025-03-11 12:47:18
+881,TKT-0881,Monitor flickering,Low,In Progress,2025-01-21,2025-01-21 03:48:40
+882,TKT-0882,Email not syncing,Medium,Open,2025-03-11,2025-03-11 21:08:07
+883,TKT-0883,Account locked out,Medium,Open,2025-04-10,2025-04-10 14:01:22
+884,TKT-0884,Software update required,Medium,Open,2025-04-20,2025-04-20 00:15:49
+885,TKT-0885,Email not syncing,Medium,In Progress,2025-04-04,2025-04-04 00:47:08
+886,TKT-0886,Monitor flickering,High,Open,2025-11-13,2025-11-13 15:35:52
+887,TKT-0887,Account locked out,High,Resolved,2025-01-16,2025-01-16 22:01:21
+888,TKT-0888,Printer not responding,Medium,Open,2025-09-24,2025-09-24 03:26:42
+889,TKT-0889,Software update required,Medium,Open,2025-09-17,2025-09-17 15:47:32
+890,TKT-0890,Email not syncing,High,Resolved,2025-10-28,2025-10-28 12:25:53
+891,TKT-0891,Email not syncing,High,Closed,2025-10-30,2025-10-30 04:50:51
+892,TKT-0892,Internet slow,Medium,Open,2025-07-11,2025-07-11 15:38:44
+893,TKT-0893,VPN connection failed,Critical,Open,2025-01-25,2025-01-25 10:33:45
+894,TKT-0894,VPN connection failed,Medium,Resolved,2025-03-02,2025-03-02 09:29:48
+895,TKT-0895,Blue screen error,Low,In Progress,2025-08-18,2025-08-18 22:27:14
+896,TKT-0896,Mouse not working,Medium,Closed,2025-05-12,2025-05-12 18:02:09
+897,TKT-0897,Request for new license,Low,In Progress,2025-05-09,2025-05-09 17:51:49
+898,TKT-0898,Printer not responding,Low,Resolved,2024-12-31,2024-12-31 14:57:53
+899,TKT-0899,Blue screen error,Medium,Resolved,2025-07-18,2025-07-18 09:13:30
+900,TKT-0900,Mouse not working,Medium,Closed,2025-08-31,2025-08-31 02:27:55
+901,TKT-0901,Internet slow,Critical,In Progress,2025-09-22,2025-09-22 04:59:10
+902,TKT-0902,Account locked out,Medium,Resolved,2025-02-12,2025-02-12 20:23:10
+903,TKT-0903,Email not syncing,Low,Resolved,2025-04-21,2025-04-21 04:06:02
+904,TKT-0904,Email not syncing,Medium,Resolved,2025-01-14,2025-01-14 04:50:04
+905,TKT-0905,Password reset request,Medium,Open,2025-08-20,2025-08-20 08:38:52
+906,TKT-0906,Software update required,High,Closed,2025-02-24,2025-02-24 21:01:13
+907,TKT-0907,Account locked out,High,Closed,2025-08-23,2025-08-23 03:38:24
+908,TKT-0908,Password reset request,Low,In Progress,2025-08-11,2025-08-11 10:45:31
+909,TKT-0909,Email not syncing,High,Closed,2025-08-09,2025-08-09 21:17:07
+910,TKT-0910,Account locked out,High,Resolved,2025-09-04,2025-09-04 17:11:00
+911,TKT-0911,Monitor flickering,Medium,Open,2025-02-14,2025-02-14 20:35:46
+912,TKT-0912,VPN connection failed,Low,Resolved,2024-12-18,2024-12-18 18:50:57
+913,TKT-0913,Blue screen error,Low,Open,2025-05-02,2025-05-02 02:15:25
+914,TKT-0914,Account locked out,Medium,In Progress,2025-07-06,2025-07-06 06:59:10
+915,TKT-0915,Keyboard malfunction,Critical,Open,2025-06-27,2025-06-27 14:42:39
+916,TKT-0916,Request for new license,Low,Closed,2025-11-13,2025-11-13 02:43:46
+917,TKT-0917,Software update required,Low,Resolved,2025-08-30,2025-08-30 22:57:38
+918,TKT-0918,VPN connection failed,Critical,Open,2025-10-10,2025-10-10 12:06:08
+919,TKT-0919,Email not syncing,Critical,Closed,2025-08-06,2025-08-06 23:20:24
+920,TKT-0920,VPN connection failed,High,Closed,2025-08-22,2025-08-22 19:49:33
+921,TKT-0921,Software update required,Critical,Resolved,2025-08-29,2025-08-29 15:49:50
+922,TKT-0922,VPN connection failed,Medium,Closed,2025-08-10,2025-08-10 13:21:25
+923,TKT-0923,Blue screen error,High,Closed,2025-08-13,2025-08-13 04:48:15
+924,TKT-0924,Mouse not working,Medium,Resolved,2025-12-04,2025-12-04 17:24:51
+925,TKT-0925,Account locked out,Low,Closed,2025-01-12,2025-01-12 14:27:11
+926,TKT-0926,Email not syncing,Medium,In Progress,2025-04-04,2025-04-04 11:18:38
+927,TKT-0927,Software update required,Low,In Progress,2025-05-24,2025-05-24 01:28:27
+928,TKT-0928,Internet slow,High,Closed,2024-12-15,2024-12-15 17:51:58
+929,TKT-0929,Password reset request,Low,Resolved,2025-02-01,2025-02-01 23:37:35
+930,TKT-0930,Monitor flickering,Critical,In Progress,2024-12-20,2024-12-20 09:03:34
+931,TKT-0931,Request for new license,Critical,Resolved,2025-04-06,2025-04-06 09:02:47
+932,TKT-0932,Software update required,Medium,In Progress,2025-06-01,2025-06-01 00:13:51
+933,TKT-0933,Blue screen error,High,In Progress,2025-01-28,2025-01-28 03:20:18
+934,TKT-0934,Software update required,High,Open,2025-07-10,2025-07-10 18:10:13
+935,TKT-0935,Password reset request,Low,Closed,2025-10-25,2025-10-25 23:44:17
+936,TKT-0936,Keyboard malfunction,Low,Closed,2025-10-01,2025-10-01 01:09:50
+937,TKT-0937,Account locked out,Critical,Resolved,2025-10-29,2025-10-29 02:24:50
+938,TKT-0938,Keyboard malfunction,Medium,Resolved,2025-01-14,2025-01-14 02:13:35
+939,TKT-0939,Password reset request,Medium,Closed,2025-10-20,2025-10-20 04:37:49
+940,TKT-0940,Software update required,Critical,Closed,2025-03-14,2025-03-14 08:46:14
+941,TKT-0941,Request for new license,Medium,Open,2025-11-28,2025-11-28 20:53:59
+942,TKT-0942,Email not syncing,Medium,In Progress,2025-09-24,2025-09-24 11:56:28
+943,TKT-0943,Software update required,Medium,Closed,2025-04-28,2025-04-28 02:23:41
+944,TKT-0944,Printer not responding,Critical,Closed,2025-11-01,2025-11-01 22:26:33
+945,TKT-0945,Keyboard malfunction,High,Closed,2025-02-28,2025-02-28 12:43:46
+946,TKT-0946,Software update required,Critical,Open,2025-11-24,2025-11-24 09:01:31
+947,TKT-0947,Internet slow,Low,Resolved,2025-02-15,2025-02-15 13:50:10
+948,TKT-0948,Printer not responding,Medium,Resolved,2025-06-26,2025-06-26 01:35:52
+949,TKT-0949,Request for new license,Medium,Open,2025-08-06,2025-08-06 21:12:21
+950,TKT-0950,Mouse not working,Critical,In Progress,2025-04-01,2025-04-01 21:28:04
+951,TKT-0951,Email not syncing,High,Resolved,2025-10-31,2025-10-31 15:50:24
+952,TKT-0952,Internet slow,Critical,Open,2025-12-08,2025-12-08 09:16:11
+953,TKT-0953,Software update required,Low,Open,2025-07-20,2025-07-20 05:39:22
+954,TKT-0954,Keyboard malfunction,Medium,Resolved,2025-11-10,2025-11-10 15:49:02
+955,TKT-0955,Account locked out,Medium,In Progress,2025-06-16,2025-06-16 12:45:25
+956,TKT-0956,Request for new license,Low,Closed,2025-02-23,2025-02-23 16:20:00
+957,TKT-0957,Software update required,High,Open,2025-06-29,2025-06-29 03:11:30
+958,TKT-0958,Keyboard malfunction,High,Resolved,2025-04-14,2025-04-14 21:24:14
+959,TKT-0959,Request for new license,Low,Open,2025-02-05,2025-02-05 14:35:41
+960,TKT-0960,Monitor flickering,Low,Resolved,2024-12-13,2024-12-13 09:33:50
+961,TKT-0961,Internet slow,Low,Closed,2025-03-23,2025-03-23 03:51:10
+962,TKT-0962,Software update required,Critical,In Progress,2025-03-05,2025-03-05 03:46:28
+963,TKT-0963,VPN connection failed,Low,Closed,2025-09-23,2025-09-23 09:02:30
+964,TKT-0964,Mouse not working,Medium,In Progress,2025-02-12,2025-02-12 12:35:16
+965,TKT-0965,Request for new license,Low,In Progress,2025-01-11,2025-01-11 08:07:46
+966,TKT-0966,Monitor flickering,Critical,Open,2025-08-10,2025-08-10 15:21:02
+967,TKT-0967,Account locked out,Critical,Open,2025-01-27,2025-01-27 09:55:00
+968,TKT-0968,Password reset request,Critical,Open,2025-03-25,2025-03-25 13:05:28
+969,TKT-0969,Internet slow,High,Open,2025-11-18,2025-11-18 14:23:40
+970,TKT-0970,Request for new license,Medium,Resolved,2025-08-29,2025-08-29 16:25:26
+971,TKT-0971,Account locked out,Medium,Open,2025-02-26,2025-02-26 01:04:17
+972,TKT-0972,Password reset request,Medium,Closed,2025-04-30,2025-04-30 11:14:52
+973,TKT-0973,Account locked out,Medium,Resolved,2025-06-18,2025-06-18 15:33:47
+974,TKT-0974,Email not syncing,Low,Resolved,2025-10-28,2025-10-28 23:35:21
+975,TKT-0975,Account locked out,Medium,In Progress,2025-05-31,2025-05-31 09:38:27
+976,TKT-0976,Request for new license,Medium,Closed,2025-09-17,2025-09-17 19:39:10
+977,TKT-0977,Printer not responding,Low,Resolved,2025-11-06,2025-11-06 14:39:47
+978,TKT-0978,Email not syncing,High,Resolved,2025-10-09,2025-10-09 21:10:00
+979,TKT-0979,Account locked out,High,Resolved,2025-10-24,2025-10-24 20:04:19
+980,TKT-0980,Email not syncing,Medium,In Progress,2025-09-03,2025-09-03 21:44:04
+981,TKT-0981,Keyboard malfunction,Medium,In Progress,2025-06-10,2025-06-10 11:02:40
+982,TKT-0982,Keyboard malfunction,Critical,In Progress,2025-08-20,2025-08-20 05:05:06
+983,TKT-0983,Internet slow,Critical,Open,2025-04-13,2025-04-13 08:49:38
+984,TKT-0984,Internet slow,High,Open,2025-02-02,2025-02-02 06:02:41
+985,TKT-0985,Mouse not working,Medium,Resolved,2025-05-28,2025-05-28 23:40:00
+986,TKT-0986,Internet slow,Critical,Closed,2025-03-25,2025-03-25 13:17:59
+987,TKT-0987,Password reset request,Critical,Resolved,2025-02-24,2025-02-24 08:03:46
+988,TKT-0988,Request for new license,Low,In Progress,2025-05-12,2025-05-12 16:02:23
+989,TKT-0989,Printer not responding,Low,Resolved,2025-07-12,2025-07-12 15:44:24
+990,TKT-0990,Account locked out,Critical,Open,2025-06-02,2025-06-02 01:45:01
+991,TKT-0991,Email not syncing,High,Resolved,2025-06-01,2025-06-01 06:38:56
+992,TKT-0992,Internet slow,Low,Open,2025-06-26,2025-06-26 15:57:05
+993,TKT-0993,Mouse not working,Low,In Progress,2025-06-14,2025-06-14 10:26:09
+994,TKT-0994,VPN connection failed,Medium,Open,2025-08-14,2025-08-14 07:06:40
+995,TKT-0995,Printer not responding,Medium,In Progress,2025-06-25,2025-06-25 19:22:16
+996,TKT-0996,Request for new license,Medium,Resolved,2025-10-31,2025-10-31 12:49:00
+997,TKT-0997,Email not syncing,High,Open,2025-06-05,2025-06-05 13:09:59
+998,TKT-0998,Software update required,Critical,In Progress,2025-05-24,2025-05-24 21:14:26
+999,TKT-0999,Mouse not working,Critical,In Progress,2025-04-26,2025-04-26 07:01:30
+1000,TKT-1000,Keyboard malfunction,High,Open,2025-05-07,2025-05-07 08:01:00

@@ -1,0 +1,1001 @@
+id,date,incident_type,severity,status,created_at
+1,2025-07-09,Insider Threat,Low,Investigating,2025-07-09 11:29:57
+2,2025-09-10,Insider Threat,High,Investigating,2025-09-10 07:03:29
+3,2025-09-04,SQL Injection,Critical,Open,2025-09-04 09:42:45
+4,2025-04-11,Insider Threat,Low,False Positive,2025-04-11 01:25:27
+5,2025-07-08,Data Breach,Critical,False Positive,2025-07-08 21:02:25
+6,2025-03-30,DDoS Attack,Low,Resolved,2025-03-30 21:57:35
+7,2025-12-01,Ransomware,High,Closed,2025-12-01 14:40:08
+8,2025-10-09,Malware Infection,Critical,Open,2025-10-09 06:58:06
+9,2025-07-25,Insider Threat,Low,Mitigated,2025-07-25 15:09:25
+10,2025-06-24,SQL Injection,Medium,Open,2025-06-24 16:34:02
+11,2025-09-14,SQL Injection,Critical,Mitigated,2025-09-14 17:08:35
+12,2025-09-28,Man-in-the-Middle,High,Open,2025-09-28 13:22:54
+13,2025-08-12,Unauthorized Access,Medium,Mitigated,2025-08-12 13:11:10
+14,2024-12-12,SQL Injection,High,Closed,2024-12-12 11:16:36
+15,2025-02-08,DDoS Attack,Medium,Resolved,2025-02-08 12:08:42
+16,2025-11-15,DDoS Attack,Low,Mitigated,2025-11-15 05:22:05
+17,2025-01-09,Ransomware,Medium,Resolved,2025-01-09 05:53:53
+18,2025-07-06,Phishing Attempt,Medium,False Positive,2025-07-06 22:15:07
+19,2025-01-20,Insider Threat,Low,Closed,2025-01-20 20:09:03
+20,2025-01-09,Man-in-the-Middle,Low,Mitigated,2025-01-09 07:40:21
+21,2025-11-01,Insider Threat,Medium,False Positive,2025-11-01 22:15:38
+22,2025-10-01,Man-in-the-Middle,High,Open,2025-10-01 16:04:27
+23,2025-03-17,DDoS Attack,High,Resolved,2025-03-17 11:16:47
+24,2025-09-20,Unauthorized Access,Critical,False Positive,2025-09-20 04:44:41
+25,2025-10-29,Ransomware,Medium,Open,2025-10-30 00:01:10
+26,2024-12-11,Ransomware,Low,False Positive,2024-12-11 16:07:21
+27,2025-09-03,Unauthorized Access,High,Open,2025-09-03 13:48:05
+28,2025-07-02,Man-in-the-Middle,High,Closed,2025-07-02 08:45:42
+29,2025-01-30,Insider Threat,High,Open,2025-01-30 11:36:38
+30,2025-01-16,DDoS Attack,Medium,Closed,2025-01-16 10:01:27
+31,2025-08-05,SQL Injection,Critical,False Positive,2025-08-05 21:15:01
+32,2025-07-23,Man-in-the-Middle,Low,Mitigated,2025-07-23 04:54:07
+33,2025-05-04,DDoS Attack,Critical,Closed,2025-05-04 04:13:53
+34,2025-09-15,Phishing Attempt,Low,Resolved,2025-09-15 16:02:20
+35,2025-01-02,Unauthorized Access,Critical,Open,2025-01-02 21:21:47
+36,2025-10-28,Unauthorized Access,Medium,Resolved,2025-10-28 19:50:46
+37,2025-01-06,Insider Threat,Low,Investigating,2025-01-06 06:29:50
+38,2025-12-07,DDoS Attack,High,Closed,2025-12-07 10:13:47
+39,2025-01-30,Malware Infection,Low,Open,2025-01-30 17:46:06
+40,2025-07-29,Data Breach,Critical,Open,2025-07-29 19:05:58
+41,2025-03-27,DDoS Attack,High,False Positive,2025-03-27 07:28:09
+42,2025-04-30,DDoS Attack,Medium,Resolved,2025-04-30 12:32:00
+43,2025-06-27,Unauthorized Access,Low,Investigating,2025-06-27 19:52:40
+44,2025-07-14,Unauthorized Access,Medium,Resolved,2025-07-14 06:10:31
+45,2025-03-01,Unauthorized Access,Medium,Closed,2025-03-01 11:06:19
+46,2025-05-07,Unauthorized Access,Medium,Investigating,2025-05-07 22:16:55
+47,2024-12-24,Data Breach,Low,Investigating,2024-12-24 20:51:10
+48,2025-10-18,DDoS Attack,High,Mitigated,2025-10-18 21:56:38
+49,2025-06-16,Phishing Attempt,Medium,Open,2025-06-16 16:35:42
+50,2025-09-01,Unauthorized Access,Medium,False Positive,2025-09-02 00:26:00
+51,2025-03-04,Unauthorized Access,Low,Resolved,2025-03-04 18:07:29
+52,2025-06-22,Insider Threat,High,False Positive,2025-06-22 01:23:21
+53,2025-02-17,Ransomware,Low,Open,2025-02-17 23:45:33
+54,2025-08-02,SQL Injection,High,False Positive,2025-08-02 10:59:59
+55,2025-07-25,Phishing Attempt,High,Open,2025-07-25 19:52:22
+56,2025-07-09,Malware Infection,Medium,Closed,2025-07-09 22:54:46
+57,2024-12-13,Malware Infection,Critical,Closed,2024-12-13 14:17:30
+58,2025-06-12,SQL Injection,High,Closed,2025-06-12 17:15:01
+59,2025-08-05,Unauthorized Access,High,Resolved,2025-08-05 16:01:23
+60,2025-04-25,Phishing Attempt,Critical,Mitigated,2025-04-25 15:31:22
+61,2024-12-26,Malware Infection,Critical,Mitigated,2024-12-26 14:40:26
+62,2025-02-26,Data Breach,Critical,Closed,2025-02-26 03:25:19
+63,2025-03-28,Unauthorized Access,High,Resolved,2025-03-28 07:42:02
+64,2025-08-12,SQL Injection,Critical,Investigating,2025-08-12 15:56:49
+65,2025-11-20,Ransomware,High,False Positive,2025-11-20 19:45:28
+66,2025-06-06,Phishing Attempt,Medium,Resolved,2025-06-06 05:30:42
+67,2025-05-24,DDoS Attack,Medium,Mitigated,2025-05-24 03:57:45
+68,2025-11-02,DDoS Attack,High,Mitigated,2025-11-02 20:47:33
+69,2025-09-27,Insider Threat,Low,Closed,2025-09-27 09:38:18
+70,2025-03-08,Unauthorized Access,Medium,Mitigated,2025-03-08 19:43:02
+71,2025-10-18,DDoS Attack,High,Investigating,2025-10-18 04:00:01
+72,2025-01-31,Man-in-the-Middle,Low,Open,2025-01-31 07:58:00
+73,2024-12-14,Man-in-the-Middle,Low,Open,2024-12-14 18:17:22
+74,2025-02-18,Data Breach,High,Investigating,2025-02-18 22:29:44
+75,2025-08-02,Ransomware,Low,False Positive,2025-08-02 17:04:09
+76,2025-07-04,Unauthorized Access,Critical,Closed,2025-07-04 06:02:10
+77,2024-12-24,Phishing Attempt,Critical,False Positive,2024-12-24 09:18:45
+78,2025-09-30,Malware Infection,High,Closed,2025-09-30 04:21:42
+79,2025-01-05,DDoS Attack,Medium,Open,2025-01-05 00:31:43
+80,2024-12-11,Malware Infection,High,Closed,2024-12-11 10:06:22
+81,2025-06-29,Unauthorized Access,High,Closed,2025-06-30 01:14:09
+82,2025-09-22,Malware Infection,Medium,Closed,2025-09-22 01:08:32
+83,2025-01-22,Data Breach,Medium,Open,2025-01-22 20:42:37
+84,2025-05-28,Data Breach,Low,False Positive,2025-05-28 03:26:52
+85,2025-01-05,Data Breach,High,False Positive,2025-01-05 12:40:06
+86,2025-10-18,DDoS Attack,Low,Open,2025-10-18 05:24:39
+87,2025-01-27,Man-in-the-Middle,High,False Positive,2025-01-27 13:46:52
+88,2025-06-17,DDoS Attack,Critical,False Positive,2025-06-18 00:50:39
+89,2024-12-21,Insider Threat,High,Closed,2024-12-21 05:22:47
+90,2025-01-25,Insider Threat,High,Open,2025-01-25 02:52:20
+91,2025-09-15,Unauthorized Access,Medium,Mitigated,2025-09-15 08:58:58
+92,2025-06-02,DDoS Attack,Critical,False Positive,2025-06-02 07:12:32
+93,2025-03-28,Phishing Attempt,High,Investigating,2025-03-28 21:31:04
+94,2025-12-03,Phishing Attempt,High,Mitigated,2025-12-03 19:42:32
+95,2025-01-25,SQL Injection,High,Investigating,2025-01-25 20:14:34
+96,2025-09-29,Data Breach,Critical,Open,2025-09-29 07:55:39
+97,2025-06-13,Ransomware,High,False Positive,2025-06-13 20:33:55
+98,2025-07-04,Phishing Attempt,Low,Investigating,2025-07-04 02:01:58
+99,2024-12-27,Insider Threat,Critical,Resolved,2024-12-27 01:19:52
+100,2025-05-10,DDoS Attack,Medium,Mitigated,2025-05-10 12:56:47
+101,2025-04-03,SQL Injection,Medium,Open,2025-04-03 03:55:51
+102,2025-09-15,Unauthorized Access,Low,False Positive,2025-09-15 22:00:40
+103,2025-10-30,SQL Injection,Low,False Positive,2025-10-30 09:42:12
+104,2025-03-14,Ransomware,Low,Resolved,2025-03-14 09:34:58
+105,2025-07-24,Man-in-the-Middle,Low,Closed,2025-07-24 02:56:16
+106,2025-07-30,Data Breach,High,Investigating,2025-07-30 06:41:15
+107,2025-11-10,Data Breach,Low,Closed,2025-11-10 12:09:00
+108,2025-05-24,Phishing Attempt,Low,Resolved,2025-05-24 19:22:59
+109,2025-08-03,Man-in-the-Middle,High,Open,2025-08-03 13:22:23
+110,2025-03-11,Insider Threat,Medium,False Positive,2025-03-11 06:51:56
+111,2025-06-04,Ransomware,High,Open,2025-06-04 20:35:58
+112,2025-09-16,Man-in-the-Middle,Medium,Open,2025-09-16 08:27:52
+113,2025-07-17,Unauthorized Access,Low,Resolved,2025-07-17 06:40:52
+114,2025-02-27,Data Breach,Medium,Mitigated,2025-02-27 23:08:05
+115,2025-07-21,DDoS Attack,Low,Open,2025-07-21 15:50:54
+116,2024-12-18,Unauthorized Access,Medium,Investigating,2024-12-18 22:15:07
+117,2025-06-29,Insider Threat,Critical,Closed,2025-06-29 10:26:42
+118,2025-01-04,SQL Injection,High,Resolved,2025-01-05 00:21:56
+119,2025-06-28,DDoS Attack,Low,False Positive,2025-06-28 21:34:49
+120,2025-03-21,Unauthorized Access,Critical,Resolved,2025-03-21 13:07:52
+121,2025-03-01,Man-in-the-Middle,High,Investigating,2025-03-01 19:49:10
+122,2025-06-03,Phishing Attempt,Critical,Mitigated,2025-06-03 10:17:57
+123,2025-10-09,Man-in-the-Middle,Medium,Mitigated,2025-10-09 16:29:31
+124,2024-12-15,Unauthorized Access,Low,Mitigated,2024-12-16 00:14:47
+125,2025-05-01,Phishing Attempt,High,Closed,2025-05-01 18:03:02
+126,2025-04-13,SQL Injection,Critical,Open,2025-04-13 20:51:59
+127,2025-06-30,Insider Threat,Critical,Mitigated,2025-06-30 09:03:50
+128,2025-10-13,Malware Infection,Medium,Mitigated,2025-10-13 04:18:34
+129,2025-06-16,Insider Threat,High,Resolved,2025-06-16 10:07:08
+130,2025-05-05,Malware Infection,High,Closed,2025-05-05 03:55:47
+131,2025-09-05,Phishing Attempt,Low,Resolved,2025-09-05 09:36:36
+132,2025-02-14,Insider Threat,Critical,Open,2025-02-14 17:02:44
+133,2025-08-14,Insider Threat,Medium,Resolved,2025-08-14 07:36:16
+134,2025-04-18,Ransomware,Low,Investigating,2025-04-18 16:40:09
+135,2025-11-15,Man-in-the-Middle,High,Open,2025-11-16 00:05:14
+136,2025-10-20,Malware Infection,Critical,Resolved,2025-10-20 19:29:01
+137,2025-10-22,SQL Injection,Low,Resolved,2025-10-22 21:28:20
+138,2025-05-19,SQL Injection,High,Resolved,2025-05-19 21:23:53
+139,2025-08-22,Man-in-the-Middle,Critical,Resolved,2025-08-22 01:01:30
+140,2025-03-17,Unauthorized Access,Critical,False Positive,2025-03-17 21:57:20
+141,2025-11-21,Man-in-the-Middle,Low,False Positive,2025-11-21 09:44:18
+142,2024-12-14,Phishing Attempt,Low,Resolved,2024-12-14 21:49:59
+143,2025-11-17,SQL Injection,Critical,Investigating,2025-11-17 09:59:52
+144,2025-02-21,Phishing Attempt,Low,Closed,2025-02-21 22:39:28
+145,2025-08-26,Data Breach,Critical,Open,2025-08-26 07:51:06
+146,2025-09-14,Man-in-the-Middle,Low,Investigating,2025-09-14 22:11:57
+147,2025-01-19,Insider Threat,Medium,Investigating,2025-01-19 23:49:42
+148,2025-09-30,Insider Threat,High,Investigating,2025-09-30 17:54:39
+149,2025-02-07,DDoS Attack,High,Investigating,2025-02-07 03:40:31
+150,2025-11-17,Ransomware,Critical,Open,2025-11-17 03:00:10
+151,2025-04-09,SQL Injection,Medium,Resolved,2025-04-09 00:57:47
+152,2025-10-21,Data Breach,Medium,Mitigated,2025-10-21 07:27:00
+153,2025-04-21,Data Breach,High,Closed,2025-04-21 13:33:37
+154,2025-07-19,Malware Infection,Low,Open,2025-07-19 19:03:38
+155,2024-12-23,Data Breach,Low,Closed,2024-12-23 17:45:02
+156,2025-10-28,Man-in-the-Middle,High,Open,2025-10-28 10:00:21
+157,2025-01-04,Ransomware,High,Investigating,2025-01-04 05:12:51
+158,2024-12-26,Data Breach,Low,False Positive,2024-12-26 16:48:11
+159,2025-08-29,Unauthorized Access,Medium,Resolved,2025-08-29 00:36:23
+160,2024-12-21,Malware Infection,Low,Mitigated,2024-12-21 19:11:37
+161,2025-11-07,Phishing Attempt,Critical,Resolved,2025-11-07 23:19:26
+162,2025-01-05,Phishing Attempt,Critical,Open,2025-01-05 05:43:43
+163,2025-09-29,Ransomware,High,Mitigated,2025-09-29 02:25:11
+164,2025-08-12,DDoS Attack,High,Open,2025-08-12 12:28:03
+165,2025-08-21,Ransomware,Medium,Mitigated,2025-08-21 15:06:07
+166,2025-04-18,DDoS Attack,Low,Closed,2025-04-18 02:55:01
+167,2025-04-14,Malware Infection,Low,Investigating,2025-04-14 09:13:02
+168,2025-03-09,Data Breach,Critical,False Positive,2025-03-09 01:53:09
+169,2025-08-17,Man-in-the-Middle,Medium,Investigating,2025-08-17 12:12:29
+170,2025-08-16,Ransomware,Critical,Mitigated,2025-08-16 16:52:30
+171,2025-07-18,Malware Infection,High,Mitigated,2025-07-18 12:54:15
+172,2025-06-15,Malware Infection,Medium,False Positive,2025-06-15 07:27:43
+173,2025-09-02,Phishing Attempt,Low,Open,2025-09-02 17:52:11
+174,2025-10-07,Ransomware,Critical,Closed,2025-10-07 02:34:51
+175,2025-06-28,Man-in-the-Middle,Critical,Resolved,2025-06-28 06:20:28
+176,2025-04-17,Ransomware,Low,Investigating,2025-04-17 12:03:01
+177,2025-11-09,SQL Injection,Medium,Resolved,2025-11-09 04:24:31
+178,2025-02-21,Malware Infection,Low,Resolved,2025-02-21 23:17:58
+179,2025-01-06,DDoS Attack,Critical,Open,2025-01-06 07:53:01
+180,2025-07-07,Ransomware,High,Investigating,2025-07-07 02:02:21
+181,2025-10-19,DDoS Attack,High,Investigating,2025-10-19 06:31:35
+182,2025-06-02,Insider Threat,Medium,Investigating,2025-06-03 01:17:45
+183,2025-04-22,SQL Injection,Low,Closed,2025-04-22 09:49:24
+184,2025-10-19,Man-in-the-Middle,Low,Resolved,2025-10-19 17:17:18
+185,2025-10-25,Ransomware,Low,Closed,2025-10-25 21:13:10
+186,2024-12-23,Man-in-the-Middle,Low,Closed,2024-12-23 11:19:27
+187,2025-07-26,Ransomware,Low,Investigating,2025-07-26 17:51:29
+188,2025-05-24,Man-in-the-Middle,High,Closed,2025-05-24 21:50:16
+189,2025-12-06,Data Breach,Critical,Mitigated,2025-12-06 06:53:29
+190,2025-06-17,Ransomware,Medium,Investigating,2025-06-17 23:54:57
+191,2025-02-21,Data Breach,Low,Open,2025-02-21 01:48:44
+192,2025-10-28,Ransomware,High,Resolved,2025-10-28 18:07:25
+193,2025-02-21,Malware Infection,Medium,Mitigated,2025-02-21 08:11:09
+194,2025-06-01,Malware Infection,Low,Investigating,2025-06-01 19:49:25
+195,2025-09-08,Phishing Attempt,Critical,Resolved,2025-09-08 14:00:36
+196,2025-05-29,Man-in-the-Middle,High,False Positive,2025-05-29 18:32:42
+197,2024-12-13,Malware Infection,Low,Open,2024-12-13 15:27:25
+198,2025-11-15,Insider Threat,Medium,Investigating,2025-11-15 09:44:16
+199,2025-01-23,Malware Infection,Critical,Open,2025-01-23 08:42:22
+200,2025-04-30,Insider Threat,Medium,Mitigated,2025-04-30 21:04:54
+201,2025-07-05,Man-in-the-Middle,Medium,Mitigated,2025-07-05 20:04:33
+202,2025-11-13,Phishing Attempt,Critical,Mitigated,2025-11-13 16:51:14
+203,2025-09-15,Ransomware,Critical,Resolved,2025-09-15 22:33:08
+204,2025-04-20,Malware Infection,Medium,False Positive,2025-04-20 11:26:10
+205,2025-11-06,Insider Threat,Low,False Positive,2025-11-06 08:51:49
+206,2024-12-18,Data Breach,Critical,Investigating,2024-12-18 06:24:26
+207,2025-05-19,Insider Threat,Medium,Resolved,2025-05-19 20:36:17
+208,2025-04-04,Insider Threat,Critical,False Positive,2025-04-04 00:37:41
+209,2025-06-18,Man-in-the-Middle,Medium,Mitigated,2025-06-18 08:34:14
+210,2025-03-27,Man-in-the-Middle,High,Resolved,2025-03-27 12:00:56
+211,2025-09-19,DDoS Attack,Medium,False Positive,2025-09-19 10:51:03
+212,2025-11-22,Data Breach,High,Investigating,2025-11-22 23:43:01
+213,2025-04-23,Man-in-the-Middle,High,Mitigated,2025-04-23 04:35:16
+214,2025-09-15,Malware Infection,Low,Resolved,2025-09-15 05:56:43
+215,2025-03-29,DDoS Attack,Critical,Closed,2025-03-29 18:44:21
+216,2025-02-22,Insider Threat,Low,Investigating,2025-02-22 22:04:54
+217,2025-05-30,Unauthorized Access,Medium,Mitigated,2025-05-30 12:23:51
+218,2025-08-14,Ransomware,Low,Mitigated,2025-08-14 15:10:52
+219,2024-12-24,Unauthorized Access,High,Closed,2024-12-24 19:06:55
+220,2025-05-07,Man-in-the-Middle,Medium,Investigating,2025-05-08 00:27:05
+221,2025-08-09,Man-in-the-Middle,Critical,Open,2025-08-09 13:52:23
+222,2025-01-30,Data Breach,Low,Closed,2025-01-30 09:33:31
+223,2025-01-08,Ransomware,Critical,Resolved,2025-01-08 11:42:53
+224,2025-01-12,SQL Injection,Critical,Mitigated,2025-01-12 05:59:02
+225,2025-01-12,Phishing Attempt,Critical,Investigating,2025-01-12 14:46:06
+226,2025-11-25,SQL Injection,Critical,Investigating,2025-11-25 04:45:34
+227,2024-12-27,Insider Threat,Critical,False Positive,2024-12-27 01:12:45
+228,2025-07-22,DDoS Attack,Medium,Mitigated,2025-07-22 17:13:34
+229,2025-01-13,Data Breach,Critical,Open,2025-01-13 21:05:27
+230,2025-05-13,Data Breach,High,Investigating,2025-05-13 15:59:42
+231,2025-07-25,Phishing Attempt,Critical,Investigating,2025-07-25 18:47:22
+232,2025-09-06,Ransomware,High,Open,2025-09-06 01:53:04
+233,2025-07-18,DDoS Attack,High,Resolved,2025-07-18 11:53:57
+234,2025-06-22,SQL Injection,Medium,Closed,2025-06-22 03:56:19
+235,2024-12-30,Man-in-the-Middle,High,Investigating,2024-12-30 11:42:50
+236,2025-03-13,Ransomware,Critical,False Positive,2025-03-13 21:51:36
+237,2025-08-11,Man-in-the-Middle,Medium,Closed,2025-08-11 11:41:52
+238,2025-06-12,SQL Injection,Critical,Open,2025-06-12 04:33:30
+239,2025-11-01,Malware Infection,High,Mitigated,2025-11-01 12:45:57
+240,2025-10-15,DDoS Attack,Critical,Resolved,2025-10-15 11:03:26
+241,2025-10-13,Unauthorized Access,Medium,Closed,2025-10-13 13:58:19
+242,2025-08-06,Phishing Attempt,Critical,Resolved,2025-08-06 18:00:10
+243,2025-02-08,Malware Infection,Low,False Positive,2025-02-08 14:21:39
+244,2025-10-30,Ransomware,Critical,Closed,2025-10-30 08:50:34
+245,2025-01-21,Phishing Attempt,Low,Mitigated,2025-01-21 19:06:38
+246,2024-12-13,Unauthorized Access,High,Mitigated,2024-12-13 06:05:08
+247,2025-01-04,Ransomware,Medium,Open,2025-01-04 17:48:16
+248,2025-08-30,SQL Injection,Medium,Investigating,2025-08-30 13:31:56
+249,2025-08-26,Phishing Attempt,High,Resolved,2025-08-26 23:09:10
+250,2025-07-31,Man-in-the-Middle,Critical,Open,2025-07-31 03:11:03
+251,2024-12-13,SQL Injection,Low,Mitigated,2024-12-13 14:07:37
+252,2025-07-23,Unauthorized Access,High,Investigating,2025-07-23 14:57:29
+253,2025-01-22,Data Breach,Medium,Open,2025-01-22 09:32:15
+254,2024-12-26,Data Breach,High,Mitigated,2024-12-26 02:21:30
+255,2025-06-12,Ransomware,Medium,Resolved,2025-06-12 16:16:40
+256,2025-08-07,Insider Threat,High,Open,2025-08-07 02:38:18
+257,2025-03-12,Data Breach,Critical,Open,2025-03-12 16:27:01
+258,2025-04-26,Unauthorized Access,Critical,Closed,2025-04-26 03:03:41
+259,2025-11-09,Phishing Attempt,Low,False Positive,2025-11-09 05:10:53
+260,2025-06-03,DDoS Attack,Medium,Resolved,2025-06-03 00:08:59
+261,2025-04-04,DDoS Attack,Medium,Mitigated,2025-04-04 08:38:44
+262,2025-05-27,Man-in-the-Middle,Low,Resolved,2025-05-27 12:24:48
+263,2025-07-27,Malware Infection,Low,Investigating,2025-07-27 00:47:06
+264,2025-01-06,Man-in-the-Middle,Critical,Investigating,2025-01-06 19:26:32
+265,2025-05-15,Insider Threat,Medium,Open,2025-05-15 10:27:13
+266,2025-07-15,Malware Infection,Low,Investigating,2025-07-16 00:01:46
+267,2025-11-12,Data Breach,Medium,Resolved,2025-11-12 00:10:20
+268,2025-06-11,Malware Infection,High,False Positive,2025-06-11 16:33:04
+269,2025-08-05,Unauthorized Access,High,Mitigated,2025-08-05 08:11:00
+270,2025-04-28,Ransomware,High,Resolved,2025-04-28 07:02:44
+271,2025-02-22,DDoS Attack,Medium,Resolved,2025-02-22 23:10:56
+272,2025-07-18,DDoS Attack,Critical,Mitigated,2025-07-18 18:16:18
+273,2025-05-17,Data Breach,Critical,Mitigated,2025-05-17 09:18:22
+274,2025-06-18,Ransomware,Critical,Investigating,2025-06-18 22:10:04
+275,2025-02-02,Insider Threat,Low,Mitigated,2025-02-02 21:44:51
+276,2025-05-08,Man-in-the-Middle,High,False Positive,2025-05-08 17:09:52
+277,2025-01-20,Phishing Attempt,Low,Open,2025-01-20 02:16:28
+278,2025-11-21,Data Breach,Low,Mitigated,2025-11-22 00:35:40
+279,2025-10-01,Malware Infection,Low,Open,2025-10-01 18:13:04
+280,2025-01-24,SQL Injection,High,Mitigated,2025-01-24 21:58:46
+281,2024-12-11,Man-in-the-Middle,Low,Mitigated,2024-12-11 14:15:57
+282,2025-08-17,Data Breach,Critical,Closed,2025-08-17 09:55:14
+283,2025-11-23,Unauthorized Access,Low,False Positive,2025-11-23 10:31:05
+284,2025-10-16,DDoS Attack,Critical,Investigating,2025-10-16 18:46:49
+285,2025-10-06,Phishing Attempt,Low,Open,2025-10-06 05:16:21
+286,2025-11-24,Data Breach,Low,False Positive,2025-11-24 07:10:51
+287,2025-07-04,Phishing Attempt,Low,Investigating,2025-07-04 10:59:51
+288,2025-09-04,Ransomware,Medium,Investigating,2025-09-04 16:36:34
+289,2025-05-08,Ransomware,Critical,False Positive,2025-05-08 15:34:15
+290,2025-11-29,Malware Infection,High,Investigating,2025-11-29 12:12:00
+291,2025-04-29,Data Breach,Medium,Investigating,2025-04-29 20:27:33
+292,2025-01-20,Man-in-the-Middle,Medium,Mitigated,2025-01-20 16:02:02
+293,2025-08-02,SQL Injection,Critical,Closed,2025-08-02 04:42:06
+294,2025-10-16,Unauthorized Access,High,False Positive,2025-10-16 11:47:57
+295,2025-07-21,Unauthorized Access,Low,False Positive,2025-07-21 23:21:08
+296,2025-05-09,DDoS Attack,Low,Open,2025-05-09 11:34:13
+297,2025-10-02,Phishing Attempt,Critical,Resolved,2025-10-02 16:23:57
+298,2025-10-03,Insider Threat,High,False Positive,2025-10-03 10:39:31
+299,2025-11-28,Insider Threat,Critical,Investigating,2025-11-28 14:20:19
+300,2024-12-14,Ransomware,Medium,Closed,2024-12-15 00:04:26
+301,2025-04-19,SQL Injection,Low,Mitigated,2025-04-19 20:22:06
+302,2025-04-12,Unauthorized Access,Medium,False Positive,2025-04-12 14:32:49
+303,2025-08-25,Unauthorized Access,Medium,Resolved,2025-08-25 07:41:34
+304,2025-08-31,Data Breach,Low,Closed,2025-08-31 13:44:23
+305,2025-10-24,Malware Infection,Low,Investigating,2025-10-24 17:28:46
+306,2025-09-25,DDoS Attack,Critical,Mitigated,2025-09-25 06:19:40
+307,2025-03-17,Data Breach,Low,Investigating,2025-03-17 22:51:56
+308,2024-12-23,Unauthorized Access,Medium,Resolved,2024-12-23 04:34:16
+309,2025-01-21,Ransomware,Medium,False Positive,2025-01-21 01:35:01
+310,2025-01-26,Phishing Attempt,Low,Closed,2025-01-26 07:07:35
+311,2025-09-23,Phishing Attempt,Low,Closed,2025-09-23 04:54:13
+312,2025-10-03,DDoS Attack,Critical,Resolved,2025-10-03 19:05:51
+313,2025-01-22,Unauthorized Access,Medium,Mitigated,2025-01-22 04:36:43
+314,2024-12-24,Phishing Attempt,High,Resolved,2024-12-24 11:20:51
+315,2025-11-06,Insider Threat,Medium,Mitigated,2025-11-06 11:15:43
+316,2025-10-13,Ransomware,Critical,Resolved,2025-10-13 15:57:16
+317,2025-09-08,Malware Infection,Medium,False Positive,2025-09-08 23:44:43
+318,2025-01-05,Phishing Attempt,Medium,Mitigated,2025-01-05 23:34:51
+319,2025-04-16,Man-in-the-Middle,Critical,Mitigated,2025-04-16 10:46:01
+320,2025-02-21,Insider Threat,Medium,Resolved,2025-02-21 09:08:46
+321,2025-06-06,Ransomware,Low,Closed,2025-06-06 09:36:07
+322,2025-06-26,Malware Infection,Low,Resolved,2025-06-26 04:00:29
+323,2025-02-10,Insider Threat,Low,Open,2025-02-10 09:05:33
+324,2025-09-22,DDoS Attack,Critical,Open,2025-09-22 03:22:31
+325,2025-12-05,Insider Threat,Medium,Closed,2025-12-05 08:27:55
+326,2025-02-01,Phishing Attempt,Critical,Closed,2025-02-01 18:02:57
+327,2025-11-10,DDoS Attack,Low,Resolved,2025-11-10 17:43:24
+328,2025-07-27,DDoS Attack,Low,Closed,2025-07-27 23:46:34
+329,2025-09-22,Data Breach,Critical,False Positive,2025-09-22 21:09:57
+330,2025-06-10,Insider Threat,Critical,Mitigated,2025-06-10 01:17:13
+331,2024-12-29,Man-in-the-Middle,Low,Resolved,2024-12-29 03:40:20
+332,2025-06-11,Malware Infection,High,Mitigated,2025-06-11 14:25:09
+333,2025-06-03,Phishing Attempt,Medium,False Positive,2025-06-03 12:22:16
+334,2025-07-31,Insider Threat,High,Open,2025-07-31 11:19:54
+335,2025-11-04,Unauthorized Access,Medium,Open,2025-11-04 15:50:23
+336,2025-11-20,SQL Injection,Critical,Resolved,2025-11-20 12:08:23
+337,2025-04-15,Man-in-the-Middle,High,Investigating,2025-04-15 21:09:01
+338,2025-08-07,Malware Infection,Medium,Open,2025-08-07 15:26:06
+339,2025-03-08,SQL Injection,Low,Resolved,2025-03-08 05:27:21
+340,2025-03-25,Phishing Attempt,Low,Resolved,2025-03-25 15:04:54
+341,2025-01-19,Insider Threat,Medium,Closed,2025-01-19 15:23:18
+342,2025-02-17,Data Breach,Critical,False Positive,2025-02-17 08:41:08
+343,2025-08-27,Ransomware,Critical,Open,2025-08-27 00:56:09
+344,2025-08-14,Data Breach,High,Investigating,2025-08-14 09:38:12
+345,2025-08-18,Malware Infection,Medium,Resolved,2025-08-18 13:50:11
+346,2025-01-18,Man-in-the-Middle,Critical,Resolved,2025-01-18 10:33:29
+347,2025-08-19,Man-in-the-Middle,Medium,Closed,2025-08-19 19:02:11
+348,2025-09-09,DDoS Attack,Medium,Resolved,2025-09-09 23:42:35
+349,2025-01-06,Man-in-the-Middle,Low,False Positive,2025-01-06 11:10:30
+350,2025-02-12,Ransomware,Low,Closed,2025-02-12 05:54:35
+351,2025-01-22,Data Breach,Critical,Resolved,2025-01-22 05:57:31
+352,2025-09-30,Phishing Attempt,Medium,Mitigated,2025-09-30 16:08:43
+353,2025-10-15,DDoS Attack,Critical,Closed,2025-10-15 07:11:42
+354,2025-05-01,DDoS Attack,Medium,Closed,2025-05-01 18:03:18
+355,2025-10-27,Man-in-the-Middle,High,False Positive,2025-10-27 13:17:48
+356,2025-10-20,Man-in-the-Middle,Medium,Investigating,2025-10-20 06:50:03
+357,2025-01-24,Man-in-the-Middle,Medium,Closed,2025-01-24 19:47:43
+358,2025-05-28,Data Breach,Low,Mitigated,2025-05-28 19:43:05
+359,2025-08-26,DDoS Attack,Medium,Mitigated,2025-08-26 03:10:28
+360,2025-03-26,Unauthorized Access,High,Open,2025-03-26 13:33:54
+361,2025-05-03,SQL Injection,Critical,Investigating,2025-05-03 03:50:04
+362,2025-05-09,Phishing Attempt,Critical,Resolved,2025-05-09 16:00:22
+363,2025-09-27,Ransomware,High,Investigating,2025-09-27 14:02:47
+364,2025-10-10,Malware Infection,High,Open,2025-10-10 06:35:41
+365,2025-10-06,Data Breach,Low,Resolved,2025-10-06 04:55:13
+366,2025-12-09,Insider Threat,Medium,Resolved,2025-12-10 00:21:34
+367,2025-04-29,Ransomware,Low,Investigating,2025-04-29 11:02:02
+368,2025-02-22,DDoS Attack,Critical,Resolved,2025-02-22 19:37:48
+369,2025-07-08,Man-in-the-Middle,Low,False Positive,2025-07-08 07:13:17
+370,2025-01-30,Phishing Attempt,Medium,Closed,2025-01-30 06:38:24
+371,2025-04-30,Phishing Attempt,Critical,False Positive,2025-04-30 20:04:20
+372,2025-07-26,DDoS Attack,Critical,False Positive,2025-07-26 22:19:20
+373,2025-04-16,Data Breach,Critical,False Positive,2025-04-16 23:24:46
+374,2025-08-10,Phishing Attempt,Low,Mitigated,2025-08-10 09:16:54
+375,2025-02-09,DDoS Attack,Low,Investigating,2025-02-09 10:25:54
+376,2025-10-25,Unauthorized Access,High,False Positive,2025-10-25 12:03:48
+377,2025-11-29,Malware Infection,Medium,False Positive,2025-11-29 19:06:13
+378,2025-06-06,Phishing Attempt,Critical,Resolved,2025-06-06 17:10:16
+379,2025-05-22,SQL Injection,Medium,Closed,2025-05-22 23:41:22
+380,2025-06-08,Ransomware,High,Closed,2025-06-08 23:00:20
+381,2025-05-04,DDoS Attack,Low,Resolved,2025-05-04 14:59:23
+382,2025-11-17,Malware Infection,Critical,Closed,2025-11-18 01:02:04
+383,2025-02-24,DDoS Attack,Critical,Closed,2025-02-24 15:35:32
+384,2025-01-12,Phishing Attempt,Low,Closed,2025-01-12 14:39:17
+385,2025-07-20,Malware Infection,Low,False Positive,2025-07-20 18:56:15
+386,2025-03-11,Malware Infection,High,Open,2025-03-11 12:34:43
+387,2025-06-01,SQL Injection,Medium,Investigating,2025-06-01 06:12:26
+388,2025-07-07,Phishing Attempt,Medium,Mitigated,2025-07-07 19:26:49
+389,2025-08-27,Ransomware,High,Closed,2025-08-27 02:09:47
+390,2025-01-26,Phishing Attempt,Medium,Mitigated,2025-01-26 14:28:59
+391,2025-08-09,Ransomware,High,False Positive,2025-08-09 11:56:02
+392,2025-03-22,Insider Threat,Medium,Open,2025-03-22 04:23:16
+393,2025-02-17,Unauthorized Access,Low,Resolved,2025-02-17 22:52:26
+394,2025-04-08,Malware Infection,Medium,Mitigated,2025-04-08 03:50:09
+395,2025-05-22,SQL Injection,Medium,Mitigated,2025-05-23 00:01:27
+396,2025-10-14,Ransomware,High,Investigating,2025-10-14 23:55:15
+397,2025-05-24,Data Breach,Critical,Open,2025-05-24 02:28:05
+398,2025-10-22,Man-in-the-Middle,High,Closed,2025-10-22 07:24:24
+399,2025-11-23,DDoS Attack,Critical,Investigating,2025-11-23 15:28:30
+400,2025-01-16,Malware Infection,Critical,Investigating,2025-01-16 12:20:39
+401,2024-12-21,Data Breach,Medium,Investigating,2024-12-21 01:43:08
+402,2025-05-10,Unauthorized Access,Medium,Mitigated,2025-05-10 11:24:56
+403,2025-07-31,DDoS Attack,Low,Closed,2025-07-31 12:33:27
+404,2025-10-09,SQL Injection,Critical,Investigating,2025-10-09 02:32:48
+405,2025-01-01,Insider Threat,Low,Open,2025-01-01 21:16:33
+406,2025-08-22,Malware Infection,Medium,Closed,2025-08-22 08:05:15
+407,2025-02-16,Data Breach,High,Closed,2025-02-16 22:46:18
+408,2025-06-19,Unauthorized Access,Low,Mitigated,2025-06-19 11:54:00
+409,2025-08-31,Phishing Attempt,Low,False Positive,2025-08-31 19:09:29
+410,2025-02-19,Man-in-the-Middle,Low,Resolved,2025-02-19 05:50:13
+411,2025-11-19,Unauthorized Access,Medium,Resolved,2025-11-19 23:56:53
+412,2025-11-13,Man-in-the-Middle,Low,False Positive,2025-11-13 07:26:41
+413,2025-01-04,SQL Injection,Medium,Closed,2025-01-04 08:16:10
+414,2025-02-18,Man-in-the-Middle,Low,Investigating,2025-02-18 06:33:18
+415,2025-04-05,Ransomware,Medium,Closed,2025-04-05 12:56:05
+416,2025-11-13,Man-in-the-Middle,Critical,Investigating,2025-11-13 06:13:07
+417,2025-04-10,Malware Infection,Medium,False Positive,2025-04-10 15:19:06
+418,2025-02-07,Insider Threat,Medium,Mitigated,2025-02-07 05:28:13
+419,2024-12-28,Man-in-the-Middle,Medium,Investigating,2024-12-28 16:12:53
+420,2025-05-09,Data Breach,Critical,Resolved,2025-05-09 15:42:27
+421,2025-05-01,Man-in-the-Middle,Medium,Resolved,2025-05-01 23:02:47
+422,2025-07-09,Malware Infection,Critical,False Positive,2025-07-09 16:38:24
+423,2025-05-04,Phishing Attempt,Medium,Investigating,2025-05-04 12:20:08
+424,2025-02-01,Data Breach,High,Mitigated,2025-02-01 14:21:46
+425,2025-06-25,Unauthorized Access,Low,False Positive,2025-06-25 16:30:31
+426,2025-01-15,SQL Injection,Low,Open,2025-01-15 22:37:14
+427,2025-01-29,Ransomware,Critical,Mitigated,2025-01-29 13:09:49
+428,2025-05-27,Insider Threat,Critical,False Positive,2025-05-27 20:49:45
+429,2025-10-30,Unauthorized Access,Critical,Open,2025-10-30 14:39:34
+430,2025-11-10,Insider Threat,Critical,Mitigated,2025-11-10 21:09:36
+431,2025-10-23,Insider Threat,Medium,Investigating,2025-10-23 15:34:45
+432,2025-04-09,Ransomware,Low,Resolved,2025-04-09 10:11:16
+433,2025-04-20,Data Breach,Medium,Mitigated,2025-04-20 03:16:05
+434,2025-11-27,Phishing Attempt,Low,Investigating,2025-11-27 17:29:23
+435,2025-07-17,Ransomware,Low,False Positive,2025-07-17 02:11:31
+436,2025-05-12,Phishing Attempt,Critical,Mitigated,2025-05-12 12:20:32
+437,2025-02-17,Man-in-the-Middle,High,Resolved,2025-02-17 19:07:48
+438,2025-07-12,DDoS Attack,Low,Resolved,2025-07-12 02:20:50
+439,2025-05-01,SQL Injection,High,Mitigated,2025-05-01 14:27:22
+440,2025-10-18,SQL Injection,Low,False Positive,2025-10-18 18:27:32
+441,2025-03-11,Malware Infection,High,Open,2025-03-11 13:36:26
+442,2025-07-15,Ransomware,Medium,False Positive,2025-07-15 14:59:43
+443,2025-09-23,Phishing Attempt,Critical,Resolved,2025-09-23 14:20:56
+444,2025-07-10,Unauthorized Access,Medium,Investigating,2025-07-10 01:51:11
+445,2025-10-05,Insider Threat,Low,Open,2025-10-05 21:14:24
+446,2025-10-23,DDoS Attack,Low,Mitigated,2025-10-23 01:52:30
+447,2025-11-28,Data Breach,Medium,Open,2025-11-28 01:38:36
+448,2025-05-17,Ransomware,Critical,Closed,2025-05-17 23:39:37
+449,2025-10-04,Phishing Attempt,Critical,Open,2025-10-04 15:47:32
+450,2025-12-01,DDoS Attack,Low,Open,2025-12-01 17:20:56
+451,2025-01-23,Unauthorized Access,Medium,Investigating,2025-01-23 19:08:01
+452,2025-08-22,Phishing Attempt,Critical,Mitigated,2025-08-22 07:00:36
+453,2025-01-25,Unauthorized Access,High,False Positive,2025-01-25 20:20:46
+454,2025-07-20,Malware Infection,High,Open,2025-07-20 13:40:44
+455,2025-02-11,Phishing Attempt,Low,Resolved,2025-02-11 20:26:27
+456,2025-07-25,Ransomware,Medium,Open,2025-07-25 09:09:02
+457,2025-01-06,DDoS Attack,Medium,Resolved,2025-01-06 12:04:09
+458,2025-02-28,Insider Threat,High,Closed,2025-02-28 00:37:49
+459,2025-03-27,Insider Threat,Critical,Open,2025-03-27 01:35:51
+460,2025-04-05,Ransomware,Low,Mitigated,2025-04-05 05:09:43
+461,2025-06-02,Man-in-the-Middle,High,Investigating,2025-06-02 23:37:20
+462,2025-10-04,SQL Injection,Medium,Resolved,2025-10-04 09:57:24
+463,2025-09-28,DDoS Attack,Medium,False Positive,2025-09-28 01:10:35
+464,2025-10-31,Unauthorized Access,Low,Open,2025-10-31 01:40:09
+465,2025-02-05,Malware Infection,Low,Investigating,2025-02-05 23:17:36
+466,2025-08-02,Insider Threat,Low,Open,2025-08-02 13:00:10
+467,2025-01-15,Phishing Attempt,Low,False Positive,2025-01-15 09:54:22
+468,2025-07-11,Man-in-the-Middle,Critical,Resolved,2025-07-11 08:50:15
+469,2025-04-09,Malware Infection,Low,Mitigated,2025-04-09 18:03:11
+470,2025-10-25,Unauthorized Access,Low,False Positive,2025-10-25 19:56:15
+471,2025-03-30,Data Breach,Critical,False Positive,2025-03-30 23:35:58
+472,2025-10-29,Malware Infection,Low,False Positive,2025-10-29 08:14:10
+473,2025-07-03,Phishing Attempt,Medium,Open,2025-07-03 03:18:32
+474,2025-11-24,Ransomware,Critical,False Positive,2025-11-24 15:49:12
+475,2025-10-02,Insider Threat,Critical,False Positive,2025-10-02 02:10:40
+476,2025-04-18,Data Breach,Medium,Resolved,2025-04-19 00:26:43
+477,2025-11-28,Unauthorized Access,Critical,False Positive,2025-11-28 12:57:26
+478,2025-08-09,Phishing Attempt,Critical,Resolved,2025-08-09 14:14:07
+479,2025-01-04,Data Breach,Critical,False Positive,2025-01-04 02:49:52
+480,2025-11-17,Unauthorized Access,Low,Mitigated,2025-11-17 14:56:53
+481,2025-09-07,Data Breach,Medium,Mitigated,2025-09-07 11:32:49
+482,2025-11-21,Insider Threat,Low,Resolved,2025-11-21 17:38:00
+483,2025-09-20,Malware Infection,Critical,Open,2025-09-20 22:08:36
+484,2025-06-12,Man-in-the-Middle,Medium,Investigating,2025-06-12 14:26:22
+485,2025-04-08,Unauthorized Access,Medium,Mitigated,2025-04-08 11:21:03
+486,2025-08-29,Insider Threat,Medium,Mitigated,2025-08-29 09:41:19
+487,2025-04-06,DDoS Attack,Medium,False Positive,2025-04-06 11:57:09
+488,2025-09-29,Man-in-the-Middle,High,Closed,2025-09-29 13:07:13
+489,2025-11-12,Unauthorized Access,Low,Open,2025-11-12 04:22:49
+490,2025-04-15,Ransomware,Medium,Mitigated,2025-04-15 22:47:08
+491,2025-08-31,Unauthorized Access,High,Investigating,2025-08-31 02:37:35
+492,2025-01-30,Phishing Attempt,Medium,False Positive,2025-01-30 18:46:41
+493,2025-01-24,Man-in-the-Middle,High,Mitigated,2025-01-24 22:43:18
+494,2025-10-13,Ransomware,Medium,False Positive,2025-10-13 10:58:58
+495,2025-05-12,Data Breach,Medium,Resolved,2025-05-12 00:38:15
+496,2025-10-14,Ransomware,Critical,Closed,2025-10-14 10:04:29
+497,2025-03-11,Man-in-the-Middle,High,Open,2025-03-11 06:21:02
+498,2025-10-20,Data Breach,Low,Open,2025-10-20 17:34:08
+499,2024-12-15,Unauthorized Access,Critical,Resolved,2024-12-15 05:21:48
+500,2025-08-13,SQL Injection,Critical,False Positive,2025-08-13 08:29:15
+501,2025-02-19,Phishing Attempt,Critical,Open,2025-02-19 11:31:35
+502,2025-09-21,SQL Injection,Low,Resolved,2025-09-21 05:36:49
+503,2025-12-08,DDoS Attack,Critical,False Positive,2025-12-08 23:20:05
+504,2025-05-18,SQL Injection,Critical,Resolved,2025-05-18 09:55:36
+505,2025-04-07,Data Breach,Critical,Mitigated,2025-04-07 03:53:49
+506,2025-08-08,Insider Threat,Low,Open,2025-08-08 01:38:47
+507,2025-05-21,Unauthorized Access,Medium,Open,2025-05-21 01:48:19
+508,2025-06-03,DDoS Attack,Critical,False Positive,2025-06-03 10:44:42
+509,2024-12-28,Ransomware,High,Resolved,2024-12-28 20:38:22
+510,2025-01-24,Malware Infection,Critical,Mitigated,2025-01-24 06:08:03
+511,2025-04-15,Unauthorized Access,High,Investigating,2025-04-15 13:45:18
+512,2025-11-16,Unauthorized Access,Low,Resolved,2025-11-16 01:26:47
+513,2025-08-16,Phishing Attempt,Critical,Open,2025-08-16 14:19:18
+514,2025-04-05,Malware Infection,Medium,Investigating,2025-04-05 02:59:44
+515,2025-10-17,Insider Threat,High,False Positive,2025-10-17 02:38:05
+516,2025-05-19,DDoS Attack,Medium,Closed,2025-05-19 18:00:57
+517,2025-10-12,Malware Infection,Critical,Closed,2025-10-12 13:10:04
+518,2025-09-23,Man-in-the-Middle,Critical,False Positive,2025-09-23 07:49:35
+519,2025-09-19,Data Breach,Low,False Positive,2025-09-19 09:55:01
+520,2025-08-28,Man-in-the-Middle,High,Closed,2025-08-28 05:59:22
+521,2025-04-12,Ransomware,Low,Open,2025-04-12 10:45:25
+522,2025-04-28,Ransomware,Medium,Investigating,2025-04-28 04:21:52
+523,2025-08-08,Insider Threat,Medium,Closed,2025-08-08 14:01:01
+524,2025-09-16,Unauthorized Access,Critical,Closed,2025-09-16 01:54:33
+525,2024-12-12,Insider Threat,Critical,False Positive,2024-12-13 01:02:46
+526,2024-12-11,Ransomware,High,False Positive,2024-12-11 04:16:55
+527,2025-11-20,Ransomware,High,Closed,2025-11-21 00:12:34
+528,2024-12-30,Insider Threat,Critical,Mitigated,2024-12-30 20:52:50
+529,2025-07-09,DDoS Attack,Low,Resolved,2025-07-09 05:49:48
+530,2025-07-11,Man-in-the-Middle,Critical,False Positive,2025-07-11 21:43:58
+531,2025-03-05,Ransomware,Medium,Closed,2025-03-05 09:33:34
+532,2025-05-30,SQL Injection,Low,False Positive,2025-05-30 13:38:31
+533,2025-07-10,Ransomware,Medium,False Positive,2025-07-10 15:52:13
+534,2025-03-10,Insider Threat,Critical,Resolved,2025-03-10 17:08:26
+535,2025-05-08,Man-in-the-Middle,Critical,Closed,2025-05-08 10:39:59
+536,2025-06-04,Unauthorized Access,Low,Investigating,2025-06-05 00:30:12
+537,2025-02-20,Unauthorized Access,Medium,False Positive,2025-02-20 03:38:32
+538,2025-09-22,Phishing Attempt,High,Open,2025-09-22 20:51:22
+539,2025-09-15,Phishing Attempt,Medium,Investigating,2025-09-15 16:16:22
+540,2024-12-13,SQL Injection,High,False Positive,2024-12-13 23:24:46
+541,2025-09-14,Man-in-the-Middle,Low,Mitigated,2025-09-14 20:49:41
+542,2025-01-14,SQL Injection,Medium,Investigating,2025-01-14 08:30:35
+543,2025-07-12,Phishing Attempt,Low,Investigating,2025-07-12 08:45:49
+544,2025-08-04,Unauthorized Access,Medium,Investigating,2025-08-04 09:04:35
+545,2025-08-24,Data Breach,Medium,False Positive,2025-08-24 10:23:02
+546,2025-10-14,Phishing Attempt,Critical,Open,2025-10-14 06:17:34
+547,2025-07-02,Ransomware,Medium,Investigating,2025-07-02 23:29:59
+548,2025-12-09,Insider Threat,High,Investigating,2025-12-09 12:27:53
+549,2025-10-01,Unauthorized Access,Critical,Investigating,2025-10-01 15:05:06
+550,2025-09-14,Man-in-the-Middle,Critical,False Positive,2025-09-14 04:13:21
+551,2025-09-07,Phishing Attempt,Low,Open,2025-09-07 21:49:24
+552,2025-10-06,Phishing Attempt,High,False Positive,2025-10-06 18:11:44
+553,2025-05-28,SQL Injection,Low,Closed,2025-05-28 21:28:33
+554,2025-09-15,Data Breach,Critical,Resolved,2025-09-15 18:37:08
+555,2025-04-09,Phishing Attempt,Low,False Positive,2025-04-09 18:47:19
+556,2025-06-04,Phishing Attempt,High,Investigating,2025-06-04 18:04:52
+557,2025-06-01,Data Breach,Medium,Investigating,2025-06-01 01:35:24
+558,2025-06-12,DDoS Attack,High,False Positive,2025-06-12 08:16:47
+559,2025-02-17,DDoS Attack,High,Mitigated,2025-02-17 04:21:44
+560,2025-01-16,Ransomware,Critical,False Positive,2025-01-16 14:03:55
+561,2025-07-29,Data Breach,High,Closed,2025-07-29 05:49:27
+562,2025-02-13,Man-in-the-Middle,High,Mitigated,2025-02-13 04:26:40
+563,2025-08-30,Unauthorized Access,Critical,Resolved,2025-08-30 22:25:22
+564,2025-10-07,Phishing Attempt,Critical,False Positive,2025-10-07 04:54:23
+565,2025-05-30,Man-in-the-Middle,Medium,False Positive,2025-05-30 06:49:15
+566,2025-12-06,Unauthorized Access,Critical,Open,2025-12-06 23:33:17
+567,2025-11-01,SQL Injection,Medium,Open,2025-11-01 10:05:59
+568,2025-07-24,Ransomware,Low,False Positive,2025-07-24 06:17:19
+569,2025-10-19,Ransomware,Critical,Investigating,2025-10-19 15:36:57
+570,2025-08-06,Unauthorized Access,Low,Resolved,2025-08-06 02:02:01
+571,2025-04-30,Insider Threat,Low,False Positive,2025-04-30 12:32:13
+572,2025-01-15,Unauthorized Access,Critical,Open,2025-01-16 00:48:05
+573,2025-07-23,Malware Infection,Low,Investigating,2025-07-23 07:21:57
+574,2025-05-09,Insider Threat,High,Investigating,2025-05-09 19:08:39
+575,2025-07-11,Data Breach,Critical,False Positive,2025-07-11 21:07:15
+576,2025-04-16,Malware Infection,High,Closed,2025-04-16 23:40:38
+577,2025-01-12,Data Breach,Critical,Open,2025-01-12 06:40:03
+578,2025-02-12,Man-in-the-Middle,Medium,Investigating,2025-02-12 17:10:43
+579,2025-09-16,Phishing Attempt,High,Investigating,2025-09-16 04:46:07
+580,2025-09-11,DDoS Attack,Medium,Closed,2025-09-11 11:11:26
+581,2025-08-29,DDoS Attack,Medium,Investigating,2025-08-29 05:07:42
+582,2025-01-16,Man-in-the-Middle,Critical,Closed,2025-01-16 11:47:19
+583,2024-12-24,Ransomware,Low,Mitigated,2024-12-24 08:14:19
+584,2025-10-09,Malware Infection,Critical,Mitigated,2025-10-10 00:24:35
+585,2025-08-29,DDoS Attack,Low,False Positive,2025-08-29 02:05:41
+586,2025-05-19,Phishing Attempt,High,Investigating,2025-05-19 11:04:02
+587,2025-04-13,Phishing Attempt,Critical,Mitigated,2025-04-13 10:12:06
+588,2025-11-21,Unauthorized Access,Medium,False Positive,2025-11-21 08:25:59
+589,2025-01-03,Malware Infection,Critical,Open,2025-01-04 01:02:21
+590,2025-08-19,Malware Infection,Critical,Resolved,2025-08-19 22:19:26
+591,2025-11-04,Man-in-the-Middle,High,Investigating,2025-11-04 09:23:06
+592,2025-11-18,Insider Threat,Critical,False Positive,2025-11-18 11:23:05
+593,2024-12-29,Unauthorized Access,Critical,False Positive,2024-12-29 05:14:20
+594,2025-01-26,Insider Threat,Critical,Closed,2025-01-26 05:09:50
+595,2025-02-27,Data Breach,Critical,Mitigated,2025-02-27 02:48:44
+596,2025-02-18,Insider Threat,High,Open,2025-02-18 13:52:12
+597,2025-11-22,Man-in-the-Middle,Low,Mitigated,2025-11-22 06:17:39
+598,2025-04-30,Man-in-the-Middle,Medium,Resolved,2025-04-30 15:27:59
+599,2025-09-07,Ransomware,High,False Positive,2025-09-07 13:28:27
+600,2025-03-29,Data Breach,Critical,Investigating,2025-03-29 23:29:05
+601,2025-01-14,SQL Injection,Low,Resolved,2025-01-14 16:26:59
+602,2025-07-03,Unauthorized Access,Low,False Positive,2025-07-03 05:32:22
+603,2025-09-11,DDoS Attack,Medium,False Positive,2025-09-11 11:31:38
+604,2025-05-11,Data Breach,Medium,Investigating,2025-05-11 14:12:16
+605,2025-10-06,Phishing Attempt,Critical,Investigating,2025-10-06 02:41:50
+606,2025-07-22,Unauthorized Access,Medium,Closed,2025-07-22 11:26:57
+607,2025-07-22,Unauthorized Access,High,Resolved,2025-07-22 16:47:43
+608,2025-04-05,Insider Threat,Low,Investigating,2025-04-05 18:39:27
+609,2025-11-22,Ransomware,Medium,Open,2025-11-22 09:34:02
+610,2025-04-01,Data Breach,Medium,Investigating,2025-04-01 03:28:08
+611,2025-06-27,Phishing Attempt,High,Resolved,2025-06-27 22:19:05
+612,2025-09-30,Unauthorized Access,High,Closed,2025-09-30 17:48:21
+613,2025-08-20,Malware Infection,High,Mitigated,2025-08-20 02:10:34
+614,2025-03-18,Malware Infection,Medium,Resolved,2025-03-18 18:52:33
+615,2025-12-06,Phishing Attempt,Medium,Open,2025-12-06 23:20:57
+616,2025-10-13,Man-in-the-Middle,Critical,Closed,2025-10-13 20:50:52
+617,2025-04-18,Phishing Attempt,High,Investigating,2025-04-18 17:50:54
+618,2025-03-06,Ransomware,Low,Resolved,2025-03-06 06:42:02
+619,2025-01-01,DDoS Attack,High,Resolved,2025-01-01 22:38:25
+620,2025-01-07,Insider Threat,Medium,Open,2025-01-07 19:38:29
+621,2025-04-28,Insider Threat,High,Closed,2025-04-28 09:02:00
+622,2025-06-10,Phishing Attempt,Critical,Investigating,2025-06-10 16:17:10
+623,2025-10-02,Malware Infection,High,False Positive,2025-10-02 16:28:27
+624,2025-09-17,Phishing Attempt,High,Investigating,2025-09-17 07:17:14
+625,2025-02-22,Ransomware,High,Resolved,2025-02-22 14:05:05
+626,2025-11-07,Insider Threat,High,Open,2025-11-07 07:21:17
+627,2025-09-15,Phishing Attempt,High,Resolved,2025-09-15 02:36:52
+628,2025-06-01,Man-in-the-Middle,High,Resolved,2025-06-01 18:00:19
+629,2025-06-15,DDoS Attack,Medium,Closed,2025-06-15 03:11:19
+630,2024-12-18,DDoS Attack,High,Closed,2024-12-18 22:30:29
+631,2025-05-17,Malware Infection,Low,Mitigated,2025-05-17 13:51:19
+632,2025-07-26,Malware Infection,High,Mitigated,2025-07-26 06:02:43
+633,2025-07-24,Phishing Attempt,Medium,Open,2025-07-24 01:15:53
+634,2025-05-13,Man-in-the-Middle,High,False Positive,2025-05-13 18:20:41
+635,2025-12-04,Data Breach,High,Mitigated,2025-12-04 04:10:40
+636,2024-12-26,Insider Threat,Critical,False Positive,2024-12-26 16:47:30
+637,2025-02-18,Phishing Attempt,Critical,False Positive,2025-02-18 23:58:50
+638,2025-05-17,Insider Threat,High,Resolved,2025-05-17 11:55:10
+639,2025-07-29,Phishing Attempt,Low,Closed,2025-07-30 01:09:22
+640,2025-01-15,Man-in-the-Middle,Medium,False Positive,2025-01-15 16:24:43
+641,2025-10-18,Ransomware,Critical,False Positive,2025-10-18 05:01:32
+642,2025-03-04,Unauthorized Access,Critical,Investigating,2025-03-04 11:59:10
+643,2025-07-28,Malware Infection,Critical,Mitigated,2025-07-28 15:27:00
+644,2025-04-01,Phishing Attempt,High,False Positive,2025-04-01 14:31:26
+645,2025-10-30,Ransomware,Critical,Resolved,2025-10-30 20:57:42
+646,2024-12-20,Man-in-the-Middle,Medium,Closed,2024-12-20 22:10:47
+647,2025-06-12,Phishing Attempt,Medium,False Positive,2025-06-12 19:00:08
+648,2025-02-09,Man-in-the-Middle,Critical,Closed,2025-02-09 19:24:05
+649,2025-07-14,Ransomware,High,Investigating,2025-07-14 05:02:00
+650,2025-07-22,SQL Injection,High,Closed,2025-07-23 01:19:20
+651,2025-11-25,Malware Infection,Critical,False Positive,2025-11-25 04:23:13
+652,2025-11-09,Malware Infection,Medium,Resolved,2025-11-09 06:33:26
+653,2025-06-13,Malware Infection,High,False Positive,2025-06-13 01:34:14
+654,2025-03-18,Ransomware,Low,Open,2025-03-18 10:50:27
+655,2025-05-19,Data Breach,Medium,Open,2025-05-19 01:04:32
+656,2025-05-03,SQL Injection,Critical,Open,2025-05-03 12:11:37
+657,2025-09-14,Data Breach,High,Open,2025-09-14 16:49:24
+658,2024-12-22,Malware Infection,Critical,Open,2024-12-22 08:46:06
+659,2025-07-29,Phishing Attempt,Medium,False Positive,2025-07-29 15:56:41
+660,2025-01-09,Malware Infection,Medium,Open,2025-01-09 08:49:35
+661,2025-07-13,DDoS Attack,Low,Mitigated,2025-07-13 20:44:06
+662,2024-12-14,DDoS Attack,High,Mitigated,2024-12-14 23:33:25
+663,2025-10-02,Unauthorized Access,Critical,False Positive,2025-10-02 05:48:57
+664,2024-12-25,Unauthorized Access,Low,Open,2024-12-25 09:41:17
+665,2024-12-24,Ransomware,Low,Open,2024-12-24 18:37:23
+666,2025-05-10,Man-in-the-Middle,High,False Positive,2025-05-10 09:11:19
+667,2024-12-22,Insider Threat,Low,False Positive,2024-12-22 01:09:44
+668,2025-01-06,Ransomware,Low,False Positive,2025-01-06 23:56:18
+669,2025-07-12,SQL Injection,High,Closed,2025-07-12 05:25:31
+670,2025-07-01,DDoS Attack,High,Resolved,2025-07-01 12:23:52
+671,2025-10-10,Insider Threat,Critical,False Positive,2025-10-11 00:27:54
+672,2025-03-17,DDoS Attack,Low,Open,2025-03-17 16:31:48
+673,2025-10-10,Data Breach,High,Resolved,2025-10-10 17:51:34
+674,2025-05-26,Malware Infection,Critical,Closed,2025-05-26 14:22:15
+675,2025-07-18,SQL Injection,Critical,Mitigated,2025-07-18 10:13:29
+676,2025-01-14,SQL Injection,Medium,Resolved,2025-01-14 03:00:28
+677,2025-09-23,Data Breach,Medium,Mitigated,2025-09-23 09:35:44
+678,2025-11-26,Unauthorized Access,Medium,Closed,2025-11-26 12:54:54
+679,2025-07-08,Unauthorized Access,High,False Positive,2025-07-08 20:01:34
+680,2025-10-08,Man-in-the-Middle,Medium,Resolved,2025-10-08 02:44:20
+681,2025-02-03,Unauthorized Access,High,Resolved,2025-02-03 17:33:10
+682,2025-07-08,Malware Infection,Critical,False Positive,2025-07-08 05:26:02
+683,2025-05-15,SQL Injection,High,Resolved,2025-05-15 22:59:16
+684,2025-06-03,Insider Threat,Low,False Positive,2025-06-03 02:19:00
+685,2024-12-28,Unauthorized Access,Critical,Closed,2024-12-28 07:35:22
+686,2025-06-23,Insider Threat,Low,False Positive,2025-06-23 10:30:52
+687,2025-09-22,Malware Infection,Medium,Resolved,2025-09-22 23:08:00
+688,2025-04-26,Data Breach,Critical,Closed,2025-04-26 16:23:19
+689,2025-09-28,DDoS Attack,High,Investigating,2025-09-28 01:29:59
+690,2025-04-01,Malware Infection,Critical,Resolved,2025-04-01 22:37:42
+691,2025-07-01,Unauthorized Access,Critical,Resolved,2025-07-01 19:55:35
+692,2025-06-19,Ransomware,Medium,Open,2025-06-19 18:52:00
+693,2025-05-02,Ransomware,Low,False Positive,2025-05-02 19:28:45
+694,2025-10-21,Phishing Attempt,Critical,Mitigated,2025-10-21 03:51:39
+695,2025-04-24,Ransomware,Medium,Open,2025-04-24 18:20:27
+696,2025-09-10,Malware Infection,Low,Closed,2025-09-10 09:59:58
+697,2025-03-19,Insider Threat,Critical,Open,2025-03-19 07:46:12
+698,2025-10-12,Man-in-the-Middle,High,Open,2025-10-12 18:07:03
+699,2025-10-02,Man-in-the-Middle,Medium,Resolved,2025-10-02 04:07:08
+700,2025-04-16,SQL Injection,Critical,Mitigated,2025-04-16 08:28:16
+701,2025-11-27,Unauthorized Access,Medium,Closed,2025-11-27 11:10:06
+702,2025-08-03,Unauthorized Access,Medium,Resolved,2025-08-03 07:27:59
+703,2025-04-17,Data Breach,Critical,False Positive,2025-04-17 08:18:22
+704,2024-12-13,Malware Infection,Medium,Resolved,2024-12-13 13:04:15
+705,2025-11-01,Man-in-the-Middle,Critical,Closed,2025-11-01 03:38:49
+706,2025-01-05,DDoS Attack,High,Mitigated,2025-01-05 05:04:15
+707,2025-11-24,Malware Infection,High,Open,2025-11-24 19:37:21
+708,2025-07-17,Insider Threat,Low,Closed,2025-07-17 17:23:47
+709,2025-03-02,Ransomware,Low,Mitigated,2025-03-02 14:16:24
+710,2025-01-18,Phishing Attempt,High,Mitigated,2025-01-18 02:43:48
+711,2025-04-17,Man-in-the-Middle,Medium,Open,2025-04-17 08:20:13
+712,2025-11-23,Phishing Attempt,Critical,Open,2025-11-23 10:21:29
+713,2025-01-17,Phishing Attempt,High,Investigating,2025-01-17 02:29:04
+714,2025-04-23,Phishing Attempt,High,Investigating,2025-04-23 08:16:37
+715,2025-03-12,DDoS Attack,Medium,Closed,2025-03-12 09:25:57
+716,2025-04-22,DDoS Attack,Medium,Open,2025-04-22 16:06:06
+717,2025-04-10,Data Breach,Critical,Closed,2025-04-10 06:16:23
+718,2025-06-02,Malware Infection,Medium,Mitigated,2025-06-02 19:17:15
+719,2025-01-02,DDoS Attack,Critical,Resolved,2025-01-02 18:47:45
+720,2025-02-02,Man-in-the-Middle,Low,Mitigated,2025-02-02 11:31:46
+721,2025-04-27,Man-in-the-Middle,Critical,Investigating,2025-04-27 02:39:12
+722,2025-04-02,DDoS Attack,High,Open,2025-04-02 04:49:16
+723,2025-04-14,Ransomware,Medium,Resolved,2025-04-14 10:57:57
+724,2025-03-05,Phishing Attempt,Medium,Closed,2025-03-05 12:46:42
+725,2025-08-19,Phishing Attempt,Medium,Closed,2025-08-19 04:11:17
+726,2025-08-05,DDoS Attack,High,Resolved,2025-08-05 17:17:54
+727,2025-05-27,Unauthorized Access,Medium,Mitigated,2025-05-27 00:31:40
+728,2024-12-17,Phishing Attempt,Critical,Closed,2024-12-17 16:24:50
+729,2025-10-10,Insider Threat,Low,Resolved,2025-10-10 11:03:25
+730,2025-03-25,Ransomware,Low,Closed,2025-03-25 17:30:43
+731,2025-08-16,Man-in-the-Middle,Critical,Investigating,2025-08-16 22:39:10
+732,2025-08-08,Phishing Attempt,High,Open,2025-08-08 15:43:49
+733,2025-05-07,Data Breach,Low,Resolved,2025-05-07 14:52:43
+734,2025-10-14,Ransomware,Low,False Positive,2025-10-14 01:35:34
+735,2025-04-08,Man-in-the-Middle,Medium,Closed,2025-04-08 03:37:30
+736,2025-11-23,SQL Injection,Low,Open,2025-11-23 22:59:00
+737,2025-03-14,DDoS Attack,High,Resolved,2025-03-14 12:53:30
+738,2025-07-19,Insider Threat,Critical,False Positive,2025-07-19 03:20:58
+739,2025-05-17,Data Breach,Low,Mitigated,2025-05-17 19:22:53
+740,2025-06-15,Malware Infection,Critical,Closed,2025-06-15 07:43:32
+741,2025-01-26,Man-in-the-Middle,High,Closed,2025-01-26 05:34:04
+742,2025-09-11,SQL Injection,High,False Positive,2025-09-11 09:38:20
+743,2025-03-17,SQL Injection,Medium,Resolved,2025-03-17 08:07:25
+744,2025-01-16,Phishing Attempt,High,Mitigated,2025-01-16 12:30:53
+745,2025-11-23,Unauthorized Access,Low,Mitigated,2025-11-23 16:08:11
+746,2025-07-02,Insider Threat,Critical,Resolved,2025-07-02 20:43:08
+747,2025-05-23,DDoS Attack,Critical,Resolved,2025-05-23 07:53:18
+748,2024-12-22,Unauthorized Access,Critical,False Positive,2024-12-22 05:37:25
+749,2025-12-01,SQL Injection,Critical,Resolved,2025-12-01 06:46:10
+750,2025-11-13,Insider Threat,Critical,Closed,2025-11-13 08:18:33
+751,2025-10-20,Malware Infection,Low,False Positive,2025-10-20 21:43:56
+752,2025-08-31,Insider Threat,Medium,Investigating,2025-08-31 01:40:14
+753,2025-04-08,DDoS Attack,Low,Closed,2025-04-08 15:31:26
+754,2024-12-28,DDoS Attack,Critical,Investigating,2024-12-28 13:57:45
+755,2025-06-22,Malware Infection,Low,Closed,2025-06-22 15:12:15
+756,2025-10-21,Phishing Attempt,Critical,Mitigated,2025-10-21 03:14:45
+757,2025-05-25,Unauthorized Access,Critical,False Positive,2025-05-25 20:02:44
+758,2024-12-24,Malware Infection,Critical,False Positive,2024-12-25 01:00:57
+759,2024-12-11,Malware Infection,Low,Closed,2024-12-11 10:16:29
+760,2025-08-10,Phishing Attempt,Medium,False Positive,2025-08-10 18:28:20
+761,2025-02-11,Unauthorized Access,Critical,Investigating,2025-02-11 07:33:04
+762,2025-01-20,Phishing Attempt,Medium,Mitigated,2025-01-20 11:34:51
+763,2024-12-12,Data Breach,Low,Investigating,2024-12-12 09:03:03
+764,2025-01-26,Insider Threat,High,Open,2025-01-26 10:33:21
+765,2025-10-02,Unauthorized Access,High,Closed,2025-10-02 02:41:24
+766,2025-02-22,SQL Injection,Medium,Mitigated,2025-02-22 15:00:29
+767,2025-06-15,SQL Injection,High,Open,2025-06-15 19:43:06
+768,2025-05-07,Data Breach,Medium,Mitigated,2025-05-07 02:53:47
+769,2025-10-19,DDoS Attack,Low,Investigating,2025-10-19 15:22:03
+770,2025-10-17,Data Breach,High,Resolved,2025-10-17 07:55:50
+771,2025-08-22,Ransomware,Medium,Open,2025-08-22 03:56:36
+772,2025-07-03,Phishing Attempt,High,Mitigated,2025-07-03 07:02:34
+773,2025-04-02,Phishing Attempt,High,Investigating,2025-04-02 14:13:06
+774,2025-06-24,Phishing Attempt,Critical,False Positive,2025-06-25 00:20:37
+775,2025-08-19,Data Breach,High,False Positive,2025-08-19 05:19:50
+776,2025-08-22,SQL Injection,High,Open,2025-08-22 22:45:54
+777,2025-01-06,Insider Threat,Medium,Open,2025-01-06 16:28:10
+778,2025-01-17,Man-in-the-Middle,Medium,Resolved,2025-01-17 17:06:30
+779,2025-02-04,DDoS Attack,Critical,False Positive,2025-02-04 22:32:02
+780,2025-10-09,Man-in-the-Middle,Medium,Closed,2025-10-09 16:22:47
+781,2025-10-08,SQL Injection,Low,Resolved,2025-10-08 22:33:00
+782,2025-06-10,Man-in-the-Middle,Medium,Investigating,2025-06-10 02:22:29
+783,2025-07-27,Insider Threat,High,Resolved,2025-07-27 01:59:55
+784,2025-07-13,Ransomware,Low,Investigating,2025-07-13 05:55:47
+785,2025-01-24,Malware Infection,Critical,False Positive,2025-01-24 15:57:32
+786,2025-01-25,Unauthorized Access,Medium,False Positive,2025-01-25 22:39:05
+787,2025-09-22,Insider Threat,Medium,Closed,2025-09-22 09:07:03
+788,2025-02-22,Man-in-the-Middle,Critical,Open,2025-02-22 12:46:43
+789,2024-12-18,SQL Injection,Low,False Positive,2024-12-18 22:49:55
+790,2025-10-05,DDoS Attack,Low,Investigating,2025-10-06 00:11:08
+791,2025-10-19,Insider Threat,Low,Mitigated,2025-10-19 23:26:49
+792,2025-02-17,Man-in-the-Middle,Medium,Resolved,2025-02-17 02:35:32
+793,2025-08-07,DDoS Attack,Medium,False Positive,2025-08-07 12:48:39
+794,2025-06-19,Phishing Attempt,Critical,Closed,2025-06-19 05:14:54
+795,2025-03-02,Unauthorized Access,Low,Resolved,2025-03-02 23:41:36
+796,2025-11-21,Insider Threat,High,False Positive,2025-11-21 05:26:58
+797,2025-11-20,Malware Infection,High,Investigating,2025-11-20 14:58:19
+798,2024-12-13,Malware Infection,High,Investigating,2024-12-13 06:49:01
+799,2025-01-01,DDoS Attack,Low,Investigating,2025-01-01 03:16:21
+800,2024-12-30,Man-in-the-Middle,Critical,Investigating,2024-12-30 12:16:33
+801,2025-07-02,Ransomware,Medium,Open,2025-07-02 06:52:44
+802,2025-03-28,Data Breach,Medium,Open,2025-03-28 22:52:02
+803,2025-02-04,Unauthorized Access,High,False Positive,2025-02-04 17:16:32
+804,2025-10-05,Data Breach,High,False Positive,2025-10-05 03:34:15
+805,2025-07-29,Data Breach,Critical,Open,2025-07-29 16:39:12
+806,2025-05-21,SQL Injection,Critical,Closed,2025-05-21 11:55:57
+807,2025-01-04,DDoS Attack,Critical,Open,2025-01-04 22:13:46
+808,2024-12-12,Ransomware,Medium,Closed,2024-12-12 02:40:57
+809,2025-01-27,Malware Infection,Medium,False Positive,2025-01-27 19:10:53
+810,2025-09-04,SQL Injection,Critical,Open,2025-09-04 05:01:26
+811,2025-01-29,Phishing Attempt,Low,Investigating,2025-01-29 19:32:54
+812,2025-01-10,Insider Threat,High,Investigating,2025-01-10 00:48:30
+813,2025-03-15,Unauthorized Access,Medium,False Positive,2025-03-15 19:27:07
+814,2025-12-01,Malware Infection,High,Resolved,2025-12-01 05:34:45
+815,2025-07-09,Unauthorized Access,Medium,Mitigated,2025-07-09 17:23:31
+816,2025-04-04,DDoS Attack,High,Mitigated,2025-04-04 12:20:18
+817,2025-08-19,Data Breach,Low,Investigating,2025-08-19 20:18:32
+818,2025-12-04,Insider Threat,Medium,Mitigated,2025-12-04 18:11:29
+819,2025-09-02,Ransomware,Low,Resolved,2025-09-02 13:27:12
+820,2025-06-09,Unauthorized Access,High,Mitigated,2025-06-09 02:56:56
+821,2025-08-09,Data Breach,High,False Positive,2025-08-09 14:07:47
+822,2025-01-27,Phishing Attempt,Medium,Resolved,2025-01-27 16:57:59
+823,2025-01-13,Data Breach,Medium,Resolved,2025-01-13 22:31:57
+824,2025-01-14,SQL Injection,High,Investigating,2025-01-14 07:53:52
+825,2025-10-07,Ransomware,Low,Mitigated,2025-10-07 02:33:25
+826,2025-08-30,Insider Threat,High,Open,2025-08-30 09:20:16
+827,2025-08-07,Phishing Attempt,High,False Positive,2025-08-07 22:06:51
+828,2025-01-07,Malware Infection,Low,Closed,2025-01-07 20:55:30
+829,2024-12-19,Insider Threat,Critical,Closed,2024-12-19 04:20:07
+830,2025-06-30,Data Breach,Low,Mitigated,2025-06-30 17:16:24
+831,2025-06-02,Man-in-the-Middle,Medium,Mitigated,2025-06-02 22:26:32
+832,2025-03-14,Data Breach,Low,Closed,2025-03-14 06:29:37
+833,2025-03-20,Insider Threat,Medium,Closed,2025-03-21 00:09:38
+834,2025-01-17,Ransomware,Critical,False Positive,2025-01-17 15:16:32
+835,2025-02-26,Data Breach,Low,Mitigated,2025-02-26 04:45:40
+836,2025-09-08,Unauthorized Access,High,Investigating,2025-09-08 23:30:39
+837,2025-02-19,Insider Threat,Low,Open,2025-02-19 20:53:40
+838,2025-09-16,Malware Infection,Critical,Closed,2025-09-16 14:39:24
+839,2025-06-11,SQL Injection,Low,Mitigated,2025-06-11 14:29:01
+840,2025-11-15,Phishing Attempt,High,Mitigated,2025-11-15 07:10:40
+841,2025-07-23,Data Breach,Low,Resolved,2025-07-23 21:31:35
+842,2025-10-25,Data Breach,Critical,Investigating,2025-10-25 08:00:31
+843,2025-04-15,Unauthorized Access,Low,Closed,2025-04-15 10:21:04
+844,2025-01-14,Man-in-the-Middle,Critical,Mitigated,2025-01-14 08:50:05
+845,2024-12-24,Phishing Attempt,High,Closed,2024-12-24 18:15:14
+846,2024-12-27,Data Breach,Low,False Positive,2024-12-27 17:16:21
+847,2025-07-12,Phishing Attempt,Low,Open,2025-07-12 05:09:54
+848,2025-01-27,Unauthorized Access,High,Investigating,2025-01-27 23:27:01
+849,2025-02-17,Ransomware,Low,Investigating,2025-02-17 21:31:17
+850,2025-07-14,Man-in-the-Middle,Medium,Closed,2025-07-14 23:11:39
+851,2025-12-04,SQL Injection,High,Closed,2025-12-04 08:19:07
+852,2025-08-29,DDoS Attack,Critical,Closed,2025-08-29 02:45:05
+853,2025-07-09,Unauthorized Access,High,Mitigated,2025-07-09 07:22:14
+854,2025-05-06,DDoS Attack,Critical,Resolved,2025-05-06 21:09:52
+855,2025-08-03,Data Breach,Medium,False Positive,2025-08-03 12:03:34
+856,2025-07-12,Man-in-the-Middle,High,False Positive,2025-07-12 13:00:48
+857,2025-09-11,Malware Infection,Critical,Resolved,2025-09-11 18:03:52
+858,2025-01-16,Man-in-the-Middle,Critical,Open,2025-01-16 12:16:51
+859,2025-08-18,Malware Infection,Critical,Investigating,2025-08-18 11:12:45
+860,2025-01-25,DDoS Attack,Medium,Investigating,2025-01-25 14:17:48
+861,2025-03-12,Phishing Attempt,Low,Investigating,2025-03-12 01:01:01
+862,2024-12-30,Malware Infection,Critical,False Positive,2024-12-30 05:12:36
+863,2025-11-07,DDoS Attack,Medium,Open,2025-11-07 05:12:28
+864,2025-03-07,Insider Threat,Critical,Investigating,2025-03-07 09:33:27
+865,2025-07-26,Unauthorized Access,High,Investigating,2025-07-26 15:31:50
+866,2024-12-14,DDoS Attack,Medium,False Positive,2024-12-15 00:32:27
+867,2025-10-01,Malware Infection,Medium,Mitigated,2025-10-01 17:56:47
+868,2025-01-07,Unauthorized Access,High,False Positive,2025-01-07 19:10:51
+869,2025-05-24,Ransomware,Critical,Open,2025-05-24 10:31:16
+870,2025-02-06,Insider Threat,Critical,Resolved,2025-02-06 05:06:23
+871,2025-03-25,Unauthorized Access,Low,Investigating,2025-03-25 21:25:13
+872,2025-04-24,Insider Threat,Medium,Mitigated,2025-04-24 14:52:07
+873,2025-12-09,Man-in-the-Middle,Critical,Investigating,2025-12-09 21:47:26
+874,2025-06-10,SQL Injection,Low,Resolved,2025-06-10 23:04:31
+875,2025-12-09,Unauthorized Access,Low,Closed,2025-12-09 19:09:29
+876,2025-02-05,Insider Threat,High,Closed,2025-02-05 21:23:37
+877,2025-10-11,SQL Injection,Critical,False Positive,2025-10-11 02:02:39
+878,2025-03-09,Unauthorized Access,Critical,Open,2025-03-09 04:52:29
+879,2025-07-08,DDoS Attack,Low,Investigating,2025-07-08 04:04:24
+880,2025-11-21,Insider Threat,Critical,False Positive,2025-11-21 20:05:23
+881,2025-11-23,DDoS Attack,Medium,Investigating,2025-11-23 07:27:15
+882,2025-01-31,Malware Infection,Critical,Open,2025-01-31 14:41:12
+883,2025-12-05,Phishing Attempt,Critical,Open,2025-12-05 10:28:12
+884,2025-05-03,Phishing Attempt,Critical,Resolved,2025-05-03 20:09:05
+885,2025-08-19,Data Breach,High,Resolved,2025-08-19 15:55:22
+886,2025-08-26,SQL Injection,High,False Positive,2025-08-26 09:33:10
+887,2025-05-06,Insider Threat,Critical,Mitigated,2025-05-06 23:26:51
+888,2024-12-18,DDoS Attack,High,Investigating,2024-12-18 02:06:26
+889,2025-01-31,Phishing Attempt,Medium,False Positive,2025-01-31 14:52:14
+890,2025-04-02,Phishing Attempt,Critical,Mitigated,2025-04-02 10:08:02
+891,2025-10-09,Malware Infection,Low,False Positive,2025-10-09 12:45:02
+892,2025-02-19,DDoS Attack,Critical,Resolved,2025-02-19 22:06:36
+893,2025-01-21,Phishing Attempt,Critical,Mitigated,2025-01-21 07:41:15
+894,2025-09-17,Phishing Attempt,Medium,Open,2025-09-17 22:18:11
+895,2025-08-06,Man-in-the-Middle,Low,Mitigated,2025-08-06 03:36:33
+896,2025-10-27,Unauthorized Access,Medium,Closed,2025-10-27 13:39:41
+897,2025-08-22,SQL Injection,High,Resolved,2025-08-22 13:33:04
+898,2025-02-05,Ransomware,Critical,Mitigated,2025-02-05 21:55:43
+899,2025-08-10,Man-in-the-Middle,High,Closed,2025-08-10 14:16:36
+900,2025-08-19,Phishing Attempt,Medium,Resolved,2025-08-19 14:46:28
+901,2025-03-25,DDoS Attack,Medium,Resolved,2025-03-25 23:16:38
+902,2025-11-30,Insider Threat,Medium,Closed,2025-11-30 03:51:02
+903,2025-05-12,Data Breach,Critical,Resolved,2025-05-12 22:38:50
+904,2025-05-25,Man-in-the-Middle,Medium,Investigating,2025-05-26 01:21:52
+905,2025-11-30,Ransomware,Critical,Mitigated,2025-11-30 16:06:55
+906,2025-07-11,Man-in-the-Middle,Medium,Investigating,2025-07-11 14:47:54
+907,2025-07-16,Data Breach,High,Closed,2025-07-16 11:39:53
+908,2025-02-28,Malware Infection,Critical,Open,2025-02-28 10:16:24
+909,2025-07-08,Phishing Attempt,Medium,False Positive,2025-07-08 22:42:38
+910,2025-01-27,DDoS Attack,Critical,Resolved,2025-01-27 18:13:23
+911,2025-07-08,Data Breach,Medium,Closed,2025-07-08 19:42:52
+912,2025-03-13,Malware Infection,High,Mitigated,2025-03-13 20:40:41
+913,2025-05-30,SQL Injection,Medium,Closed,2025-05-30 04:10:46
+914,2025-05-31,Unauthorized Access,Critical,Closed,2025-05-31 22:37:48
+915,2025-08-30,Unauthorized Access,Critical,Closed,2025-08-31 00:31:15
+916,2025-03-04,Data Breach,Low,Resolved,2025-03-04 09:00:35
+917,2025-03-13,Data Breach,Critical,Mitigated,2025-03-13 09:36:43
+918,2025-08-11,Insider Threat,Critical,Closed,2025-08-11 23:38:12
+919,2025-03-29,Ransomware,Critical,Resolved,2025-03-29 19:49:12
+920,2025-02-16,Data Breach,Critical,False Positive,2025-02-16 06:53:56
+921,2025-04-25,Unauthorized Access,Low,Investigating,2025-04-25 05:13:19
+922,2024-12-31,Malware Infection,Low,False Positive,2024-12-31 09:03:47
+923,2025-03-22,Data Breach,Low,Open,2025-03-22 22:38:00
+924,2025-04-18,SQL Injection,High,Resolved,2025-04-18 10:56:45
+925,2025-10-03,SQL Injection,High,False Positive,2025-10-03 10:56:10
+926,2025-08-12,Insider Threat,Critical,Mitigated,2025-08-12 16:43:06
+927,2025-07-28,SQL Injection,Low,Closed,2025-07-28 13:23:02
+928,2025-09-22,DDoS Attack,Low,Mitigated,2025-09-22 04:56:15
+929,2025-09-23,Ransomware,Medium,Open,2025-09-23 14:12:58
+930,2025-07-28,Ransomware,Critical,Mitigated,2025-07-28 11:48:37
+931,2025-02-04,Ransomware,High,Investigating,2025-02-04 10:23:14
+932,2025-10-30,Phishing Attempt,High,Closed,2025-10-30 04:45:18
+933,2025-07-04,Data Breach,Critical,False Positive,2025-07-04 12:29:42
+934,2025-12-09,Unauthorized Access,Critical,Closed,2025-12-09 21:19:57
+935,2025-06-23,Unauthorized Access,High,Mitigated,2025-06-23 03:55:30
+936,2025-11-25,Insider Threat,Low,Investigating,2025-11-25 07:06:36
+937,2025-07-10,DDoS Attack,Low,False Positive,2025-07-10 04:36:53
+938,2025-04-23,SQL Injection,Medium,Closed,2025-04-23 13:03:47
+939,2025-07-19,DDoS Attack,Critical,Investigating,2025-07-19 09:34:23
+940,2025-06-17,Ransomware,Medium,Resolved,2025-06-17 06:07:51
+941,2025-08-05,Ransomware,Critical,Investigating,2025-08-05 05:36:20
+942,2025-02-11,Malware Infection,High,Investigating,2025-02-11 14:32:06
+943,2025-02-23,Phishing Attempt,Critical,Investigating,2025-02-23 21:52:35
+944,2025-03-11,Ransomware,High,Resolved,2025-03-11 23:22:55
+945,2025-06-18,Man-in-the-Middle,Medium,Open,2025-06-19 00:22:36
+946,2025-06-07,Phishing Attempt,Critical,Investigating,2025-06-07 07:17:09
+947,2025-01-31,Ransomware,Low,Resolved,2025-01-31 03:37:18
+948,2025-08-16,Insider Threat,Low,Resolved,2025-08-16 12:10:20
+949,2025-09-24,Man-in-the-Middle,Critical,Investigating,2025-09-24 23:33:46
+950,2024-12-29,Data Breach,Critical,Investigating,2024-12-29 17:29:23
+951,2025-09-28,DDoS Attack,Low,Resolved,2025-09-28 14:42:48
+952,2025-07-14,Man-in-the-Middle,Medium,Investigating,2025-07-14 13:54:46
+953,2025-01-22,Data Breach,Medium,False Positive,2025-01-22 18:14:24
+954,2025-01-10,Insider Threat,Critical,Closed,2025-01-10 06:10:06
+955,2025-11-29,Unauthorized Access,Medium,Closed,2025-11-29 02:48:57
+956,2025-05-02,Malware Infection,Medium,Investigating,2025-05-02 11:58:15
+957,2025-02-03,Man-in-the-Middle,High,False Positive,2025-02-04 00:20:04
+958,2025-12-08,Malware Infection,Critical,Investigating,2025-12-08 05:05:15
+959,2025-10-11,DDoS Attack,Critical,Resolved,2025-10-11 06:27:12
+960,2025-02-26,Unauthorized Access,Medium,Mitigated,2025-02-26 08:27:52
+961,2025-10-14,Data Breach,High,Open,2025-10-14 18:38:59
+962,2024-12-30,DDoS Attack,Medium,Closed,2024-12-30 06:25:19
+963,2025-11-14,Unauthorized Access,Critical,Closed,2025-11-14 10:07:14
+964,2025-10-05,SQL Injection,Medium,Open,2025-10-05 18:51:36
+965,2025-07-26,Man-in-the-Middle,Low,Closed,2025-07-26 10:28:57
+966,2025-09-21,Unauthorized Access,High,Mitigated,2025-09-21 11:12:22
+967,2025-07-05,Data Breach,High,Mitigated,2025-07-05 21:24:01
+968,2025-01-11,SQL Injection,Critical,Open,2025-01-12 00:06:03
+969,2025-10-27,SQL Injection,Low,Resolved,2025-10-27 15:18:51
+970,2025-06-27,SQL Injection,Low,Mitigated,2025-06-27 16:24:00
+971,2025-01-21,Ransomware,Critical,Mitigated,2025-01-21 19:02:10
+972,2025-03-15,Insider Threat,Low,Investigating,2025-03-15 15:41:38
+973,2025-08-23,Malware Infection,Medium,Mitigated,2025-08-23 16:56:24
+974,2025-02-21,Unauthorized Access,Medium,Mitigated,2025-02-21 10:10:10
+975,2025-07-08,DDoS Attack,High,Investigating,2025-07-09 00:57:42
+976,2025-04-06,Unauthorized Access,High,Closed,2025-04-06 10:43:15
+977,2025-06-06,Phishing Attempt,Low,Investigating,2025-06-06 12:54:33
+978,2025-04-21,Malware Infection,Critical,Open,2025-04-21 04:03:24
+979,2025-02-02,Data Breach,Medium,False Positive,2025-02-02 23:14:01
+980,2025-01-28,Man-in-the-Middle,Low,Open,2025-01-28 10:45:07
+981,2025-09-27,Insider Threat,Low,False Positive,2025-09-27 16:25:48
+982,2025-04-29,Ransomware,High,False Positive,2025-04-29 10:01:23
+983,2025-11-01,Insider Threat,Critical,Resolved,2025-11-01 19:14:55
+984,2025-04-12,Man-in-the-Middle,Low,Investigating,2025-04-12 07:36:34
+985,2025-09-15,Data Breach,Medium,Investigating,2025-09-15 00:20:35
+986,2025-11-25,Insider Threat,Medium,Resolved,2025-11-25 17:11:34
+987,2025-06-02,DDoS Attack,High,Open,2025-06-02 22:21:45
+988,2025-07-24,Man-in-the-Middle,Medium,Open,2025-07-25 00:19:14
+989,2025-10-15,Man-in-the-Middle,Medium,Resolved,2025-10-15 21:15:06
+990,2025-09-16,Data Breach,Critical,Closed,2025-09-16 22:21:40
+991,2025-01-20,Malware Infection,Low,Open,2025-01-20 09:24:44
+992,2025-10-14,Man-in-the-Middle,Critical,Resolved,2025-10-14 03:26:45
+993,2025-03-09,Malware Infection,Medium,False Positive,2025-03-09 10:13:06
+994,2025-10-30,Man-in-the-Middle,Medium,Open,2025-10-30 08:42:37
+995,2025-08-04,Insider Threat,Critical,Mitigated,2025-08-04 11:29:58
+996,2025-09-02,SQL Injection,Critical,Resolved,2025-09-02 21:19:54
+997,2025-09-06,SQL Injection,Low,Mitigated,2025-09-06 21:41:59
+998,2025-09-18,Unauthorized Access,Critical,False Positive,2025-09-18 03:27:24
+999,2025-11-15,SQL Injection,High,Mitigated,2025-11-15 14:51:33
+1000,2025-11-08,Insider Threat,Medium,Investigating,2025-11-08 18:43:45
