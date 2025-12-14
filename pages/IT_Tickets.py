@@ -63,6 +63,7 @@ def linechart(df):
     st.subheader("Tickets Over Time")
     
     # Updated column to 'created_date'
+    print(df)
     date_counts = df['created_date'].value_counts().sort_index()
     cntvalues= df['COUNT(*)'].values
     fig = exp.line(
@@ -83,7 +84,7 @@ def piechart(column) -> None:
     data = tickets.get_all_tickets("",column)
     
     # 'subject' is the equivalent of 'incident_type' in the new CSV
-    subject_counts = data['subject'].value_counts()
+    subject_counts = data[column].value_counts()
     cntvalues= data['COUNT(*)'].values   
     fig = exp.pie(
         values=cntvalues, 
@@ -166,14 +167,14 @@ def crud(operation):
         # Pass the tuple items directly to the insert function for tickets
         values = insertticket()
         if st.button('Create'):
-            new_id = tickets.insert_ticket(values)
+            new_id = tickets.insert_ticket(values[0], values[1], values[2], values[3], values[4])
             st.success("IT Ticket '{}' logged successfully.".format(new_id))
 
     elif operation == "Update":
         # Pass the tuple items to the update function
         values = updateticket()
         if st.button('Update'):
-            if tickets.update_ticket(values):
+            if tickets.update_ticket(values[0], values[1], values[2], values[3], values[4]):
                 st.success("Ticket '{}' modified successfully.".format(values[0]))
             else:
                 st.error("Unable to update ticket '{}'.".format(values[0]))
@@ -256,6 +257,8 @@ def logout():
         st.switch_page("home.py")
 
 if __name__ == "__main__": 
+    
+
     client = OpenAI(api_key = st.secrets['OPENAI_API_KEY'])
     check_login()
     st.title("IT Tickets Dashboard")
@@ -265,8 +268,8 @@ if __name__ == "__main__":
         column=selectcolumn()
         data=tickets.get_all_tickets("",column)
         barchart(data,column)
-        linechart(tickets.get_all_tickets("",column))
         piechart(column)
+        linechart(tickets.get_all_tickets("","created_date"))
     with crudop:
         st.subheader("Manage IT Tickets")
         operation = st.selectbox("Select Operation", ["Read", "Create", "Update", "Delete"])

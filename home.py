@@ -3,6 +3,8 @@ import app.services.user_service as LoginRegister
 import app.data.schema as Schema
 import auth
 import app.data.incidents as CyberFuncs
+import app.data.datasets as dt
+import app.data.tickets as tickets
 def LoginCheck() -> None:
     """
     Checks if user has logged in through Login Page. Sets values to False/None if not
@@ -120,7 +122,8 @@ def Register(registerTab):
 
 
 if __name__ == "__main__": 
-    
+ 
+  
     Schema.create_all_tables()
     LoginCheck()
     GoCyber()
