@@ -48,7 +48,7 @@ def barchart(data, xAxis: str):
     Create and display a bar chart using Plotly Express.
     """
     # Updated text to reflect IT Tickets context
-    st.subheader("Breakdown of "+xAxis+" Subjects")
+    st.subheader("Breakdown of "+xAxis)
 
     # Updated title to match the dataset (assuming xAxis maps to subject/priority)
     fig = exp.bar(data, x=xAxis,y="COUNT(*)", title=xAxis+" Distribution")
@@ -89,7 +89,7 @@ def piechart(column) -> None:
     fig = exp.pie(
         values=cntvalues, 
         names=subject_counts.index, 
-        title=column+" Subject Distribution"
+        title=column+" Distribution"
     )
     st.plotly_chart(fig)
 
