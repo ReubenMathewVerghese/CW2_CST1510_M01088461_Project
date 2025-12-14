@@ -46,9 +46,9 @@ def barchart(data, xAxis: str):
     """
     Create and display a bar chart using Plotly Express.
     """
-    st.subheader("Breakdown of Incident Types")
+    st.subheader("Breakdown of"+" "+xAxis)
 
-    fig = exp.bar(data, x=xAxis,y="COUNT(*)",title="Incident Types Distribution")
+    fig = exp.bar(data, x=xAxis,y="COUNT(*)",title=xAxis+" Distribution")
     
     st.plotly_chart(fig)
 
@@ -67,11 +67,11 @@ def piechart(column)->None:
     """
     Creates a pie chart showing the distribution of incident types.
     """
-    st.subheader("Incident Types Distribution")
+    st.subheader(column+" Distribution")
     data = CyberFuncs.get_all_incidents("",column)
     incident_counts = data[column].value_counts()
     cntvalues = data['COUNT(*)'].values
-    fig = exp.pie(values=cntvalues, names=incident_counts.index, title="Incident Types Distribution")
+    fig = exp.pie(values=cntvalues, names=incident_counts.index, title=column+" Distribution")
     st.plotly_chart(fig)
 
 def insertincident():
